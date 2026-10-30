@@ -1,0 +1,605 @@
+---
+pagetitle: Achievement Gaps or Progress Gaps? How to Quantify Equal Educational Opportunity
+description: Achievement Gaps or Progress Gaps? How to Quantify Equal Educational Opportunity — ColoNCLB, September 12, 2007. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Achievement Gaps or Progress Gaps?
+How to Quantify Equal Educational Opportunity
+
+ Damian W. Betebenner
+ Center for Assessment
+ Dover, NH
+
+ NCLB Director’s Meeting
+ Denver, CO
+ September 12th, 2007
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ No Child Left Behind
+ Measuring EEOA
+ Equal Educational Outcomes
+
+No Child Left Behind (NCLB)
+
+ NCLB performance mandates, embedded within state
+ accountability systems, are centrally focused on a school’s
+ percentage of students at or above proficient.
+ Universal proficiency mandates apply to numerous relevant
+ subgroups.
+ The result has been renewed attention on achievement gaps
+ and strategies for their reduction.
+ The mandate to close achievement gaps often avoids critical
+ examination. This paper/presentation seeks:
+ to ground the discussion of achievement gaps and their
+ amelioration within an explicit EEO framework; and
+ to put forward a morally compelling and quantifiable criterion
+ by which to judge whether achievement based EEO exists.
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Conceptions of EEO
+ Measuring EEOA
+ Equal Educational Outcomes
+
+Equal Educational Opportunity (EEO)
+
+ What is the moral imperative to close achievement gaps? This
+ demand is built into NCLB but often goes unquestioned.
+ The most obvious ethical foundation upon which to base the
+ reduction of achievement gaps is Equal Educational
+ Opportunity. That is, the existence of achievement gaps is
+ symptomatic of a system lacking EEO.
+ Implicit within the gap closing accountability mandates of
+ NCLB is a very stringent notion of EEO that bears clarification.
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Conceptions of EEO
+ Measuring EEOA
+ Equal Educational Outcomes
+
+Formalist versus Results Based Conceptions
+
+ Conceptions of EEO can roughly be divided into two groups:
+ formalist versus results-based
+ A formalist conception of EEO requires only the absence of
+ formal barriers to access—for example, de jure segregation.
+ Less stringent formalist conceptions call for equalizing various
+ inputs (e.g., the quality of teachers, library holdings, etc.)
+ Formalist conceptions of EEO are currently out of favor.
+ Accountability systems founded on NCLB achievement
+ mandates have ushered in an emphasis on outcomes/results.
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Conceptions of EEO
+ Measuring EEOA
+ Equal Educational Outcomes
+
+Results Based Conceptions
+ Results-based conceptions of EEO employ educational
+ outcomes to ascertain whether EEO exists (e.g., achievement
+ test scores, graduation rates, etc.)
+ Results based conceptions differ from formal approaches in
+ that they take into account the entering characteristics of
+ students.
+ Results-based conceptions of EEO differ in the extent to
+ which equality in outcomes must occur across the types of
+ educational results (e.g., what subjects) and within those
+ types (to what extent—equal scale scores versus equal
+ percentages above a threshold).
+ Strict equality of results both across and within types marks
+ the most demanding end of the continuum. A view which
+ nobody, to our knowledge, endorses.
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Conceptions of EEO
+ Measuring EEOA
+ Equal Educational Outcomes
+
+Conditional versus Unconditional Thresholds
+
+ NCLB exemplifies a relatively strong results-based conception
+ of EEO, namely an unconditional threshold conception.
+ By 2014, without conditioning upon race, socio-economic
+ status, gender, or prior achievement, NCLB requires all
+ students perform at or above a state defined proficiency
+ threshold in reading, writing, mathematics, and science.
+ Though morally compelling, placing sole responsibility on
+ schools to fulfill these requirements is guaranteed to fail.
+ Our goal is to introduce a more rigorous measure of EEO
+ based upon a conditional threshold conception that better
+ illustrates (un)equal educational opportunity.
+ To avoid impoverishing EEO by looking only at test results, we
+ focus on an aspect of EEO manifest in achievement
+ data—Equal Educational Opportunity for Achievement (EEOA)
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+Achievement Gaps and EEOA
+
+ The frequent use of achievement gaps belies their unsuitability for
+ inferences concerning EEOA
+
+ 90 100 90 100
+
+ 80 80
+
+ 70 70
+ Girls Girls
+
+ Percent Proficient Percent Proficient
+ 60 60
+
+ 50 50
+
+ 40 40
+ Boys Boys
+ 30 30
+
+ 20 20
+
+ 10 10
+
+ 0 0
+
+ Grade 3 Grade 4 Grade 3 Grade 4
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+Achievement Gaps and EEOA
+
+ If quantifying EEOA is the goal, how can one approach this task.
+ A reasonable criterion is that we have obtained educational
+ equity when representatives of different racial, gender, and
+ socioeconomic origins have about the same probabilities of
+ reaching different educational outcomes [Levin, 1994, p. 168].
+
+ This criterion is probabilistic in nature. We modify Levin’s criterion
+ using conditional threshold conception of EEOA.
+ EEOA requires that representatives of different racial, gender,
+ and socioeconomic subgroups have equal chances of
+ reaching any academic proficiency threshold conditional upon
+ recent achievement.
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+Representing EEOA
+
+ EEOA demands equal probability for advancement
+
+ 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+ Probability of Reaching Threshold
+ White
+
+ African
+ American
+
+ Achievement
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+EEOA and DIF
+
+ EEOA demands equal probability for advancement
+
+ 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0
+ Probability Ratio (White/African American)
+
+ of Reaching Proficiency Threshold
+
+ Achievement
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Ratio (White/Subgroup) of Probability of Reaching Proficient
+ Grades 3 and 4 CSAP Reading
+ 2.00
+
+Ratio of Advancement Probabilities
+ 1.50
+
+ 1.00
+
+ 0.50
+
+ 0.00
+
+ 200 300 400 500 600 700 800
+
+ Grade 3 Scale Score</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Ratio (White/Subgroup) of Probability of Reaching Proficient
+ Grades 3 and 4 CSAP Math
+ 2.00
+
+Ratio of Advancement Probabilities
+ 1.50
+
+ 1.00
+
+ 0.50
+
+ 0.00
+
+ 200 300 400 500 600 700
+
+ Grade 3 Scale Score</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+Estimation
+ Logistic regression is used to estimate the probability of
+ reaching the performance threshold.
+
+ exp(b0 + b1 x + b2 g + b3 xg )
+ Pr(Y = 1 | X = x , G = g ) =
+ 1 + exp(b0 + b1 x + b2 g + b3 xg )
+
+ Estimation is problematic because the dependent variable is
+ measured with error. That is, the discreet dependent variable is
+ subject to misclassification.
+ Recent advances in the analysis of additive measurement error
+ models allow for the estimation of the model parameters given
+ known misclassification probabilities [Küchenhoff et al., 2006,
+ Cook and Stefanski, 1994].
+ Estimation of model parameters was performed using the R
+ software language with the SIMEX
+ library [R Development Core Team, 2006].
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+EEOA versus Opportunity for All
+ One must distinguish equality between groups from lack of
+ opportunity for all
+
+ Probability of Reaching Threshold
+ 1.0
+
+ 0.8
+ Acceptable
+ 0.6 Region White
+
+ 0.4
+ African
+ American
+ 0.2
+
+ 0.0
+
+ Achievement
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+EEOA and Different Thresholds
+ Depending upon threshold stringency, different pictures of EEOA
+ emerge
+ Low Proficiency Threshold
+
+ 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+ Probability of Reaching Threshold
+ White
+
+ African
+ American
+
+ Achievement
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+EEOA and Different Thresholds
+ Depending upon threshold stringency, different pictures of EEOA
+ emerge
+ Medium Proficiency Threshold
+
+ 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+ Probability of Reaching Threshold
+ White
+
+ African
+ American
+
+ Achievement
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Achievement Gaps &amp; EEO
+ NCLB, EEO &amp; Achievement Gaps Representing EEOA
+ Measuring EEOA Opportunity for All or EEOA?
+ Equal Educational Outcomes Threshold Stringency and EEOA
+
+EEOA and Different Thresholds
+ Depending upon threshold stringency, different pictures of EEOA
+ emerge
+ High Proficiency Threshold
+
+ 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+ Probability of Reaching Threshold
+ White
+
+ African
+ American
+
+ Achievement
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Two Criticisms
+ Measuring EEOA
+ Equal Educational Outcomes
+
+Not Demanding Enough?
+
+ Two potential criticisms of EEOA are that it is not demanding
+ enough while another is that is it too demanding.
+ With regard to the former, it appears that EEOA, which
+ conditions upon prior achievement, fails to close achievement
+ gaps for groups differing at the outset.
+ An outcomes based conception of EEO requires “parity among
+ groups of individuals on all educational outcomes that affect an
+ individual’s chances to enjoy other social goods [Howe, 1989,
+ p. 333].
+ Equal probability for advanced, however, is not equivalent to
+ adding a fixed amount to regular intervals to each group’s
+ achievement score (i.e., equal treatment inputs).
+ We consider the education system as an ergodic stochastic
+ process. As such, EEOA implies that all groups will converge to
+ the same steady state.
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Two Criticisms
+ Measuring EEOA
+ Equal Educational Outcomes
+
+Education as an Ergodic Social Process
+ A depiction of convergence to steady state given EEOA
+
+ 100
+
+ ● ●
+ ● ●
+ 90 ●
+ ●
+ ●
+ ●
+ 80 ●
+ ●
+
+ ●
+ 70
+ ●
+
+ 60
+
+ Percent Proficient
+ 50
+
+ 40 Grade 1 Percentages:
+ African American: 35.00
+ White: 65.00
+
+ 30
+ Grade 12 Percentages:
+ African American: 89.01
+ 20 White: 93.20
+
+ 10
+
+ 0
+
+ 1 2 3 4 5 6 7 8 9 10 11 12
+
+ Grade
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Two Criticisms
+ Measuring EEOA
+ Equal Educational Outcomes
+
+Too Demanding?
+
+ Even after adjusting for prior achievement, we do not mean to
+ suggest that EEOA gaps are the “fault” of bad teachers or
+ schools.
+ The primary purpose of our analyses is not the uncover the
+ “blame worthy perpetrator” [Edley, 2006].
+ Lack of resources outside of school continue to diminish a
+ students chances for advancement even after adjustment for
+ prior achievement.
+ However, the gap is something that society in toto is
+ responsible for.
+ Our goal is to try and put as fine a point as possible on
+ achievement disparities and to help “marshal a consensus to
+ narrow [them]” [Edley, 2006].
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ NCLB, EEO &amp; Achievement Gaps
+ Two Criticisms
+ Measuring EEOA
+ Equal Educational Outcomes
+
+References
+ Cook, J. R. and Stefanski, L. A. (1994).
+ Simulation-extrapolation estimation in parametric
+ measurement error models.
+ Journal of the American Statistical Association, 89:1314–1328.
+ Edley, C. (2006).
+ Educational “Opportunity&quot; is the highest civil rights priority. so
+ what should researchers and lawyers do about it?
+ Retrieved June 22, 2006 from the World Wide Web: http:
+ //www.softconference.com/MEDIA/WMP/260407/#43.010.
+ Howe, K. R. (1989).
+ In defense of outcomes-based conceptions of equal
+ educational opportunity.
+ Educational Theory, 39(4):317–336.
+ Küchenhoff, H., Mwalili, S. M., and Lesaffre, E. (2006).
+ A general method for dealing with misclassification in
+ regression: The misclassification SIMEX.
+ Biometrics, 62:85–96.
+ Levin, H. M. (1994).
+ The necessary and sufficient conditions for achieving
+ educational equity.
+ In Berne, R. and Picus, L. O., editors, Outcome Equity in
+ Education. Corwin Press, Inc., Thousand Oaks, California.
+ R Development Core Team (2006).
+ R: A language and environment for statistical computing.
+ R Foundation for Statistical Computing, Vienna, Austria.
+ 3-900051-07-0.
+
+ D. Betebenner On Achievement Gaps and Equal Educational Opportunity</div>
+```
+
+## About this copy {.archive-about}
+
+*Achievement Gaps or Progress Gaps? How to Quantify Equal Educational Opportunity* — ColoNCLB, September 12, 2007.
+
+This is an image-based copy of the original PDF slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2007-09-12-colonclb-achievement-gaps-or-progress-gaps-how-to-quantify-equal-educational-op/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2007-09-12-colonclb-achievement-gaps-or-progress-gaps-how-to-quantify-equal-educational-op.pdf)
+- [All talks](https://dbetebenner.github.io/talks/)

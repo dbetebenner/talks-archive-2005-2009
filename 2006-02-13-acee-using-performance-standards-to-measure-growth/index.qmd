@@ -1,0 +1,2367 @@
+---
+pagetitle: Using Performance Standards to Measure Growth
+description: Using Performance Standards to Measure Growth — ACEE, February 2006. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Using Performance Standards to Measure Growth
+
+ Damian W. Betebenner
+
+ Lynch School of Education
+ Boston College
+
+ Association of Colorado Educational Evaluators (ACEE)
+ February 17th, 2006
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all students
+ will perform at a proficient or higher level in reading and math.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all students
+ will perform at a proficient or higher level in reading and math.
+ Concern that this mandate is unrealizable has led some experts
+ to propose modifying NCLB’s AYP criteria to incorporate
+ student growth.[Kingsbury et al., 2004, Hill, 2003]
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all students
+ will perform at a proficient or higher level in reading and math.
+ Concern that this mandate is unrealizable has led some experts
+ to propose modifying NCLB’s AYP criteria to incorporate
+ student growth.[Kingsbury et al., 2004, Hill, 2003]
+ Is analyzing growth the answer?
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all students
+ will perform at a proficient or higher level in reading and math.
+ Concern that this mandate is unrealizable has led some experts
+ to propose modifying NCLB’s AYP criteria to incorporate
+ student growth.[Kingsbury et al., 2004, Hill, 2003]
+ Is analyzing growth the answer?
+ What is the question one wishes to answer?
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all students
+ will perform at a proficient or higher level in reading and math.
+ Concern that this mandate is unrealizable has led some experts
+ to propose modifying NCLB’s AYP criteria to incorporate
+ student growth.[Kingsbury et al., 2004, Hill, 2003]
+ Is analyzing growth the answer?
+ What is the question one wishes to answer?
+ What is the phenomenon one wishes to describe?
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+No Child Left Behind (NCLB)
+
+ The primary impetus, for better or worse, toward accountability
+ systems built around assessment outcomes has been NCLB.
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all students
+ will perform at a proficient or higher level in reading and math.
+ Concern that this mandate is unrealizable has led some experts
+ to propose modifying NCLB’s AYP criteria to incorporate
+ student growth.[Kingsbury et al., 2004, Hill, 2003]
+ Is analyzing growth the answer?
+ What is the question one wishes to answer?
+ What is the phenomenon one wishes to describe?
+ Answering these questions requires some common terminology.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+Carlson’s (2001) Taxonomy of Measures
+
+ How Good is this School? Is it Getting Better?
+
+ A1: What is the achievement level of stu- A2: Is the achievement level of this
+
+ Achievement
+ dents in this school? school increasing?
+
+ Examples: Percent proficient students, Examples: Percent NCLB proficient over
+ mean scale score, composite performance time, school improvement index.
+ index.
+
+ E1: Is this an effective school? That is, E2: Is this school becoming more effec-
+
+ Effectiveness
+ given the achievement level of students tive? How much more, or less, are the
+ when they enter, how much do they learn students learning this year than they did
+ or develop while they are in the school? the year before?
+
+ Examples: Gain scores, value-added Examples: None in widespread use (to
+ residuals, transition matrices. my knowledge).
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+Carlson’s (2001) Taxonomy of Measures
+
+ How Good is this School? Is it Getting Better?
+
+ A1: What is the achievement level of stu- A2: Is the achievement level of this
+
+ Achievement
+ dents in this school? school increasing?
+
+ Examples: Percent proficient students, Examples: Percent NCLB proficient over
+ mean scale score, composite performance time, school improvement index.
+ index.
+
+ E1: Is this an effective school? That is, E2: Is this school becoming more effec-
+
+ Effectiveness
+ given the achievement level of students tive? How much more, or less, are the
+ when they enter, how much do they learn students learning this year than they did
+ or develop while they are in the school? the year before?
+
+ Examples: Gain scores, value-added Examples: None in widespread use (to
+ residuals, transition matrices. my knowledge).
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+Carlson’s (2001) Taxonomy of Measures
+
+ How Good is this School? Is it Getting Better?
+
+ A1: What is the achievement level of stu- A2: Is the achievement level of this
+
+ Achievement
+ dents in this school? school increasing?
+
+ Examples: Percent proficient students, Examples: Percent NCLB proficient over
+ mean scale score, composite performance time, school improvement index.
+ index.
+
+ E1: Is this an effective school? That is, E2: Is this school becoming more effec-
+
+ Effectiveness
+ given the achievement level of students tive? How much more, or less, are the
+ when they enter, how much do they learn students learning this year than they did
+ or develop while they are in the school? the year before?
+
+ Examples: Gain scores, value-added Examples: None in widespread use (to
+ residuals, transition matrices. my knowledge).
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+Carlson’s (2001) Taxonomy of Measures
+
+ How Good is this School? Is it Getting Better?
+
+ A1: What is the achievement level of stu- A2: Is the achievement level of this
+
+ Achievement
+ dents in this school? school increasing?
+
+ Examples: Percent proficient students, Examples: Percent NCLB proficient over
+ mean scale score, composite performance time, school improvement index.
+ index.
+
+ E1: Is this an effective school? That is, E2: Is this school becoming more effec-
+
+ Effectiveness
+ given the achievement level of students tive? How much more, or less, are the
+ when they enter, how much do they learn students learning this year than they did
+ or develop while they are in the school? the year before?
+
+ Examples: Gain scores, value-added Examples: None in widespread use (to
+ residuals, transition matrices. my knowledge).
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+What is the phenomenon of interest?
+
+Carlson’s (2001) Taxonomy Interpretation
+ How Good is this School? Is it Getting Better? How Good? Measures located in
+ A1: What is the achievement level of stu- A2: Is the achievement level of this
+ column 1 concern issues most
+ Achievement
+ dents in this school? school increasing?
+
+ Examples: Percent proficient students,
+ mean scale score, composite performance
+ index.
+ Examples: Percent NCLB proficient over
+ time, school improvement index. relevant to parents: What’s
+ E1: Is this an effective school? That is, E2: Is this school becoming more effec-
+ happening now?
+
+ Effectiveness
+ given the achievement level of students tive? How much more, or less, are the
+ when they enter, how much do they learn students learning this year than they did
+ or develop while they are in the school? the year before?
+
+ Examples: Gain scores, value-added Examples: None in widespread use (to
+ residuals, transition matrices. my knowledge).
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+What is the phenomenon of interest?
+
+Carlson’s (2001) Taxonomy Interpretation
+ How Good is this School? Is it Getting Better? How Good? Measures located in
+ A1: What is the achievement level of stu- A2: Is the achievement level of this
+ column 1 concern issues most
+ Achievement
+ dents in this school? school increasing?
+
+ Examples: Percent proficient students,
+ mean scale score, composite performance
+ index.
+ Examples: Percent NCLB proficient over
+ time, school improvement index. relevant to parents: What’s
+ E1: Is this an effective school? That is, E2: Is this school becoming more effec-
+ happening now?
+
+ Effectiveness
+ given the achievement level of students tive? How much more, or less, are the
+ when they enter, how much do they learn
+ or develop while they are in the school?
+ students learning this year than they did
+ the year before? Getting Better? Measures located
+ Examples: Gain scores, value-added Examples: None in widespread use (to
+ residuals, transition matrices. my knowledge).
+ in column 2 concern issues most
+ relevant to those studying
+ schools: What’s happening over
+ time?
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+What does one want to describe?
+
+ Currently the term growth is used to describe numerous
+ phenomena?
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+What does one want to describe?
+
+ Currently the term growth is used to describe numerous
+ phenomena?
+ When student growth is examined, the inference of interest is
+ effectiveness (e.g., school, teacher, . . . ). This is Cell E1.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+What does one want to describe?
+
+ Currently the term growth is used to describe numerous
+ phenomena?
+ When student growth is examined, the inference of interest is
+ effectiveness (e.g., school, teacher, . . . ). This is Cell E1.
+ When school growth is examined (vis-à-vis NCLB), the
+ conclusion one wishes to address concerns improvement. This
+ is Cell A2.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+What does one want to describe?
+
+ Currently the term growth is used to describe numerous
+ phenomena?
+ When student growth is examined, the inference of interest is
+ effectiveness (e.g., school, teacher, . . . ). This is Cell E1.
+ When school growth is examined (vis-à-vis NCLB), the
+ conclusion one wishes to address concerns improvement. This
+ is Cell A2.
+ Growth is often used to convey individual change as well as
+ institutional change. However, these types of growth relate to
+ different issues.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+What does one want to describe?
+
+ Currently the term growth is used to describe numerous
+ phenomena?
+ When student growth is examined, the inference of interest is
+ effectiveness (e.g., school, teacher, . . . ). This is Cell E1.
+ When school growth is examined (vis-à-vis NCLB), the
+ conclusion one wishes to address concerns improvement. This
+ is Cell A2.
+ Growth is often used to convey individual change as well as
+ institutional change. However, these types of growth relate to
+ different issues.
+ An excellent example of this confusion is the old SAR
+ Improvement Rating: Previously a school improvement
+ measure, currently a student growth measure.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+How are Status and Growth Related
+
+ Confusion between different measures is the result of an
+ inability to see how growth (“effectiveness”) and status
+ (achievement) are related.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+How are Status and Growth Related
+
+ Confusion between different measures is the result of an
+ inability to see how growth (“effectiveness”) and status
+ (achievement) are related.
+ It’s clear that greater growth/effectiveness leads to higher
+ achievement. Thus Cells E1 and A1 are related.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+How are Status and Growth Related
+
+ Confusion between different measures is the result of an
+ inability to see how growth (“effectiveness”) and status
+ (achievement) are related.
+ It’s clear that greater growth/effectiveness leads to higher
+ achievement. Thus Cells E1 and A1 are related.
+ Similarly, it’s clear that increasing effectiveness over time
+ leads to increasing levels of achievement. Thus, Cells E2 and
+ A2 are related.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+How are Status and Growth Related
+
+ Confusion between different measures is the result of an
+ inability to see how growth (“effectiveness”) and status
+ (achievement) are related.
+ It’s clear that greater growth/effectiveness leads to higher
+ achievement. Thus Cells E1 and A1 are related.
+ Similarly, it’s clear that increasing effectiveness over time
+ leads to increasing levels of achievement. Thus, Cells E2 and
+ A2 are related.
+ Given the steadily increasing achievement mandates of NCLB,
+ there must coincide an increase in growth/effectiveness.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Standards Based Growth
+ Institutional or Individual Growth
+ Growth and Policy Mandates
+
+How are Status and Growth Related
+
+ Confusion between different measures is the result of an
+ inability to see how growth (“effectiveness”) and status
+ (achievement) are related.
+ It’s clear that greater growth/effectiveness leads to higher
+ achievement. Thus Cells E1 and A1 are related.
+ Similarly, it’s clear that increasing effectiveness over time
+ leads to increasing levels of achievement. Thus, Cells E2 and
+ A2 are related.
+ Given the steadily increasing achievement mandates of NCLB,
+ there must coincide an increase in growth/effectiveness.
+ How much more effective must the education system be in
+ order to bring about the achievement mandates of NCLB?
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+
+ Change (growth) is modeled via student movement between
+ performance levels. For example, with the CSAP:
+ unsatisfactory, partially proficient, proficient, and advanced.
+ Student movement usually refers to annual change.
+ However, student movement can refer to long term change.
+ For example, between the beginning and end of middle school
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+
+ Change (growth) is modeled via student movement between
+ performance levels. For example, with the CSAP:
+ unsatisfactory, partially proficient, proficient, and advanced.
+ Student movement usually refers to annual change.
+ However, student movement can refer to long term change.
+ For example, between the beginning and end of middle school
+ Growth estimates are quantified as transition probabilities.
+ That is, the probability of observing a transition between
+ performance categories from one year to the next.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+
+ Change (growth) is modeled via student movement between
+ performance levels. For example, with the CSAP:
+ unsatisfactory, partially proficient, proficient, and advanced.
+ Student movement usually refers to annual change.
+ However, student movement can refer to long term change.
+ For example, between the beginning and end of middle school
+ Growth estimates are quantified as transition probabilities.
+ That is, the probability of observing a transition between
+ performance categories from one year to the next.
+ Growth formulated in terms of transition probabilities readily
+ integrates with standards based accountability initiatives in
+ ways that scale score based analyses can’t.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+
+ AD
+
+ PR
+
+ PP
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ AD
+ performance level from year to year.
+
+ PR
+
+ PP
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ AD
+ performance level from year to year.
+ Some students move up in
+ performance level from year to year.
+ PR
+
+ PP
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ AD
+ performance level from year to year.
+ Some students move up in
+ performance level from year to year.
+ PR
+ Some students move down in
+ performance level from year to year.
+
+ PP
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ AD
+ performance level from year to year.
+ Some students move up in
+ performance level from year to year.
+ PR
+ Some students move down in
+ performance level from year to year.
+ Rarely do students jump one or
+ PP
+ more performance levels.
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+
+ AD
+
+ PR
+
+ PP
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+ For example, there might be a 70%
+ .7 AD
+ chance for a student to remain at the
+ advanced performance level.
+
+ PR
+
+ PP
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+ For example, there might be a 70%
+ .7 AD
+ chance for a student to remain at the
+ advanced performance level.
+ Similarly, there might be a 50%
+ PR
+ chance of moving from unsatisfactory
+ to partially proficient in the next year.
+
+ PP
+
+ .5
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+ For example, there might be a 70%
+ .7 AD
+ chance for a student to remain at the
+ .3 advanced performance level.
+ Similarly, there might be a 50%
+ PR
+ chance of moving from unsatisfactory
+ to partially proficient in the next year.
+ These conditions impose constraints
+ PP
+ upon other performance level
+ .5
+ transitions.
+
+ .5 UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Probabilities
+An Illustration from Grade 3 to 4
+
+ Diagram Transition Matrix
+
+ AD
+ Grade 4
+ AD PR PP UN
+  
+ AD
+ PR  
+ PR Grade 3  
+ PP  
+ UN
+
+ PP
+
+ UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Probabilities
+An Illustration from Grade 3 to 4
+
+ Diagram Transition Matrix
+ .45 AD
+ Grade 4
+ AD PR PP UN
+  
+ AD .45
+ PR  .82 
+ .82 PR Grade 3  
+ PP  .49 
+ UN .61
+ .49 PP
+
+ .61 UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Probabilities
+An Illustration from Grade 3 to 4
+
+ Diagram Transition Matrix
+ .45 AD
+ Grade 4
+ AD PR PP UN
+  
+ .17
+ AD .45
+ PR 
+  .17 .82
+ 
+ .82 PR Grade 3 
+ PP  .31 .49 
+ .31 UN .37 .61
+ .49 PP
+
+ .37
+
+ .61 UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Probabilities
+An Illustration from Grade 3 to 4
+
+ Diagram Transition Matrix
+ .45 AD
+ Grade 4
+ AD PR PP UN
+  
+ .17 .55
+ AD .45 .55
+ PR 
+  .17 .82 .01
+ 
+ .82 PR Grade 3 
+ PP  .31 .49 .20 
+ .31 .01 UN .37 .61
+ .49 PP
+
+ .37 .20
+
+ .61 UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Probabilities
+An Illustration from Grade 3 to 4
+
+ Diagram Transition Matrix
+ .45 AD
+ Grade 4
+ AD PR PP UN
+  
+ .17 .55
+ AD .45 .55 .00 .00
+ PR 
+  .17 .82 .01 .00 
+ .82 PR Grade 3 
+ .02
+ PP  .00 .31 .49 .20 
+ .31 .01 UN .00 .02 .37 .61
+ .49 PP
+
+ .37 .20
+
+ .61 UN
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrices
+The Best and Worst Situations
+
+Transition Matrix Interpretation
+ AD PR PP UN Here, all students have a
+ AD
+ 
+ 1 0 0 0
+  100% chance of being
+ PR  advanced in the subsequent
+  1 0 0 0 
+ 
+ PP  1 0 0 0  year, regardless of their
+ UN 1 0 0 0 starting point.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrices
+The Best and Worst Situations
+
+Transition Matrix Interpretation
+ AD PR PP UN Here, all students have a
+ AD
+ 
+ 1 0 0 0
+  100% chance of being
+ PR  advanced in the subsequent
+  1 0 0 0 
+ 
+ PP  1 0 0 0  year, regardless of their
+ UN 1 0 0 0 starting point.
+ Here, all students have a
+ AD PR PP UN 100% chance of being
+   unsatisfactory, regardless of
+ AD 0 0 0 1
+ their starting point.
+  0 0 0 1 
+ PR  
+ PP  0 0 0 1 
+ UN 0 0 0 1
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrices and Growth
+
+ Clearly, extreme transitions where 100% of students, in the
+ next grade, subsequently become either advanced or
+ unsatisfactory are unlikely to occur.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/46.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrices and Growth
+
+ Clearly, extreme transitions where 100% of students, in the
+ next grade, subsequently become either advanced or
+ unsatisfactory are unlikely to occur.
+ Using more reasonable transition matrices, it is possible to
+ determine what growth is sufficient to fulfill the policy based
+ proficiency mandates.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrices and Growth
+
+ Clearly, extreme transitions where 100% of students, in the
+ next grade, subsequently become either advanced or
+ unsatisfactory are unlikely to occur.
+ Using more reasonable transition matrices, it is possible to
+ determine what growth is sufficient to fulfill the policy based
+ proficiency mandates.
+ Once this growth has been modeled for the system, the
+ transition matrices that sustain such a system indicate how
+ much better the system has to become.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/48.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrices and Growth
+
+ Clearly, extreme transitions where 100% of students, in the
+ next grade, subsequently become either advanced or
+ unsatisfactory are unlikely to occur.
+ Using more reasonable transition matrices, it is possible to
+ determine what growth is sufficient to fulfill the policy based
+ proficiency mandates.
+ Once this growth has been modeled for the system, the
+ transition matrices that sustain such a system indicate how
+ much better the system has to become.
+ That is, one can answer the question: ”How much more
+ effective must the education system be.”
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/49.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrices and Growth
+
+ Clearly, extreme transitions where 100% of students, in the
+ next grade, subsequently become either advanced or
+ unsatisfactory are unlikely to occur.
+ Using more reasonable transition matrices, it is possible to
+ determine what growth is sufficient to fulfill the policy based
+ proficiency mandates.
+ Once this growth has been modeled for the system, the
+ transition matrices that sustain such a system indicate how
+ much better the system has to become.
+ That is, one can answer the question: ”How much more
+ effective must the education system be.”
+ The key to determining “how much growth is enough?” lies
+ with the simple way in which status and growth are related
+ using transition matrices.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/50.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrix Algebra
+An Illustration from Grade 3 to 4
+
+ Transition Matrix Multiplication
+
+ Grade 3 Transition Grade 4
+ × =
+ Status Matrix Status
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/51.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrix Algebra
+An Illustration from Grade 3 to 4
+
+ Transition Matrix Multiplication
+
+ Grade 3 Transition Grade 4
+ × =
+ Status Matrix Status
+
+  
+ AD .07
+  .66 
+ PR  
+ PP  .18 
+ UN .09
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/52.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrix Algebra
+An Illustration from Grade 3 to 4
+
+ Transition Matrix Multiplication
+
+ Grade 3 Transition Grade 4
+ × =
+ Status Matrix Status
+
+ AD PR PP UN
+    
+ AD .07 AD .45 .55 .00 .00
+ PR  .66 
+  PR  .17 .82
+  .01 .00 
+  × 
+ PP  .18  PP  .00 .31 .49 .20 
+ UN .09 UN .00 .02 .37 .61
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/53.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Transition Matrix Algebra
+An Illustration from Grade 3 to 4
+
+ Transition Matrix Multiplication
+
+ Grade 3 Transition Grade 4
+ × =
+ Status Matrix Status
+
+ AD PR PP UN
+      
+ AD .07 AD .45 .55 .00 .00 .14
+ PR  .66 
+  PR  .17 .82
+  .01 .00   .64 
+  ×  =  
+ PP  .18  PP  .00 .31 .49 .20   .13 
+ UN .09 UN .00 .02 .37 .61 .09
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/54.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Overview
+
+ Growth, modeled via transition probabilities in the transition
+ matrix, readily connects changes in percentages of students at
+ different performance levels over time.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/55.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Overview
+
+ Growth, modeled via transition probabilities in the transition
+ matrix, readily connects changes in percentages of students at
+ different performance levels over time.
+ Transition probability based growth relates how current status
+ turns into future status.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/56.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Overview
+
+ Growth, modeled via transition probabilities in the transition
+ matrix, readily connects changes in percentages of students at
+ different performance levels over time.
+ Transition probability based growth relates how current status
+ turns into future status.
+ Transition probability based growth is consistent with
+ standards based instruction, assessment and accountability
+ initiatives.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/57.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Standards Based Growth A Simple Illustration
+ Growth and Policy Mandates Connecting Growth with Status
+
+Overview
+
+ Growth, modeled via transition probabilities in the transition
+ matrix, readily connects changes in percentages of students at
+ different performance levels over time.
+ Transition probability based growth relates how current status
+ turns into future status.
+ Transition probability based growth is consistent with
+ standards based instruction, assessment and accountability
+ initiatives.
+ Transition probabilities, being statements of probability, are
+ easy to understand by stakeholders: teachers, parents,
+ administrators, and policy makers.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/58.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Relative or Absolute Growth
+
+ If policy dictates the future status of the education system, then
+ growth should be defined in a manner consistent with those
+ mandates.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/59.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Relative or Absolute Growth
+
+ If policy dictates the future status of the education system, then
+ growth should be defined in a manner consistent with those
+ mandates.
+ For example, NCLB mandates that all children will be at least
+ proficient by 2014. Legislation being considered in some states
+ mandates universal proficiency by the tenth grade.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/60.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Relative or Absolute Growth
+
+ If policy dictates the future status of the education system, then
+ growth should be defined in a manner consistent with those
+ mandates.
+ For example, NCLB mandates that all children will be at least
+ proficient by 2014. Legislation being considered in some states
+ mandates universal proficiency by the tenth grade.
+ Transition matrices allow one to easily model the growth
+ necessary to fulfill these goals.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/61.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Relative or Absolute Growth
+
+ If policy dictates the future status of the education system, then
+ growth should be defined in a manner consistent with those
+ mandates.
+ For example, NCLB mandates that all children will be at least
+ proficient by 2014. Legislation being considered in some states
+ mandates universal proficiency by the tenth grade.
+ Transition matrices allow one to easily model the growth
+ necessary to fulfill these goals.
+ The growth, however, is system growth. That is, how much
+ better (i.e., more effective) does the education system have to
+ become?
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/62.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Relative or Absolute Growth
+
+ If policy dictates the future status of the education system, then
+ growth should be defined in a manner consistent with those
+ mandates.
+ For example, NCLB mandates that all children will be at least
+ proficient by 2014. Legislation being considered in some states
+ mandates universal proficiency by the tenth grade.
+ Transition matrices allow one to easily model the growth
+ necessary to fulfill these goals.
+ The growth, however, is system growth. That is, how much
+ better (i.e., more effective) does the education system have to
+ become?
+ Once realistic growth targets are determined, they can be
+ translated into targets for districts, schools, and teachers.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/63.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Relative or Absolute Growth
+
+ If policy dictates the future status of the education system, then
+ growth should be defined in a manner consistent with those
+ mandates.
+ For example, NCLB mandates that all children will be at least
+ proficient by 2014. Legislation being considered in some states
+ mandates universal proficiency by the tenth grade.
+ Transition matrices allow one to easily model the growth
+ necessary to fulfill these goals.
+ The growth, however, is system growth. That is, how much
+ better (i.e., more effective) does the education system have to
+ become?
+ Once realistic growth targets are determined, they can be
+ translated into targets for districts, schools, and teachers.
+ Growth (i.e., “effectiveness”) is not determined relative to
+ others, but against a level that yields a desirable outcome.
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/64.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Illustrating Growth and Status
+    
+  0.07   0.14 
+    
+
+ All Four Types
+    
+  0.66   0.64 
+ 2006
+    
+    
+    
+  0.18   0.15 
+    
+    
+
+ Status/Achievement (Cell A1)
+    
+ 0.09 0.10
+
+ Percent of students at the four
+    
+ performance levels.
+  0.07   0.06 
+    
+    
+  0.66   0.57 
+ 2005
+    
+    
+    
+  0.18   0.24 
+    
+    
+    
+ 0.09 0.13
+
+    
+  0.07   0.07 
+    
+    
+  0.66   0.58 
+ 2004
+    
+    
+    
+  0.18   0.22 
+    
+    
+    
+ 0.09 0.13
+
+ Grade 3 Grade 4
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/65.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Illustrating Growth and Status
+    
+  0.07   0.14 
+    
+
+ All Four Types
+    
+  0.66   0.64 
+ 2006
+    
+    
+    
+  0.18   0.15 
+    
+    
+
+ Status/Achievement (Cell A1)
+    
+ 0.09 0.10
+
+ Achievement Achievement
+ Percent of students at the four
+ Change Change
+
+    
+ performance levels.
+  0.07   0.06 
+
+ 2005
+ 
+ 
+ 
+  0.66 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  0.57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change in Achievement (Cell A2)
+ Change in percentages over time.
+  0.18   0.24 
+    
+    
+    
+ 0.09 0.13
+
+ Achievement Achievement
+
+ Change Change
+
+    
+  0.07   0.07 
+    
+    
+  0.66   0.58 
+ 2004
+    
+    
+    
+  0.18   0.22 
+    
+    
+    
+ 0.09 0.13
+
+ Grade 3 Grade 4
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/66.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Illustrating Growth and Status
+    
+  0.07   0.14 
+    
+
+ All Four Types
+    
+  0.66   0.64 
+ 2006
+    
+    
+    
+  0.18   0.15 
+    
+    
+
+ Status/Achievement (Cell A1)
+    
+ 0.09 0.10
+
+  
+  0.45
+ 
+ 
+  0.17
+ 
+ 0.55
+
+ 0.82
+ 0.00
+
+ 0.01
+ 0.00 
+ 
+ 
+ 0.00 
+ 
+ Percent of students at the four
+  
+
+ performance levels.
+  
+  0.00 0.31 0.49 0.20 
+ 
+ 
+  
+  
+   0.00 0.02 0.37 0.61  
+ 0.07  0.06 
+ Change in Achievement (Cell A2)
+  
+    
+    
+  0.66   0.57 
+ 2005
+    
+    
+    
+
+ Change in percentages over time.
+  0.18   0.24 
+    
+    
+    
+ 0.09 0.13
+
+ 
+ 
+ 
+ 
+ 0.33 0.65 0.02 0.00
+ 
+ 
+ 
+ 
+ Growth/Effectiveness (Cell E1)
+  0.05 0.74 0.19 0.02
+
+ Transition probabilities/matrix.
+ 
+  
+  
+  
+  0.00 0.19 0.55 0.26
+ 
+  
+  
+  
+   0.00 0.02 0.19 0.79  
+  0.07   0.07 
+    
+    
+  0.66   0.58 
+ 2004
+    
+    
+    
+  0.18   0.22 
+    
+    
+    
+ 0.09 0.13
+
+ Grade 3 Grade 4
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/67.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Illustrating Growth and Status
+    
+  0.07   0.14 
+    
+
+ All Four Types
+    
+  0.66   0.64 
+ 2006
+    
+    
+    
+  0.18   0.15 
+    
+    
+
+ Status/Achievement (Cell A1)
+    
+ 0.09 0.10
+
+  
+  0.45
+ 
+ 
+  0.17
+ 
+ 0.55
+
+ 0.82
+ 0.00
+
+ 0.01
+ 0.00 
+ 
+ 
+ 0.00 
+ 
+ Percent of students at the four
+  
+
+ performance levels.
+  
+  0.00 0.31 0.49 0.20 
+ 
+ 
+  
+  
+   0.00 0.02 0.37 0.61  
+ 0.07  0.06 
+ Change in Achievement (Cell A2)
+  
+    
+    
+  0.66   0.57 
+
+ Effectiveness
+ 2005
+ Increasing
+    
+    
+    
+
+ Change in percentages over time.
+  0.18   0.24 
+    
+    
+    
+ 0.09 0.13
+
+ 
+ 
+ 
+ 
+ 0.33 0.65 0.02 0.00
+ 
+ 
+ 
+ 
+ Growth/Effectiveness (Cell E1)
+  0.05 0.74 0.19 0.02
+
+ Transition probabilities/matrix.
+ 
+  
+  
+  
+  0.00 0.19 0.55 0.26
+ 
+  
+  
+  
+   0.00 0.02 0.19 0.79  
+  0.07 
+ 
+ 
+ 
+ 
+  0.66 
+  0.07 
+ 
+ 
+ 
+ 
+  0.58 
+ Change in Effectiveness (Cell E2)
+ 2004
+    
+
+ Change in probabilities over time.
+    
+    
+  0.18   0.22 
+    
+    
+    
+ 0.09 0.13
+
+ Grade 3 Grade 4
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/68.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Standards Based Growth
+Growth Targets
+
+ Providing Growth Targets
+
+ Observed
+ Growth
+
+  
+ .33 .65 .02 .00
+  .05 .74 .19 .02 
+  
+  .00 .19 .55 .26 
+ .00 .02 .19 .79
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/69.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Standards Based Growth
+Growth Targets
+
+ Providing Growth Targets
+
+ Observed Target
+ Growth Growth
+
+    
+ .33 .65 .02 .00 .45 .55 .00 .00
+  .05 .74 .19 .02   .17 .82 .01 .00 
+    
+  .00 .19 .55 .26   .00 .31 .49 .20 
+ .00 .02 .19 .79 .00 .02 .37 .61
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/70.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Standards Based Growth
+Growth Targets
+
+ Providing Growth Targets
+
+ Observed Institutional Target
+ Growth Improvement Growth
+
+    
+ .33 .65 .02 .00 .45 .55 .00 .00
+  .05 .74 .19 .02   .17 .82 .01 .00 
+ 
+  .00 .19 .55
+ 
+ .26  =⇒ 
+  .00 .31 .49
+ 
+ .20 
+ .00 .02 .19 .79 .00 .02 .37 .61
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/71.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Connecting Growth to Policy
+
+ Presently, the NCLB goal of universal proficiency by 2014 is
+ written into accountability systems in terms of higher-and-higher
+ levels of achievement.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/72.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Connecting Growth to Policy
+
+ Presently, the NCLB goal of universal proficiency by 2014 is
+ written into accountability systems in terms of higher-and-higher
+ levels of achievement.
+ A valid criticism of such systems is that they fail to recognize
+ highly effective schools that work with low performing students.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/73.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Connecting Growth to Policy
+
+ Presently, the NCLB goal of universal proficiency by 2014 is
+ written into accountability systems in terms of higher-and-higher
+ levels of achievement.
+ A valid criticism of such systems is that they fail to recognize
+ highly effective schools that work with low performing students.
+ In effect, it is more valid to assess a school based upon process
+ than upon outcomes.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/74.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Connecting Growth to Policy
+
+ Presently, the NCLB goal of universal proficiency by 2014 is
+ written into accountability systems in terms of higher-and-higher
+ levels of achievement.
+ A valid criticism of such systems is that they fail to recognize
+ highly effective schools that work with low performing students.
+ In effect, it is more valid to assess a school based upon process
+ than upon outcomes.
+ Examining growth/effectiveness, does not make universal
+ proficiency easier to achieve.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/75.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Connecting Growth to Policy
+
+ Presently, the NCLB goal of universal proficiency by 2014 is
+ written into accountability systems in terms of higher-and-higher
+ levels of achievement.
+ A valid criticism of such systems is that they fail to recognize
+ highly effective schools that work with low performing students.
+ In effect, it is more valid to assess a school based upon process
+ than upon outcomes.
+ Examining growth/effectiveness, does not make universal
+ proficiency easier to achieve.
+ For example, in order for 2014 universal proficiency to exist for
+ 4th graders in reading, all unsatisfactory students in 3rd grade
+ must become partially proficient (i.e., NCLB proficient) in 4th
+ grade.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/76.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Connecting Growth to Policy
+
+ Presently, the NCLB goal of universal proficiency by 2014 is
+ written into accountability systems in terms of higher-and-higher
+ levels of achievement.
+ A valid criticism of such systems is that they fail to recognize
+ highly effective schools that work with low performing students.
+ In effect, it is more valid to assess a school based upon process
+ than upon outcomes.
+ Examining growth/effectiveness, does not make universal
+ proficiency easier to achieve.
+ For example, in order for 2014 universal proficiency to exist for
+ 4th graders in reading, all unsatisfactory students in 3rd grade
+ must become partially proficient (i.e., NCLB proficient) in 4th
+ grade.
+ Currently, only 20% of unsatisfactory 3rd graders make this
+ transition in 4th grade.
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/77.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Summary
+
+ Transition probabilities and their associated matrices allow one
+ to determine what growth is necessary to achieve universal
+ proficiency.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/78.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Summary
+
+ Transition probabilities and their associated matrices allow one
+ to determine what growth is necessary to achieve universal
+ proficiency.
+ One can simply model the future of the education system and
+ then examine whether any school exists that demonstrates the
+ growth characteristics that one desires. This is Linn’s existence
+ proof [Linn, 2003].
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/79.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Summary
+
+ Transition probabilities and their associated matrices allow one
+ to determine what growth is necessary to achieve universal
+ proficiency.
+ One can simply model the future of the education system and
+ then examine whether any school exists that demonstrates the
+ growth characteristics that one desires. This is Linn’s existence
+ proof [Linn, 2003].
+ The system improvement necessary to bring about universal
+ proficiency can be achieved in many ways—solutions are not
+ unique.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/80.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+Summary
+
+ Transition probabilities and their associated matrices allow one
+ to determine what growth is necessary to achieve universal
+ proficiency.
+ One can simply model the future of the education system and
+ then examine whether any school exists that demonstrates the
+ growth characteristics that one desires. This is Linn’s existence
+ proof [Linn, 2003].
+ The system improvement necessary to bring about universal
+ proficiency can be achieved in many ways—solutions are not
+ unique.
+ What has been outlined is a basic system to audit growth. The
+ difficult task is to bring about the desired improvement in the
+ education system that will lead to universal proficiency.
+
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## {.archive-slide background-image="slides/81.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ How much growth?
+ Standards Based Growth
+ Summary
+ Growth and Policy Mandates
+
+References
+ Carlson, D. (2001).
+ Focusing state educational accountability systems: Four
+ methods for judging school quality and progress.
+ Unpublished manuscript made available to the author.
+ Hill, R. (2003).
+ Using longitudinal designs with NCLB.
+ Technical report, Center for Assessment, Dover, NH.
+ Kingsbury, G. G., Olson, A., McCahon, D., and McCall, M.
+ (2004).
+ Adequate yearly progress using the Hybrid Success Model: A
+ suggested improvement to No Child Left Behind.
+ Technical report, Northwest Evaluation Association, Portland,
+ OR.
+ Linn, R. L. (2003).
+ Accountability: Responsibility and reasonable expectations.
+ Technical report, Center for the Study of Evaluation, CRESST,
+ Los Angeles, CA.
+ D. W. Betebenner Standards Based Growth</div>
+```
+
+## About this copy {.archive-about}
+
+*Using Performance Standards to Measure Growth* — ACEE, February 2006.
+
+This is an image-based copy of the original PDF slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2006-02-13-acee-using-performance-standards-to-measure-growth/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2006-02-13-acee-using-performance-standards-to-measure-growth.pdf)
+- [All talks](https://dbetebenner.github.io/talks/)

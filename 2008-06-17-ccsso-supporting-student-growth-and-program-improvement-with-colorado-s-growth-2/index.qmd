@@ -1,0 +1,555 @@
+---
+pagetitle: Supporting Student Growth and Program Improvement with Colorado’s Growth Model
+description: Supporting Student Growth and Program Improvement with Colorado’s Growth Model — CCSSO, June 2008. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Supporting Student Growth and
+ Program Improvement with
+ Colorado’s Growth Model
+
+ Dwayne D. Schmitz
+ (dschmitz@psdschools.org)
+
+ Poudre School District
+ Fort Collins, CO
+
+ CCSSO - June 17, 2008
+
+June 17, 2008 1
+ Dwayne Schmitz, PhD.</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Growth Percentiles Provide:
+■ Useful measures of student growth
+ ■ Typical Growth
+ ■ Adequate Growth
+
+■ Identification of programs associated with
+ unusually high or low levels of growth
+■ Individualized projections of what future levels
+ of growth will “buy” a student in terms of
+ performance levels
+
+June 17, 2008 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">June 17, 2008 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">June 17, 2008 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">June 17, 2008 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Understanding School Performance
+
+ High
+ High Status High Status
+ Low Growth High Growth
+ Achievement Level
+ (Status) Low Status Low Status
+ Low Growth High Growth
+
+ Low
+ Low Longitudinal High
+ Growth
+
+June 17, 2008 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">One Cohort’s Movement Through A
+ School – Math 2005 to 2007
+ 7th SGP Medians (2005-2007) 8th SGP Medians (2005-2007) 9th SGP Medians (2005-2007)
+
+ 80 80 80 9th
+
+ 2007
+MedSGP_7th MedSGP_8th MedSGP_9th
+ 60 60 60
+
+ 8th
+ 40 40 40
+
+ 7th 2006
+ 2005
+ 20 20 20
+
+ 2005 2006 2007 2005 2006 2007 2005 2006 2007
+
+ Year Year Year
+
+ June 17, 2008 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SES &amp; School Aggregates:
+ 9th Grade Math
+ Average Scale Score Median Growth Percentile
+ A 100
+ 650
+ A
+ A A
+ A
+ A
+ AA A
+ A AA A
+ AA AA A
+ A
+ AAA A
+ AAAA AAA A 75
+ AAAA A AA AAA A AA
+ A A A A A A
+
+MeanScaleScore
+ A AA
+ A A AAA A A A A A
+ AA A
+ 600 A A A A
+ A A
+ AAAA A A AA
+ AA A AA A A
+ AA A
+ A AA
+ AA A AA A A
+ A A A
+ A A A
+ AA A AA A AA A A AA
+ AA A AAA A AAAA A A
+ A AAA AAA A
+
+ MedSGP
+ AAA AAA AA A A A
+ AA A AA AA A A A A A
+ A A A A
+ A AA A A AA A AA A
+ A A AA AA
+ A AA A A A A A AAA AAA A
+ A
+ A A AA AA AA AA A AA AA
+ A A AA A A AA A AA A A
+ AAA A A A AA A
+ A A A A AAA A A A
+ AA A A A AA A A AA
+ A A
+ A A
+ AA A AA A A A AA
+ A AA A A AA A A A 50 AA A A
+ A A A
+ A A AA
+ AA AA AA
+ A A AA A
+ AA AAA AAAAA AA AA AA
+ A A A
+ A A A A A A AA A A
+ A AAA
+ A A AA A
+ AA A A A AA AA A A A AA A
+ A A AA A A A
+ A A AAAAA A A AA AA A
+ A AA
+ 550
+ A A A A AA A A A
+ AA A AA
+ A
+ A A A A AA AA
+ A
+ A A
+ AA
+ A A A AA A AA A A A A
+ A
+ A A A A A A A A
+ A A
+ A A A A
+ AAA A A A AA A
+ A A A 25 A
+ A A A
+ A A
+ A A
+ A A AA
+ A
+ A
+ 500
+
+ A
+ 0
+
+ 0 25 50 75 100 0 25 50 75 100
+
+ ForR_Pct ForR_Pct
+
+ R= -.759** R= -.124
+
+ June 17, 2008 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ELL &amp; School Aggregates:
+ 9th Grade Math
+ Average Scale Score Median Growth Percentile
+ A 100
+ 650
+ A
+ A
+ A
+ A AA A A
+ A
+ AAAAA A A
+ AA A
+ AA
+ A
+ AAAAA AA 75
+ A
+ AAA AA A
+ AAA
+ A A AAAAA A A
+
+MeanScaleScore
+ A
+ A AAA A
+ A A A
+ 600 A
+ A
+ A
+ A
+ A
+ AAAA
+ AA A A AA A AA A A A
+ A
+ AAAAAA AA A
+ A AAAA AAA
+ AA
+ A AAA
+ AAAA A
+ A A A
+ A A
+ AAAA AAAA AAA A A A
+
+ MedSGP
+ A AAA AA AA A A A A
+ A
+ AA
+ A AA A A AA A A AA
+ A A AAAAA A A AAAA A
+ A AAAAA A A A A A
+ AA
+ A A A
+ AA A
+ AA AAAA A A AA
+ AA A A A A A
+ AAAA A A A A
+ AAAAAAA AA A
+ AAA AA
+ A A A
+ A
+ A
+ A A
+ A
+ A AAA A
+ A AAA A
+ A A
+ AA A
+ A
+ A AA
+ A A AAA AA A A A 50 A
+ AAA A A A A
+ A
+ AA
+ A A A A
+ AAAAAAAAAAAA
+ A AA
+ A
+ A AA
+ A A
+ AAAA A AA
+ AAAA AAAAA A
+ A AA A A
+ AAAA AA A A
+ AAA A
+ AAA AA A
+ A A A
+ A A A A AAAA A AAA A A
+ AAAA A A A A A
+ 550 AA A
+ A A A
+ A AA A A A A A
+ AAAA AA A A A
+ A
+ A A AAA AA
+ A
+ A A
+ A A A A
+ A AA A A A A A
+ A A AA
+ AA A A
+ A A 25 AA AA
+ A A
+ A A A
+ A A A
+ A
+ A
+ 500
+
+ A
+ 0
+
+ 0 25 50 75 100 0 25 50 75 100
+
+ ELL_Pct ELL_Pct
+
+ R= -.542** R= .085
+
+ June 17, 2008 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validity Check: Alignment with an
+Appropriate Trajectory Model
+■ Ideally, broad conclusions regarding student
+ growth would not be sensitive to model
+ choice, assuming models used are
+ appropriate.
+
+ June 17, 2008 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">June 17, 2008 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Recall: Scatter Plots and Correlation
+ Correlation = 0.975
+ A
+
+ 6.0 A
+ Each point is a single
+ A
+ A
+ persons height
+ measured in inches
+ A A
+ 5.5
+ and in feet by
+
+ Height_ft
+ elementary students.
+ A
+ A
+
+ 5.0
+
+ A
+ A
+ The points do not fall
+ 4.5
+ A on a perfect line due to
+ A
+ A
+ A measurement error.
+ A
+
+ 4.0 A A
+
+ 50 55 60 65 70
+
+ Height_in
+June 17, 2008 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2007 CEM Effects and Median SGP 9th
+Grade Math
+ A
+
+ A
+ A
+ A A A
+ A
+ A
+ A A
+ A A
+ 20
+ AA AA A
+ AA
+ A
+ A
+ A
+ A
+ R=.833
+ A
+ A AA A A A A
+
+ CenteredEb0_07
+ A
+ A A A A AA A
+ A
+ A
+ A AA
+ A
+ A A AA A
+ A AAAA AA AA AAAA AA
+ A AA A A A
+ AA A
+ A A A AAAAA A A A
+ AAAAA
+ AAA A A A A A AAA
+ A A
+ A
+ AA
+ AAA
+ AAA A
+ A A A
+ A A A A AA A A AA A A A A
+ A
+ A
+ AA AA A AA AAA
+ AA A A A AAA
+ AA
+ A
+ A
+ AA
+ AAAAA
+ AA
+ A
+ A
+ A A A
+ A AA A AAAA
+ A
+ AAA A
+ 0 A AA A AAAA A
+ A AAA AA A
+ AAA
+ A
+ A A A AA AA
+ AAAA A AA A A A
+ A AAA AA
+ A AAAA A A AA A
+ A A A AAA AA
+ AA AAAA AAA AA AA
+ AA A A AA A A
+ A
+ A
+ A
+ AA
+ AA AAA
+ A A A A AA A AA AAA A
+ A A A AAA A AAA AA A A
+ A A A A AA AA A AA
+ AAA
+ A AA AA AA A
+ A AA A A
+ A A A
+ A A A AA A
+ A A
+ A A A
+ -20 A A
+ A A
+ A A
+ A
+ A
+ A A
+ A AA
+ A
+
+ -40
+ 0 25 50 75 100
+
+ Med_M07
+June 17, 2008 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">2007 CEM Effects and Median SGP
+Correlations for All Data Subsets
+
+Grade Reading Writing Math
+ 5 .872 .903 .920
+ 6 .855 .901 .929
+ 7 .862 .898 .836
+ 8 .774 .844 .726
+ 9 .604 .838 .833
+ 10 .810 .910 .866
+■ Note: SAR growth eligible students only.
+
+June 17, 2008 14</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Several Benefits of Student Growth
+Percentiles:
+■ Understandable at conceptual level which is
+ critical for generating meaningful discussions
+■ Provides defensible and actionable answers to
+ basic questions about academic growth
+■ Not overly dependent on measurement
+ properties of underlying instrument
+■ Readily supports secondary analysis at district
+ and school level
+
+June 17, 2008 15</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Adoption and Use of Student Growth
+Percentiles in Colorado
+■ http://www.cde.state.co.us/index_accredit.htm
+
+June 17, 2008 16</div>
+```
+
+## About this copy {.archive-about}
+
+*Supporting Student Growth and Program Improvement with Colorado’s Growth Model* — CCSSO, June 2008.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2008-06-17-ccsso-supporting-student-growth-and-program-improvement-with-colorado-s-growth-2/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-06-17-ccsso-supporting-student-growth-and-program-improvement-with-colorado-s-growth-2.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-06-17-ccsso-supporting-student-growth-and-program-improvement-with-colorado-s-growth-2.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

@@ -1,0 +1,2158 @@
+---
+pagetitle: The Importance of Performance Standards in Measures of Student Growth
+description: The Importance of Performance Standards in Measures of Student Growth — CCSSO, June 2005. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Importance of Performance Standards in
+ Measures of Student Growth
+
+ Damian W. Betebenner
+
+ Lynch School of Education
+ Boston College
+
+CCSSO 2005 National Conference on Large-Scale Assessment
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all
+ students will perform at a proficient or higher level in reading
+ and math.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all
+ students will perform at a proficient or higher level in reading
+ and math.
+ Concern that this mandate is unrealizable has led some
+ experts to propose modifying NCLB’s AYP criteria to
+ incorporate student growth.
+ [Kingsbury et al., 2004, Hill, 2003, Thum, 2003]
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+
+ NCLB requirements for testing have left states buried in data
+ with mandates to use the data to improve education.
+ The most frequently cited mandate is that by 2014 all
+ students will perform at a proficient or higher level in reading
+ and math.
+ Concern that this mandate is unrealizable has led some
+ experts to propose modifying NCLB’s AYP criteria to
+ incorporate student growth.
+ [Kingsbury et al., 2004, Hill, 2003, Thum, 2003]
+ Linn (2004), for example, suggests a combination of
+ longitudinal student analysis with an annual NCLB-like status
+ measure.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+Important Considerations
+
+ The primary goal of longitudinal data analysis should be to
+ return worthwhile information that informs, refines, alters, and
+ ultimately improves practice.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+Important Considerations
+
+ The primary goal of longitudinal data analysis should be to
+ return worthwhile information that informs, refines, alters, and
+ ultimately improves practice.
+ Currently, standards are the lingua franca of instruction,
+ assessment, and accountability.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+Important Considerations
+
+ The primary goal of longitudinal data analysis should be to
+ return worthwhile information that informs, refines, alters, and
+ ultimately improves practice.
+ Currently, standards are the lingua franca of instruction,
+ assessment, and accountability.
+ For growth analyses to be both understandable and useful,
+ they should synchronize with these standards.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+Important Considerations
+
+ The primary goal of longitudinal data analysis should be to
+ return worthwhile information that informs, refines, alters, and
+ ultimately improves practice.
+ Currently, standards are the lingua franca of instruction,
+ assessment, and accountability.
+ For growth analyses to be both understandable and useful,
+ they should synchronize with these standards.
+ The purpose of this presentation is to better situate current
+ analyses of longitudinal data within the context of
+ performance standards.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+Institutional or Individual Growth
+
+ NCLB’s AYP mandates stipulate growth. The growth,
+ however, is institutional instead of individual. For example,
+ next year’s 5th grade should outperform this year’s 5th grade.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+Institutional or Individual Growth
+
+ NCLB’s AYP mandates stipulate growth. The growth,
+ however, is institutional instead of individual. For example,
+ next year’s 5th grade should outperform this year’s 5th grade.
+ If cohorts are identical from year-to-year, then NCLB based
+ growth will likely imply institutional improvement.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+Institutional or Individual Growth
+
+ NCLB’s AYP mandates stipulate growth. The growth,
+ however, is institutional instead of individual. For example,
+ next year’s 5th grade should outperform this year’s 5th grade.
+ If cohorts are identical from year-to-year, then NCLB based
+ growth will likely imply institutional improvement.
+ A second way to assess institutional improvement is to ensure
+ that the “amount” students learn in a given grade increases
+ over time. That is, for a given grade, there is an increasing
+ rate of change in student growth.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ No Child Left Behind
+ Longitudinal Analysis of Student Data
+ Important Considerations
+ Standards Based Growth
+ Institutional or Individual Growth
+ Big Picture
+
+No Child Left Behind
+Institutional or Individual Growth
+
+ NCLB’s AYP mandates stipulate growth. The growth,
+ however, is institutional instead of individual. For example,
+ next year’s 5th grade should outperform this year’s 5th grade.
+ If cohorts are identical from year-to-year, then NCLB based
+ growth will likely imply institutional improvement.
+ A second way to assess institutional improvement is to ensure
+ that the “amount” students learn in a given grade increases
+ over time. That is, for a given grade, there is an increasing
+ rate of change in student growth.
+ A fundamental question is how to relate individual growth to
+ NCLB conceived institutional growth.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Longitudinal Data Analysis
+
+ Annual state testing of students provides mountains of
+ longitudinal data.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Longitudinal Data Analysis
+
+ Annual state testing of students provides mountains of
+ longitudinal data.
+ The most prominent type of longitudinal analysis currently
+ employed on student data are the value-added analyses
+ developed by Dr. William Sanders.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Longitudinal Data Analysis
+
+ Annual state testing of students provides mountains of
+ longitudinal data.
+ The most prominent type of longitudinal analysis currently
+ employed on student data are the value-added analyses
+ developed by Dr. William Sanders.
+ In education, value-added analysis is synonymous with
+ longitudinal analysis of data.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Longitudinal Data Analysis
+
+ Annual state testing of students provides mountains of
+ longitudinal data.
+ The most prominent type of longitudinal analysis currently
+ employed on student data are the value-added analyses
+ developed by Dr. William Sanders.
+ In education, value-added analysis is synonymous with
+ longitudinal analysis of data.
+ Using this familiarity as a starting point, consider two basic
+ questions:
+ Value-added by whom/what?
+ Value-added relative to what?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added by Whom/What?
+
+ Usually the value-added inference is to the teacher or school.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added by Whom/What?
+
+ Usually the value-added inference is to the teacher or school.
+ The term teacher effect implies that teacher actions are
+ responsible for a given effect. That is, that the teacher caused
+ the effect.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added by Whom/What?
+
+ Usually the value-added inference is to the teacher or school.
+ The term teacher effect implies that teacher actions are
+ responsible for a given effect. That is, that the teacher caused
+ the effect.
+ Determination of cause usually requires random assignment.
+ For example, in determining whether a particular curriculum is
+ effective, the gold standard employs random assignment of
+ subjects to treatment in the form of an experimental design.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added by Whom/What?
+
+ Usually the value-added inference is to the teacher or school.
+ The term teacher effect implies that teacher actions are
+ responsible for a given effect. That is, that the teacher caused
+ the effect.
+ Determination of cause usually requires random assignment.
+ For example, in determining whether a particular curriculum is
+ effective, the gold standard employs random assignment of
+ subjects to treatment in the form of an experimental design.
+ There is a great deal of debate as to whether value-added
+ analyses using observational data can accurately estimate the
+ contribution by whom/what [Rubin et al., 2004].
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added Relative to What?
+
+ Even if one can validly attribute responsibility for a measured
+ effect to a teacher/school, just what does the effect mean?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added Relative to What?
+
+ Even if one can validly attribute responsibility for a measured
+ effect to a teacher/school, just what does the effect mean?
+ Value-added usually denotes residual performance above (or
+ below) a statistically determined expectation.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added Relative to What?
+
+ Even if one can validly attribute responsibility for a measured
+ effect to a teacher/school, just what does the effect mean?
+ Value-added usually denotes residual performance above (or
+ below) a statistically determined expectation.
+ What does growth above expectation represent in terms of
+ standards based performance?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value-Added Relative to What?
+
+ Even if one can validly attribute responsibility for a measured
+ effect to a teacher/school, just what does the effect mean?
+ Value-added usually denotes residual performance above (or
+ below) a statistically determined expectation.
+ What does growth above expectation represent in terms of
+ standards based performance?
+ An answer to this question greatly enhances the
+ interpretability and utility with respect to current standards
+ based accountability initiatives.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Teacher Comparisons
+
+ Caterpillar Plot
+
+ 60
+ Mathematics Exam
+ 40 Grade 7 Teachers (N = 60 ) ●●
+ ●
+ ●●
+ ●●
+ ●●
+ 20
+
+ Residual BLUP
+ ●●●
+ ●●●●
+ District Mean ●●●●
+ ●●●●
+ 0 ●● ●●●●●●●●
+ ●●●
+ ●●
+ ●●●●●
+ ●●●●●●●
+ ●●
+ −20 ●●●
+ ●●
+ ●
+ −40 ●
+
+ −60
+
+ 0 10 20 30 40 50 60
+
+ Rank of Residual
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Teacher Comparisons
+
+Caterpillar Plot Questions
+ District Mean:
+ 60
+ Mathematics Exam
+ Relation to AYP?
+ 40
+
+ 20
+ Grade 7 Teachers (N = 60 )
+
+ ●●
+ ●●
+ ●●
+ ●
+ ●●
+ Relation to Standards?
+ Residual BLUP
+ ●●●
+
+ 0
+ District Mean
+
+ ●●
+ ●●●
+ ●●●●●●
+ ●●●●●
+ ●●●●●
+ ●●●●
+ ●●
+
+ Zero Sum Game?
+ ●●●●●
+ ●●●●●●●
+ ●●
+ −20 ●●●
+ ●●
+ ●
+ −40 ●
+
+ −60
+
+ 0 10 20 30 40 50 60
+
+ Rank of Residual
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value Added Relative to What?
+
+ For a teacher adding value significantly above (or below) the
+ district average, what can be expected of this teacher’s
+ students in terms of performance standards?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value Added Relative to What?
+
+ For a teacher adding value significantly above (or below) the
+ district average, what can be expected of this teacher’s
+ students in terms of performance standards?
+ There is an incongruence between many presently used growth
+ models and NCLB.
+ NCLB achievement mandates are standards based.
+ Growth models that rely upon scale scores return normative
+ comparisons.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Value Added Relative to What?
+
+ For a teacher adding value significantly above (or below) the
+ district average, what can be expected of this teacher’s
+ students in terms of performance standards?
+ There is an incongruence between many presently used growth
+ models and NCLB.
+ NCLB achievement mandates are standards based.
+ Growth models that rely upon scale scores return normative
+ comparisons.
+ If normative results for students are inadequate, why should
+ normative comparisons of teachers be any different?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Which Growth Metric
+Scale Scores or Performance Standards
+
+ Scale Score Based Growth
+ Conceptually simple interval scale based results.
+ Scale score based results require translation to standards
+ based criteria.
+ Difficult to define “how much growth” is enough without
+ normative references.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Overview
+ Longitudinal Analysis of Student Data
+ Value-Added Analysis
+ Standards Based Growth
+ Teacher/School Comparisons
+ Big Picture
+
+Which Growth Metric
+Scale Scores or Performance Standards
+
+ Scale Score Based Growth
+ Conceptually simple interval scale based results.
+ Scale score based results require translation to standards
+ based criteria.
+ Difficult to define “how much growth” is enough without
+ normative references.
+ Standards Based Growth
+ Conceptually simple probability based results.
+ Amenable to standards based accountability initiatives.
+ Simple to define “how much growth” with regard to
+ NCLB-like policy mandates.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+
+ Change (growth) is modeled via student movement between
+ performance categories.
+ Student movement can refer to annual change.
+ Student movement can refer to long term change. For
+ example, between the beginning and end of middle school
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+
+ Change (growth) is modeled via student movement between
+ performance categories.
+ Student movement can refer to annual change.
+ Student movement can refer to long term change. For
+ example, between the beginning and end of middle school
+ Growth estimates are quantified as transition probabilities.
+ That is, the probability of observing a transition between
+ performance categories.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+
+ PL4
+
+ PL3
+
+ PL2
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ PL4
+ performance level from year to year.
+
+ PL3
+
+ PL2
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ PL4
+ performance level from year to year.
+ Some students move up in
+ performance level from year to year.
+ PL3
+
+ PL2
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ PL4
+ performance level from year to year.
+ Some students move up in
+ performance level from year to year.
+ PL3
+ Some students move down in
+ performance level from year to year.
+
+ PL2
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Performance Level Transitions
+
+ Diagram Performance Level Transitions
+ Most students maintain their
+ PL4
+ performance level from year to year.
+ Some students move up in
+ performance level from year to year.
+ PL3
+ Some students move down in
+ performance level from year to year.
+ Rarely do students jump one or
+ PL2
+ more performance levels.
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+
+ PL4
+
+ PL3
+
+ PL2
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+ For example, there might be a 70%
+ .7 PL4
+ chance for a student to remain at the
+ highest performance level.
+
+ PL3
+
+ PL2
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+ For example, there might be a 70%
+ .7 PL4
+ chance for a student to remain at the
+ highest performance level.
+ Similarly, there might be a 50%
+ PL3
+ chance of moving from the lowest to
+ the next to lowest category.
+
+ PL2
+
+ .5
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Transition Probabilities
+
+ Diagram Transition Probabilities
+ For example, there might be a 70%
+ .7 PL4
+ chance for a student to remain at the
+ .3 highest performance level.
+ Similarly, there might be a 50%
+ PL3
+ chance of moving from the lowest to
+ the next to lowest category.
+ These conditions impose constraints
+ PL2
+ upon two other performance level
+ .5
+ transitions.
+
+ .5 PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Diagram Transition Matrix
+
+ PL4
+ Time 2
+ PL1 PL2 PL3 PL4
+  
+ PL1
+ PL2  
+ PL3 Time 1  
+ PL3  
+ PL4
+
+ PL2
+
+ PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Diagram Transition Matrix
+ .64 PL4
+ Time 2
+ PL1 PL2 PL3 PL4
+  
+ PL1 .66
+ PL2  .59 
+ .82 PL3 Time 1  
+ PL3  .82 
+ PL4 .64
+ .59 PL2
+
+ .66 PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/46.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Diagram Transition Matrix
+ .64 PL4
+ Time 2
+ PL1 PL2 PL3 PL4
+  
+ .09
+ PL1 .66 .34
+ PL2  .59 .31 
+ .82 PL3 Time 1  
+ PL3  .82 .09 
+ .31 PL4 .64
+ .59 PL2
+
+ .34
+
+ .66 PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Diagram Transition Matrix
+ .64 PL4
+ Time 2
+ PL1 PL2 PL3 PL4
+  
+ .09 .36
+ PL1 .66 .34
+ PL2 
+  .10 .59 .31
+ 
+ .82 PL3 Time 1 
+ PL3  .09 .82 .09 
+ .31 .09 PL4 .36 .64
+ .59 PL2
+
+ .34 .10
+
+ .66 PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/48.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Diagram Transition Matrix
+ .64 PL4
+ Time 2
+ PL1 PL2 PL3 PL4
+  
+ .09 .36
+ PL1 .66 .34 .00 .00
+ PL2 
+  .10 .59 .31 .00 
+ .82 PL3 Time 1 
+ PL3  .00 .09 .82 .09 
+ .31 .09 PL4 .00 .00 .36 .64
+ .59 PL2
+
+ .34 .10
+
+ .66 PL1
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/49.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Transition Matrix Multiplication
+
+ Current Transition Future
+ × =
+ Status Matrix Status
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/50.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Transition Matrix Multiplication
+
+ Current Transition Future
+ × =
+ Status Matrix Status
+  T
+ PL1 .10
+ PL2 
+  .20 
+ 
+ PL3  .50 
+ PL4 .20
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/51.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Transition Matrix Multiplication
+
+ Current Transition Future
+ × =
+ Status Matrix Status
+  T  
+ PL1 .10 .66 .34 .00 .00
+ PL2 
+  .20   .10
+  × .59 .31 .00 
+ 
+ PL3  .50   .00 .09 .82 .09 
+ PL4 .20 .00 .00 .36 .64
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/52.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Transition Probabilities
+An Illustration
+
+ Transition Matrix Multiplication
+
+ Current Transition Future
+ × =
+ Status Matrix Status
+ T    
+ .086
+ 
+ PL1 .10 .66 .34 .00 .00
+ PL2  .20   .10 .59 .31 .00   .179 
+   × =  
+ PL3  .50   .00 .09 .82 .09   .452 
+ PL4 .20 .00 .00 .36 .64 .283
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/53.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Benefits
+
+ Growth, denoted by transition probabilities in the transition
+ matrix, readily connects changes in percentages of students at
+ different performance standards over time.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/54.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Benefits
+
+ Growth, denoted by transition probabilities in the transition
+ matrix, readily connects changes in percentages of students at
+ different performance standards over time.
+ Transition probabilities are consonant with standards based
+ instruction, assessment and accountability initiatives.
+ Vertically articulated performance standards make transitions
+ and their associated probabilities that much more
+ instructionally meaningful.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/55.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Benefits
+
+ Growth, denoted by transition probabilities in the transition
+ matrix, readily connects changes in percentages of students at
+ different performance standards over time.
+ Transition probabilities are consonant with standards based
+ instruction, assessment and accountability initiatives.
+ Vertically articulated performance standards make transitions
+ and their associated probabilities that much more
+ instructionally meaningful.
+ Transition probabilities, being statements of probability, are
+ easy to understand by stakeholders: Teachers, parents,
+ administrators.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/56.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Again, we are confronted with two essential questions:
+ Value-added by whom/what?
+ Value-added relative to what?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/57.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Again, we are confronted with two essential questions:
+ Value-added by whom/what?
+ Value-added relative to what?
+
+ Value-added by whom/what
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/58.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Again, we are confronted with two essential questions:
+ Value-added by whom/what?
+ Value-added relative to what?
+
+ Value-added by whom/what
+ Even with transition probabilities, observational data
+ makes causal inferences tenuous.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/59.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Again, we are confronted with two essential questions:
+ Value-added by whom/what?
+ Value-added relative to what?
+
+ Value-added by whom/what
+ Even with transition probabilities, observational data
+ makes causal inferences tenuous.
+ That is not to suggest that such measures are not
+ relevant even if determination of cause/responsibility is
+ not absolute.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/60.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Value-added relative to what?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/61.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Value-added relative to what?
+ If policy dictates the future status of the system, then
+ growth should be defined relative to those mandates.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/62.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Value-added relative to what?
+ If policy dictates the future status of the system, then
+ growth should be defined relative to those mandates.
+ This level of growth relates to stakeholders how current
+ status turns into future status.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/63.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Value-added relative to what?
+ If policy dictates the future status of the system, then
+ growth should be defined relative to those mandates.
+ This level of growth relates to stakeholders how current
+ status turns into future status.
+ If the rate of growth is realistic, then this can be used as
+ the growth standard for schools, teachers, etc.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/64.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/65.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+  
+ .05
+  .05 
+ = 
+  .60 
+ 
+
+ .30
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/66.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+ T  
+ .05
+ 
+ PL1 .10
+ PL2   .05 
+  .20 
+ 
+ = 
+  .60 
+ 
+ PL3  .50 
+ PL4 .20 .30
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/67.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+ T    
+ ? ? ? ? .05
+ 
+ PL1 .10
+ PL2   ? ? ? ?   .05 
+  .20  ×
+  
+  ?
+  =  
+ PL3  .50  ? ? ?   .60 
+ PL4 .20 ? ? ? ? .30
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/68.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress: Good School 1 Year
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+ T    
+ .07
+ 
+ PL1 .10 .59 .41 .00 .00
+ PL2  .20   .06 .44 .50 .00   .15 
+   × =  
+ PL3  .50   .00 .04 .89 .07   .60 
+ PL4 .20 .00 .00 .27 .73 .18
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/69.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress: Good School 2 Years
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+ T 2  
+ .05
+ 
+ PL1
+ 
+ .10 .59 .41 .00 .00
+ PL2  .20   .06 .44 .50 .00   .12 
+   × =  
+ PL3  .50   .00 .04 .89 .07   .66 
+ PL4 .20 .00 .00 .27 .73 .17
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/70.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress: Good School 3 Years
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+ T 3  
+ .04
+ 
+ PL1
+ 
+ .10 .59 .41 .00 .00
+ PL2  .20   .06 .44 .50 .00   .10 
+   × =  
+ PL3  .50   .00 .04 .89 .07   .69 
+ PL4 .20 .00 .00 .27 .73 .17
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/71.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress: Good School 4 Years
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+ T 4  
+ .03
+ 
+ PL1
+ 
+ .10 .59 .41 .00 .00
+ PL2  .20   .06 .44 .50 .00   .09 
+   × =  
+ PL3  .50   .00 .04 .89 .07   .71 
+ PL4 .20 .00 .00 .27 .73 .17
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/72.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Value-Added?
+
+ Defining Adequate Progress: Good School 5 Years
+
+ Current Future
+ Status × System Status
+ =
+ (Reality) Growth (Policy)
+ T 5  
+ .02
+ 
+ PL1
+ 
+ .10 .59 .41 .00 .00
+ PL2  .20   .06 .44 .50 .00   .08 
+   × =  
+ PL3  .50   .00 .04 .89 .07   .72 
+ PL4 .20 .00 .00 .27 .73 .18
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/73.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Growth Targets?
+
+ Providing Growth Targets
+
+ Observed
+ Growth
+
+  
+ .71 .29 .00 .00
+  .11 .49 .40 .00 
+  
+  .00 .06 .85 .09 
+ .00 .00 .35 .65
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/74.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Growth Targets?
+
+ Providing Growth Targets
+
+ Observed Target
+ Growth Growth
+
+    
+ .71 .29 .00 .00 .59 .41 .00 .00
+  .11 .49 .40 .00   .06 .44 .50 .00 
+    
+  .00 .06 .85 .09   .00 .04 .89 .07 
+ .00 .00 .35 .65 .00 .00 .27 .73
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/75.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction Transitions and their Probabilities
+ Longitudinal Analysis of Student Data A Simple Illustration
+ Standards Based Growth Benefits
+ Big Picture Value-Added
+
+Standards Based Growth
+Growth Targets?
+
+ Providing Growth Targets
+
+ Observed Institutional Target
+ Growth Improvement Growth
+
+    
+ .71 .29 .00 .00 .59 .41 .00 .00
+  .11
+  .49 .40 .00 
+  =⇒  .06
+  .44 .50 .00 
+ 
+  .00 .06 .85 .09   .00 .04 .89 .07 
+ .00 .00 .35 .65 .00 .00 .27 .73
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/76.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+Summary
+
+ When measuring growth, the choice of metric impacts the results
+ of the analyses and their interpretation.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/77.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+Summary
+
+ When measuring growth, the choice of metric impacts the results
+ of the analyses and their interpretation.
+ Scale Scores
+ Growth analyses using scale scores often yield results in
+ that metric.
+ The abstract nature of the scale requires interpretation of
+ results to be based in normative comparisons.
+ Results are not congruent with many standards based
+ accountability initiatives.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/78.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+Summary
+
+ When measuring growth, the choice of metric impacts the results
+ of the analyses and their interpretation.
+ Performance Standards
+ Growth analyses using performance standards yield
+ results in that metric.
+ Transitions between performance categories are
+ interpretable without recourse to normative comparisons.
+ Results are easily mapped onto current standards based
+ accountability initiatives.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/79.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+Goals
+
+ John Tukey
+ It is better to have an approximate answer to the right question
+ than a precise answer to the wrong question.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/80.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+Goals
+
+ John Tukey
+ It is better to have an approximate answer to the right question
+ than a precise answer to the wrong question.
+
+ NCLB has defined the question: How do we get all students
+ to the proficient level or better?
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/81.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+Goals
+
+ John Tukey
+ It is better to have an approximate answer to the right question
+ than a precise answer to the wrong question.
+
+ NCLB has defined the question: How do we get all students
+ to the proficient level or better?
+ The question assumes the metric of performance standards.
+ The natural way to analyze the question is to look at
+ movement between performance levels.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/82.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+Goals
+
+ John Tukey
+ It is better to have an approximate answer to the right question
+ than a precise answer to the wrong question.
+
+ NCLB has defined the question: How do we get all students
+ to the proficient level or better?
+ The question assumes the metric of performance standards.
+ The natural way to analyze the question is to look at
+ movement between performance levels.
+ Transition probabilities locate growth within NCLB mandates
+ and map directly back to performance standards around which
+ curriculum and instruction are based.
+
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## {.archive-slide background-image="slides/83.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Summary
+ Longitudinal Analysis of Student Data
+ Goals
+ Standards Based Growth
+ References
+ Big Picture
+
+References
+ Hill, R. (2003).
+ Using longitudinal designs with NCLB.
+ Technical report, Center for Assessment, Dover, NH.
+ Kingsbury, G. G., Olson, A., McCahon, D., and McCall, M.
+ (2004).
+ Adequate yearly progress using the Hybrid Success Model: A
+ suggested improvement to No Child Left Behind.
+ Technical report, Northwest Evaluation Association, Porland,
+ OR.
+ Linn, R. L. (2004).
+ Rethinking the No Child Left Behind accountability system.
+ Paper prepared for a forum on No Child Left Behind sponsored
+ by the Center on Education Policy, Washington DC, July 28,
+ 2004.
+ Rubin, D. B., Stuart, E. A., and Zanutto, E. L. (2004).
+ A potential outcomes view of value-added assessment in
+ education.
+ Journal of Educational and Behavioral Statistics,
+ 29(1):103–116.
+ Thum, Y. M. (2003).
+ No Child Left Behind: Methodological challenges and
+ recommendations for measuring adequate yearly progress.
+ Technical report, National Center for Research on Evaluation,
+ Standards, and Student Testing, Los Angeles.
+ CSE Technical Report 590.
+ D. W. Betebenner Performance Standards and Growth</div>
+```
+
+## About this copy {.archive-about}
+
+*The Importance of Performance Standards in Measures of Student Growth* — CCSSO, June 2005.
+
+This is an image-based copy of the original PDF slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2005-06-24-ccsso-the-importance-of-performance-standards-in-measures-of-student-growth/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2005-06-24-ccsso-the-importance-of-performance-standards-in-measures-of-student-growth.pdf)
+- [All talks](https://dbetebenner.github.io/talks/)

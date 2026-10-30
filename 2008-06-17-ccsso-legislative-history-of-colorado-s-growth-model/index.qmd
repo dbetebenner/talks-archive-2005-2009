@@ -1,0 +1,530 @@
+---
+pagetitle: Legislative History of Colorado’s Growth Model
+description: Legislative History of Colorado’s Growth Model — CCSSO, June 2008. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">LEGISLATIVE HISTORY OF
+ COLORADO’S GROWTH
+ MODEL
+ Alyssa Pearson
+ Colorado Department of Education
+ Colorado Department of
+1 Education</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Previous State Legislation
+
+ ● HB 04-1433: Diagnostic Academic Growth
+ Calculation
+ • Not to be used for accountability
+ • Measures longitudinal growth of students using all available
+ years of data
+ • Diagnostic information for student sent to district
+ • Is student on track to reach proficiency within 3 years or
+ by 10th grade.
+ • Data was not widely used or discussed
+ • Useful process for R&amp;D
+
+ Colorado Department of
+2 Education</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Current State Legislation
+
+ ● HB 07-1048: Adequate Academic Growth
+ • The cornerstone of the state’s accountability
+ system
+ • Technical Advisory Panel
+ • Recommend model to State Board of Education
+ • Use model for:
+ • Governor’s Improvement Award
+ • Determining if students are on track to proficiency within
+ 3 years or 10th grade
+
+ Colorado Department of
+3 Education</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">APPLICATION OF
+ COLORADO’S GROWTH
+ MODEL
+ Alyssa Pearson
+ Colorado Department of Education
+ Colorado Department of
+4 Education</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Two Major Purposes
+
+ ● Accountability
+ • Legislated purposes
+ • Adding more meaning to existing systems
+ • Getting the right incentives
+
+ ● Data-driven Decisions
+ • Where do you “dig deeper”?
+
+ Colorado Department of
+5 Education</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Aggregating Student Growth
+ Percentiles
+
+ ● Find the median student growth percentile
+ • School
+ • Disaggregated group
+ • District
+ ● Used as the one summary number for growth
+ ● Categorized as:
+ • Low (less than 35th percentile)
+ • Typical (35th- 65th percentiles)
+ • High (greater than 65th percentile)
+
+ Colorado Department of
+6 Education</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ACCOUNTABILITY
+ DECISIONS
+
+ Colorado Department of
+7 Education</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ACCOUNTABILITY
+
+ ● Implementation in 2008-2009
+
+ CSAP Press Release with Growth Data
+
+ ● Growth data released with CSAP status data
+ ● Challenge of having data ready on the same timeline
+ ● Want growth to be viewed as an equally important piece
+ of information for the public
+
+ Colorado Department of
+8 Education</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ACCOUNTABILITY
+
+ ● Implementation in 2008-2009
+ Governor’s Improvement Awards
+ ● Awards based on school’s median growth percentile and
+ school size
+
+ School Accountability Reports
+ ● State accountability system for schools
+ ● Status measure- weighted index
+ ● Growth measure- based on median growth percentile for
+ the school
+
+ Colorado Department of
+9 Education</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ACCOUNTABILITY
+
+ ● Implementation in 2008-2009
+
+ District Accreditation
+ ● Districts are accredited by the Colorado Department of
+ Education
+ ● Accreditation rules approved by the State Board in May 2008
+ ● Decisions made based on status, growth, gaps and post-
+ secondary readiness
+ ● Districts doing well on all indicators, visited every 3 years
+ ● Districts struggling will have yearly visits
+
+ Colorado Department of
+10 Education</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ACCOUNTABILITY
+
+ ● Implementation in Future Years
+
+ AYP
+ ● Notified ED that we are interested in submitting a plan
+ ● Currently using Matched Safe Harbor option
+ ● Goal to decrease the focus on the “bubble” kids
+ ● Challenge of how to add the growth measure in with
+ meaningful, attainable targets
+ ● Timing with new administration/ re-authorization
+
+ Colorado Department of
+11 Education</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">USE FOR DATA DRIVEN
+ DECISIONS
+
+ Colorado Department of
+12 Education</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Assessment Data-Driven Decisions
+
+ ● State assessment data should be used to find
+ where we might want to “dig deeper”
+
+ ● Useful for students, parents, teachers,
+ schools, districts, and the state
+
+ Colorado Department of
+13 Education</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">OUR OLD MAP
+ Status
+
+ High Performing
+
+ Low Performing
+
+ Colorado Department of
+14 Education</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">OUR NEW MAP
+ Status and Growth
+
+ High Status,
+ High Status,
+ High Growth
+ Low Growth
+
+ Low Status, Low Status,
+ Low Growth High Growth
+
+ Colorado Department of
+15 Education</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">What can we dig for?
+
+ ● Now that we have a more detailed map, we
+ need to be clear about what we can find.
+
+ ● Need to provide guidance to users about what
+ this data can answer, and what it can’t answer
+ by itself.
+
+ ● Is the “treasure” really a treasure?
+
+ Colorado Department of
+16 Education</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">STUDENTS AND PARENTS
+
+ ● What the growth model can answer:
+
+ • How much growth did I show relative to other
+ students starting at the same place?
+
+ • How much support do I need to get to the next
+ proficiency level?
+
+ Colorado Department of
+17 Education</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">STUDENTS AND PARENTS
+
+ ● What the growth measure, along with other
+ information* can answer:
+ • Is my school able to help students, especially
+ students like me, grow as much as I need to?
+
+ • What kinds of support do I need to get to reach my
+ goals for proficiency?
+ * Other information consists of formative assessment results, knowledge of student and teacher
+ needs, analysis of student work, etc.
+
+ Colorado Department of
+18 Education</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SCHOOL LEVEL
+
+ ● What the growth model can answer:
+ • What is the median student growth percentile in our school?
+ • How does it compare to other similar schools?
+ • How does the median student growth percentile differ
+ between different groups of students?
+ • How much extra support do our students need to reach
+ proficiency?
+ • Do we see exceptionally high or low growth anywhere in our
+ school?
+
+ Colorado Department of
+19 Education</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">SCHOOL LEVEL
+
+ ● What the growth measure, along with other
+ information* can answer:
+ • Are certain intervention programs used in our school correlated
+ with greater student growth percentiles?
+ • Are these interventions leading students to reach proficiency?
+ • What may be causing exceptionally high or low growth in our
+ school?
+ • How can we share what is working well for us?
+ • What are realistic school improvement goals for student growth?
+ • * Other information consists of formative assessment results, knowledge of student and
+ teacher needs, analysis of student work, etc.
+
+ Colorado Department of
+20 Education</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">DISTRICT LEVEL
+ ● What the growth model can answer:
+ • What is the median student growth percentile in our district?
+ • How does it compare with other similar districts?
+ • How does the median student growth percentile differ between
+ different groups of students?
+ • What percent of students are making growth adequate to reach
+ proficiency within 3 years?
+ • How much extra support do our students need to reach
+ proficiency?
+ • Do we see exceptionally high or low growth anywhere in our
+ district?
+ • How are the different schools in our district doing? Are there any
+ patterns?
+
+ Colorado Department of
+21 Education</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">DISTRICT LEVEL
+
+ ● What the growth measure, along with other
+ information* can answer:
+ • Are certain programs used in our district correlated with greater
+ student growth percentiles?
+ • Are these programs leading students to reach proficiency?
+ • What may be causing exceptionally high or low growth in our
+ district?
+ • How can we share what is working well for us?
+ • How do the median growth percentiles impact school accreditation
+ decisions?
+ * Other information consists of formative assessment results, knowledge of student and teacher
+ needs, analysis of student work, etc.
+
+ Colorado Department of
+22 Education</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">STATE- CDE
+
+ ● What the growth model can answer:
+
+ • What are the median growth percentiles for
+ schools, districts?
+ • How does the median student growth percentile
+ differ between different groups of students?
+ • Which districts and schools are showing
+ exceptionally high or low median growth
+ percentile?
+
+ Colorado Department of
+23 Education</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">STATE- CDE
+
+ ● What the growth measure, along with other
+ information* can answer:
+ • Where are limited fiscal and personnel resources most needed?
+ • Are our School Improvement Grants having an impact on student
+ growth?
+ • Do Supplemental Educational Services increase student median
+ growth percentiles?
+ • Which schools and districts are showing the greatest median
+ growth percentiles for different student groups?
+ • What can we learn from them about what works?
+ * Other information consists of formative assessment results, knowledge of student and teacher
+ needs, analysis of student work, etc.
+
+ Colorado Department of
+24 Education</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">PUBLIC
+
+ ● What the growth model can answer:
+ • Which schools and districts in Colorado have the highest median
+ student growth percentiles?
+ • Which schools and districts have the highest median student
+ growth percentiles for different groups of students?
+ • What percent of students are making growth adequate to reach
+ proficiency with in three years?
+ • How much support do we need to provide our students in order to
+ reach proficiency in one, two or three years?
+
+ Colorado Department of
+25 Education</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">PUBLIC
+
+ ● What the growth measure, along with other
+ information* can answer:
+ • Which schools and districts are “best”?
+ • Which schools and districts are “best” for different students’ needs?
+ • What resources do we need to provide, as a state, to ensure all of
+ Colorado’s students can reach proficiency by 10th grade?
+
+ * Other information consists of formative assessment results, knowledge of student and
+ teacher needs, analysis of student work, costs for resources, evidence of what supports lead
+ to high median growth percentiles, etc.
+
+ Colorado Department of
+26 Education</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">LOOKING FORWARD
+
+ Colorado Department of
+27 Education</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">LOOKING FORWARD
+ ● Explain what the growth data actually is to all
+ stakeholders
+ ● Provide guidance for use of the growth data (what it
+ can answer and what it can’t answer alone)
+ ● Expand its use for accountability
+ ● Bring Colorado’s accountability measures into
+ alignment
+ ● Explore the role of the data in program evaluation
+
+ Colorado Department of
+28 Education</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">More Information, Feedback and
+ Insight
+ Growth Information posted at: www.cde.state.co.us/index_accredit.htm
+
+ Work with us:
+ www.cde.state.co.us/cdemgmt/download/1188-Princ-
+ Consultant_05.08.pdf
+
+ Colorado Department of Education
+ Alyssa Pearson
+ pearson_a@cde.state.co.us
+ Or Rich Wenning
+ Wenning_r@cde.state.co.us
+
+ Colorado Department of
+29 Education</div>
+```
+
+## About this copy {.archive-about}
+
+*Legislative History of Colorado’s Growth Model* — CCSSO, June 2008.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2008-06-17-ccsso-legislative-history-of-colorado-s-growth-model/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-06-17-ccsso-legislative-history-of-colorado-s-growth-model.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-06-17-ccsso-legislative-history-of-colorado-s-growth-model.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

@@ -1,0 +1,202 @@
+---
+pagetitle: The NCLB Growth Model Pilot Program Discussion
+description: The NCLB Growth Model Pilot Program Discussion — NCME Annual Meeting, March 2008. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The NCLB Growth Model Pilot Program
+ Discussion
+ Henry Braun
+ Lynch School of Education
+ Boston College
+
+ AERA
+ New York City, NY
+ March 26, 2008</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">NCLB (2002)
+• Goals
+ – Hold schools accountable
+ – Improve learning for all
+• Politics
+ – Federal framework
+ – State flexibility
+• Theory of action
+ – Disaggregated reporting + Targets/Sanctions
+ ==&gt; Positive Change
+• AYP
+ – Sequence of cross-sectional comparisons
+ – Major technical problems</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">NCLB (2008)
+• Empirical evidence on consequential validity
+• Enhanced state infrastructure
+• Minor fixes
+• Growth model pilot program
+ – Partial remedy for problems with status-based
+ measure
+ – Counter perceptions of unfairness
+ – Maintain fixation on 100% proficiency by 2014
+ – Modify resource allocation</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">THIS SESSION
+• Accountability system
+ – Measures*
+ – Indicators
+ – Decision rules and consequences
+• Technical evaluation
+• Sensitivity analyses
+• Value judgments
+• Suggestions for improvement
+
+ CAUTION: There is no statistical “truth” to be found here.
+ Validity is a function of context and
+ utility.</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Allen &amp; Dunn
+
+• Work within (new) NCLB framework
+• Applied 6 approved growth models to a data set
+• Disaggregated augmented proficiency statistics by
+ “achieved proficiency” &amp; “on track to proficiency”
+• Overall differences are modest – but greater when
+ attention focuses on “non-proficient”
+• Questions
+ – What is the GMPP trying to accomplish?
+ – Which model characteristics really matter?
+ – [HB] Should counts of “on track” students be down-weighted?</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Weeks &amp; Karkee
+
+• Work within (new) NCLB framework
+• Applied three types of models to a data set
+ – Simple gain score model
+ – Two-state transition model
+ – Mixed effects model
+• Observed modest increases in the number of
+ schools achieving AYP
+• Used models’ output to probe structure of
+ achievement growth</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Briggs, Weeks &amp; Wiley
+
+• Working just outside the framework
+• Most growth models measure change along a vertical
+ scale
+• How do properties of the vertical scale affect
+ measurement characteristics of growth stats?
+• Compared 8 scaling procedures (2x2x2 design)
+• Calibration approach and model type matter
+ – Substantial differences in vertical scales
+ – Meaningful impact on inferences about schools for AYP
+• [HB] Why not investigate non-linear models for growth?</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Ho &amp; Magda
+• Working further outside the framework
+• How do choice of standard stringency and time horizon
+ impact growth-based inferences?
+• Each choice superimposes a grid on the multivariate test
+ score distribution
+• Values of AYP indicators are a function of the interplay
+ between that grid and the parameters of the distribution
+• Problem of how to “appropriately” set cut-scores:
+ Substantively or procedurally ?
+• Tradeoffs as stringency of proficiency standards is
+ increased</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Betebenner
+• Working well outside the framework
+• Presents an alternative to growth along a vertical scale by
+ modeling conditional growth patterns
+• Normative descriptions of conditional growth can
+ – Be highly diagnostic
+ – Serve as the basis for projections to achieving proficiency
+• Identify students who have a “reasonable chance” of
+ achieving proficiency
+• Explains why adding a growth component usually does
+ not make much difference in number of schools achieving
+ AYP</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">CONCLUSIONS (1)
+
+• An important and informative set of papers
+• NCLB consequences matter -- so examining
+ sensitivity of inferences to various characteristics
+ of the accountability framework is (should be)
+ critical to evaluating NCLB rules
+• We understand more about where we have
+ robustness and where we don’t
+• Current framework is problematic and can lead to
+ “statistically unnatural acts”</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">CONCLUSIONS (2)
+
+• What are the real goals of school accountability?
+• Which accountability system with what
+ “parameter settings” is most likely to succeed?
+• How do we evaluate an accountability system?
+• What are some suggestions for designing the
+ next system (beyond NCLB II)?
+• When will we learn to do a better job the first time
+ and not have to rely so much on “salvage
+ operations”?</div>
+```
+
+## About this copy {.archive-about}
+
+*The NCLB Growth Model Pilot Program Discussion* — NCME Annual Meeting, March 2008.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2008-03-21-ncme-the-nclb-growth-model-pilot-program-discussion/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-03-21-ncme-the-nclb-growth-model-pilot-program-discussion.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-03-21-ncme-the-nclb-growth-model-pilot-program-discussion.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

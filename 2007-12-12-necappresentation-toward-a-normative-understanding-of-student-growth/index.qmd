@@ -1,0 +1,256 @@
+---
+pagetitle: Toward a Normative Understanding of Student Growth
+description: Toward a Normative Understanding of Student Growth — NECAPPresentation, December 2007. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Defining a Year’s Growth
+ References
+
+ Toward a Normative Understanding of Student Growth
+
+ Damian W. Betebenner
+
+ National Center for the Improvement of Educational Assessment
+ Dover, NH
+
+ NECAP Meeting
+ December 12th, 2007
+
+ D. W. Betebenner Normative Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
+ References Describing Actual Student Growth
+
+ Actual versus Aspirational Student Growth
+
+ It seems simple enough: Establish what constitutes a year’s growth
+ in a year’s time for each student.
+ This simplicity belies a subtle complexity.
+ To adequately address the notion of a year’s growth, actual growth
+ must be distinguished from aspirational growth.
+ Describe What is a current year’s growth?
+ Prescribe What should a current year’s growth be?
+ Answering the second question establishes a threshold
+ distinguishing adequate from inadequate growth.
+ To make such a distinction requires an answer to the first question
+ which defines a norm: What is the range of growth currently
+ observed?
+ Aspirational growth should be possible—This is Linn’s existence
+ proof applied at the individual level [Linn, 2003].
+
+ D. W. Betebenner Normative Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
+ References Describing Actual Student Growth
+
+ Describing Actual Student Growth
+
+ Measuring student growth, even with a vertical scale, is not a simple
+ task.
+ Numerous States believe that placing their tests on a vertical scale
+ will simplify the task of measuring student growth.
+ Even with an interval (or ratio) scale, growth is not easy to interpret.
+ Consider, for example, height.
+ A child might grow 4 inches between ages 3 and 4.
+ 4 inches is a well understood quantity.
+ However, the 4 inch increase becomes fully understandable only when
+ placed in context of growth of similar children.
+ In the following discussion student growth percentiles are introduced
+ that provide a normative context in which to interpret student growth.
+
+ D. W. Betebenner Normative Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">300
+ 500
+ 325
+ 475
+ 350
+ 450
+ 20 core
+ 05 375 S
+ 425
+ S le
+ ca le ca
+ S
+ 400
+ 400
+ S re 2006
+ co</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">300
+ 500
+ 325
+ 475
+ 350
+ 450
+ 20 core
+ 05 375 S
+ 425
+ S le
+ ca le ca
+ S
+ 400
+ 400
+ S re 2006
+ co</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">300
+ 500
+ 325
+ 475
+ 350
+ 450
+ 20 core
+ 05 375 S
+ 425
+ S le
+ ca le ca
+ S
+ 400
+ 400
+ S re 2006
+ co</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">300
+ 500
+ 325
+ 475
+ 350
+ 450
+ 20 core
+ 05 375 S
+ 425
+ S le
+ ca le ca
+ S
+ 400
+ 400
+ S re 2006
+ co</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
+ References Describing Actual Student Growth
+
+ Student Growth Percentiles
+ As the figures indicate, there is a distribution of 2006 scale scores
+ associated with each 2005 scale score.
+ The average (or median) of the conditional density could be used as
+ a point estimate of the 2006 scale score given the student’s 2005
+ performance.
+ This point estimate could be used to define “expected”, “average”, or
+ “typical” growth.
+ Similarly, the middle 50% of each density gives a range of scores
+ where one would expect such a student’s score to reside 50% of the
+ time.
+ Using quantile regression techniques, conditional densities using
+ more than a single prior score can be estimated.
+ Given a student’s prior scale scores and the associated conditional
+ density, their current scale score corresponds to a percentile of that
+ conditional distribution.
+ This percentile is the student’s growth percentile.
+ For example, a student growth percentile of 60 indicates the student’s
+ latest scale score exceeded 60 percent of his/her counterparts with
+ equal prior scores.
+ D. W. Betebenner Normative Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
+ References Describing Actual Student Growth
+
+ Student Growth Percentiles
+ Student growth percentiles norm each student’s progress relative to
+ similarly performing students.
+ The growth percentiles are estimated using quantile regression
+ techniques (Betebenner &amp; Shang, 2007; Koenker, 2005).
+ The percentile scale on which the growth percentiles lie allows for
+ easy comparison of all students.
+ For example, consider a low achieving student demonstrating 90th
+ percentile growth and a high achieving student demonstrating 10th
+ percentile growth.
+ The low achieving student grew at a rate exceeding 90 percent of their
+ academic peers.1
+ The high achieving student grew at a rate exceeding just 10 percent of
+ their academic peers.
+ In this sense, the low achiever’s growth is more extraordinary than the
+ high achiever’s.
+ Judgment of whether the student’s growth is adequate requires
+ external criteria specifying adequate for what?.
+ 1
+ The term academic peers is used to describe those students with equal prior
+ achievement.
+ D. W. Betebenner Normative Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Defining a Year’s Growth
+ References
+
+ References
+ Betebenner, D. W. and Shang, Y. (2007).
+ Reference growth charts for educational outcomes.
+ Paper presented at the 2007 AERA Annual Conference, Chicago, IL.
+ Retrieved May 12th, 2007 from
+ http://monticello.bc.edu/Betebenner.
+ Koenker, R. (2005).
+ Quantile Regression.
+ Cambridge University Press, Cambridge.
+ Linn, R. L. (2003).
+ Accountability: Responsibility and reasonable expectations.
+ Technical report, Center for the Study of Evaluation, CRESST, Los
+ Angeles, CA.
+
+ D. W. Betebenner Normative Student Growth</div>
+```
+
+## About this copy {.archive-about}
+
+*Toward a Normative Understanding of Student Growth* — NECAPPresentation, December 2007.
+
+This is an image-based copy of the original beamer slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2007-12-12-necappresentation-toward-a-normative-understanding-of-student-growth/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2007-12-12-necappresentation-toward-a-normative-understanding-of-student-growth.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2007-12-12-necappresentation-toward-a-normative-understanding-of-student-growth.tex)
+- [All talks](https://dbetebenner.github.io/talks/)

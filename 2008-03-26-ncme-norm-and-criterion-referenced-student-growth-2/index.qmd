@@ -1,0 +1,877 @@
+---
+pagetitle: Norm- and Criterion-Referenced Student Growth
+description: Norm- and Criterion-Referenced Student Growth — NCME Annual Meeting, March 2008. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Normative Student Growth
+ Descriptive/Prescriptive Growth
+ References
+
+ Norm- and Criterion-Referenced Student Growth
+
+ Damian W. Betebenner
+
+ National Center for the Improvement of Educational Assessment
+ Dover, NH
+
+ NCME 2008 Annual Meeting
+ March 26th, 2008
+
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Normative Student Growth Growth and Accountability Models
+ Descriptive/Prescriptive Growth Growth &amp; Status Models
+ References
+
+ Growth &amp; Accountability
+ Bob’s Axiom
+ Scratch a criterion and you (should) find a norm.
+
+ Accountability mandates—like NCLB’s “bright line” (i.e., universal
+ proficiency) requirements—dominate discussions of assessment
+ outcomes.
+ In these discussions, it is important distinguish between the judgments
+ made by the accountability system and the quantities on which the
+ judgment is based.
+ With the analysis of growth, it is important to distinguish between a
+ description of growth provided by the model and the qualification of
+ that value as (in)adequate by the accountability system.
+ Growth-to-standard methodologies qualify, for accountability purposes,
+ whether a student is on track to proficient and use this qualification as
+ evidence of school quality.
+ These criterion referenced growth models define adequate growth
+ without establishing a norm and thus are in violation of Bob’s Axiom.
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Normative Student Growth Growth and Accountability Models
+ Descriptive/Prescriptive Growth Growth &amp; Status Models
+ References
+
+ Growth &amp; Status
+
+ Unconditional Projected Conditional
+ Achievement Achievement Achievement
+
+ Status Growth
+
+ Current growth-to-standard methodologies judge individual student
+ progress based upon projections of future student achievement.
+ In this sense, growth-to-standard models are projected achievement
+ models.
+ Given the representational continuum connecting status with growth,
+ growth-to-standard models are hybrids, neither growth nor status.
+ Not surprisingly, results derived from their use correlate highly with
+ results derived from existing status models [Dunn, 2007].
+
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Student Growth Percentiles
+ Normative Student Growth
+ Describing Actual Student Growth
+ Descriptive/Prescriptive Growth
+ Exploring the Range of Aspirational Outcomes
+ References
+
+ Actual versus Aspirational Student Growth
+
+ Conditional achievement (i.e., growth) models can serve the same
+ ends as projected achievement/growth-to-standard models.
+ Doing so requires distinguishing actual growth from aspirational
+ growth.
+ Actual What is a current year’s growth?
+ Aspirational What should a current year’s growth be?
+ Answering the second question establishes a threshold
+ distinguishing adequate from inadequate growth.
+ To make such a distinction requires an answer to the first question
+ which defines a norm: What is the range of growth currently
+ observed?
+ Aspirational growth should be possible—Ought implies Can (Kant)
+ or Linn’s existence proof [Linn, 2003].
+
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Student Growth Percentiles
+ Normative Student Growth
+ Describing Actual Student Growth
+ Descriptive/Prescriptive Growth
+ Exploring the Range of Aspirational Outcomes
+ References
+
+ Describing Actual Student Growth
+
+ Measuring student growth, even with a vertical scale, is not a simple
+ task.
+ Numerous states believe that placing their tests on a vertical scale
+ will simplify the task of measuring student growth.
+ Even with an interval (or ratio) scale, growth is not easy to interpret.
+ Consider, for example, height.
+ A child might grow 4 inches between ages 3 and 4.
+ 4 inches is a well understood quantity.
+ However, the 4 inch increase becomes fully understandable only when
+ placed in context of growth of other children between ages 3 and 4.
+ The following introduces student growth percentiles as a normative
+ quantity useful to interpreting student growth.
+
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Student Growth Percentiles
+ Normative Student Growth
+ Describing Actual Student Growth
+ Descriptive/Prescriptive Growth
+ Exploring the Range of Aspirational Outcomes
+ References
+
+ Student Growth Percentiles
+ A quantity of fundamental interest to norming student progress (i.e.,
+ conditional achievement) is:
+
+ Pr(Current Achievement |Past Achievement ). (1)
+ A student’s growth percentile is the conversion of 1 to a percentile.
+ Estimation of the conditional density used to calculate student growth
+ percentiles is performed using quantile regression (Betebenner &amp;
+ Shang, 2007; Koenker, 2005).
+ Consider a low achieving student demonstrating 90th percentile
+ growth and a high achieving student demonstrating 10th percentile
+ growth.
+ The low achieving student grew at a rate exceeding 90 percent of
+ similar students.
+ The high achieving student grew at a rate exceeding just 10 percent of
+ similar students.
+ In this sense, the low achiever’s growth is more exemplary than the high
+ achiever’s.
+ Growth percentiles allow for easy understanding and comparison of
+ student growth.
+ However, judgment of whether the student’s growth was adequate
+ requires external criteria.
+
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Student Growth Percentiles
+ Normative Student Growth
+ Describing Actual Student Growth
+ Descriptive/Prescriptive Growth
+ Exploring the Range of Aspirational Outcomes
+ References
+
+ Performance Standards and Growth Percentiles
+ Performance standards are the most obvious external criteria
+ needed to define what adequate growth is.
+ If proficiency within 3 years is the achievement goal, then one can
+ examine prior growth to estimate what growth percentile is sufficient
+ to reach the desired outcome.
+ For high achieving students, modest growth percentiles are required
+ to maintain their position above proficiency whereas for some low
+ achieving student sustained high growth percentiles are necessary.
+ The process of defining (in)adequate growth is a standard setting
+ procedure.
+ Clearly, defining adequate growth for some students as 80th
+ percentile or better sets a very high standard.
+ And defining a year’s growth for some students as 25th percentile or
+ better sets a low standard.
+ Growth standards should be equitable, reasonable, and desirable.
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Normative Student Growth
+ Achievement Projections/Forecasts
+ Descriptive/Prescriptive Growth
+ References
+
+ Achievement Projections/Forecasts
+ Growth-to-standard analyses project future student achievement
+ and use these determinations for accountability purposes.
+ Such projections implicitly assume (but rarely explicate) interim rates
+ of growth for the student.
+ The result of growth-to-standard analyses are almost fatalistic
+ statements about the future status of students.
+ Such conversations often leave teachers/educators wondering what
+ their role is if the student’s future status is known.
+ Conversations about future status must turn from “where will (s)he
+ be” to “what will it take”.
+ Using student growth percentile estimation techniques it is possible
+ to forecast different growth scenarios that allow stakeholders to
+ entertain conversations of “what it will take”.
+ These forecasts establish a basis for growth standard setting.
+ Only by considering what is, what should be, and what is possible
+ simultaneously, can growth models and their associated standards
+ by equitable, just and truly informed.
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Math Growth Percentile Trajectories
+ Growth Trajectories for 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+
+ 750
+
+ 700 99
+
+ 90
+
+ 650
+
+ 75
+ 600
+ 95
+
+ 2007 Achievement Percentile Growth Percentile (Consecutive)
+ 90 60
+ 550
+
+Scale Score
+ 85
+
+ 80 50
+
+ 75
+
+ 500 70
+ 40
+ 65
+
+ 60
+ 55
+
+ 50
+
+ 450 45
+
+ 40
+
+ 35
+
+ 30
+
+ 400
+ 25 25
+
+ 20
+
+ 15
+
+ 350 10
+
+ 5
+
+ 300
+
+ 3 4 5 6 7 8 9 10
+
+ Grade
+ 1</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Math Growth Percentile Trajectories
+ Growth Trajectories for 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+
+ 750
+
+ 90
+
+ 700 99
+
+ 75
+
+ 650
+
+ 60
+
+ 600
+ 95
+
+ 50
+
+ 2007 Achievement Percentile Growth Percentile (Consecutive)
+ 90
+ 550
+ 40
+
+Scale Score
+ 85
+
+ 80
+
+ 75
+
+ 500 70
+
+ 65
+ 25
+ 60
+ 55
+
+ 50
+
+ 450 45
+
+ 40
+
+ 35
+
+ 30
+
+ 400
+ 25
+
+ 20
+
+ 15
+
+ 350 10
+
+ 5
+
+ 300
+
+ 3 4 5 6 7 8 9 10
+
+ Grade
+ 1</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Math Growth Percentile Trajectories 90
+
+ Growth Trajectories for 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+
+ 750
+
+ 75
+
+ 700 99
+
+ 60
+
+ 650
+ 50
+
+ 40
+ 600
+ 95
+
+ 2007 Achievement Percentile Growth Percentile (Consecutive)
+ 90
+ 550
+ 25
+
+Scale Score
+ 85
+
+ 80
+
+ 75
+
+ 500 70
+
+ 65
+
+ 60
+ 55
+
+ 50
+
+ 450 45
+
+ 40
+
+ 35
+
+ 30
+
+ 400
+ 25
+
+ 20
+
+ 15
+
+ 350 10
+
+ 5
+
+ 300
+
+ 3 4 5 6 7 8 9 10
+
+ Grade
+ 1</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Reading Growth Percentile Trajectories
+ Growth Trajectories for 10th, 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+
+ 800
+
+ 750
+ 90
+
+ 99
+
+ 700 75
+
+ 95 60
+
+ 650
+ 90 50
+
+ 85
+
+ 80 40
+
+ Growth Percentile (Consecutive)
+ 600 75
+
+ 2007 Achievement Percentile
+ 70
+ 65
+ 60
+
+Scale Score
+ 55
+ 50
+ 25
+ 550
+ 45
+ 40
+ 35
+ 30
+
+ 25
+
+ 20
+ 500
+ 15
+
+ 10
+
+ 450
+
+ 5
+
+ 400
+
+ 10
+
+ 350
+
+ 300
+
+ 1
+ 3 4 5 6 7 8 9 10
+
+ Grade</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Reading Growth Percentile Trajectories
+ Growth Trajectories for 10th, 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+
+ 800
+
+ 90
+
+ 750
+
+ 75
+ 99
+
+ 700
+ 60
+
+ 50
+ 95
+
+ 650 40
+ 90
+
+ 85
+
+ 80
+
+ Growth Percentile (Consecutive)
+ 600 75 25
+
+ 2007 Achievement Percentile
+ 70
+ 65
+ 60
+
+Scale Score
+ 55
+ 50
+
+ 550
+ 45
+ 40
+ 35
+ 30
+
+ 25
+
+ 20
+ 500
+ 15
+
+ 10
+
+ 450
+
+ 5
+
+ 10
+
+ 400
+
+ 350
+
+ 300
+
+ 1
+ 3 4 5 6 7 8 9 10
+
+ Grade</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Reading Growth Percentile Trajectories
+ Growth Trajectories for 10th, 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles90
+
+ 800
+
+ 75
+
+ 750
+ 60
+
+ 50
+
+ 40
+ 99
+
+ 700
+ 25
+
+ 95
+
+ 650
+ 90
+
+ 85
+
+ 80 10
+
+ Growth Percentile (Consecutive)
+ 600 75
+
+ 2007 Achievement Percentile
+ 70
+ 65
+ 60
+
+Scale Score
+ 55
+ 50
+
+ 550
+ 45
+ 40
+ 35
+ 30
+
+ 25
+
+ 20
+ 500
+ 15
+
+ 10
+
+ 450
+
+ 5
+
+ 400
+
+ 350
+
+ 300
+
+ 1
+ 3 4 5 6 7 8 9 10
+
+ Grade</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Writing Growth Percentile Trajectories
+ Growth Trajectories for 10th, 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+
+ 750
+
+ 700
+ 90
+
+ 650
+
+ 600
+ 75
+
+ 99
+
+ 2007 Achievement Percentile Growth Percentile (Consecutive)
+ 550
+ 95
+
+Scale Score
+ 60
+
+ 90
+
+ 85
+ 50
+ 80
+ 500 75
+ 70
+ 65
+ 60 40
+ 55
+ 50
+ 45
+ 40
+ 450 35
+ 30
+ 25
+ 20
+ 25
+ 15
+
+ 10
+ 400
+ 5
+
+ 350
+ 10
+ 1
+
+ 300
+
+ 3 4 5 6 7 8 9 10
+
+ Grade</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">90
+
+ Writing Growth Percentile Trajectories
+ Growth Trajectories for 10th, 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+
+ 750
+
+ 700
+
+ 75
+
+ 650
+
+ 60
+
+ 600
+
+ 99 50
+
+ 2007 Achievement Percentile Growth Percentile (Consecutive)
+ 550
+ 95 40
+
+Scale Score
+ 90
+
+ 85
+
+ 80
+ 500 75
+ 70
+ 65 25
+ 60
+ 55
+ 50
+ 45
+ 40
+ 450 35
+ 30
+ 25
+ 20
+ 15
+
+ 10
+ 400
+ 5 10
+
+ 350 1
+
+ 300
+
+ 3 4 5 6 7 8 9 10
+
+ Grade</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Writing Growth Percentile Trajectories
+ Growth Trajectories for 10th, 25th, 40th, 50th, 60th, 75th, &amp; 90th Percentiles
+ 75
+
+ 750
+
+ 700
+
+ 60
+
+ 650
+ 50
+
+ 40
+ 600
+
+ 99
+
+ 2007 Achievement Percentile Growth Percentile (Consecutive)
+ 550 25
+ 95
+
+Scale Score
+ 90
+
+ 85
+
+ 80
+ 500 75
+ 70
+ 65
+ 60
+ 55
+ 50
+ 45
+ 40
+ 450 35 10
+ 30
+ 25
+ 20
+ 15
+
+ 10
+ 400
+ 5
+
+ 350 1
+
+ 300
+
+ 3 4 5 6 7 8 9 10
+
+ Grade</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">bg=White Growth, Status, and Accountability
+ Normative Student Growth
+ Descriptive/Prescriptive Growth
+ References
+
+ References
+ Betebenner, D. W. and Shang, Y. (2007).
+ Reference growth charts for educational outcomes.
+ Paper presented at the 2007 AERA Annual Conference, Chicago, IL.
+ Retrieved May 12th, 2007 from
+ http://monticello.bc.edu/Betebenner.
+ Dunn, J. (2007).
+ When does a “growth model&quot; act the same as a &quot;status model&quot;:
+ Lessons learned from some empirical growth model comparisons.
+ Paper presented at the Systems and Reporting SCASS, September
+ 25, 2007, Nashua, NH.
+ Koenker, R. (2005).
+ Quantile Regression.
+ Cambridge University Press, Cambridge.
+ Linn, R. L. (2003).
+ Accountability: Responsibility and reasonable expectations.
+ Technical report, Center for the Study of Evaluation, CRESST, Los
+ Angeles, CA.
+ D. W. Betebenner Norm- and Criterion-Referenced Student Growth</div>
+```
+
+## About this copy {.archive-about}
+
+*Norm- and Criterion-Referenced Student Growth* — NCME Annual Meeting, March 2008.
+
+This is an image-based copy of the original PDF slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2008-03-26-ncme-norm-and-criterion-referenced-student-growth-2/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-03-26-ncme-norm-and-criterion-referenced-student-growth-2.pdf)
+- [All talks](https://dbetebenner.github.io/talks/)

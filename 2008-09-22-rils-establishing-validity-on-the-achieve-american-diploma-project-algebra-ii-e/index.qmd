@@ -1,0 +1,292 @@
+---
+pagetitle: Establishing Validity on the Achieve American Diploma Project Algebra II Exam
+description: >-
+  Establishing Validity on the Achieve American Diploma Project Algebra II Exam — Center for Assessment Reidy Interactive Lecture Series, September 2008.
+  Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Establishing Validity on the
+Achieve American Diploma Project
+ Algebra II Exam
+
+ September 25-26, 2008
+ NCIEA</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Who is Achieve, Inc.?
+
+■
+ Created by the nation’s governors and
+ business leaders, Achieve, Inc., is a
+ bipartisan non-profit organization that
+ helps states raise academic standards,
+ improve assessments and strengthen
+ accountability to prepare all young people
+ for postsecondary education and training,
+ careers, and citizenship.
+
+ 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">American Diploma Project
+
+■ The American Diploma Project (ADP) was
+ created to ensure all graduates leave high
+ school ready for college and careers.
+
+■ Early research by ADP sought to identify
+ “must-have” knowledge and skills graduates
+ will need to be successful in college and the
+ workplace.
+
+ 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The ADP Benchmarks: Challenging
+ content for all students
+To cover the content in the ADP benchmarks,
+high school graduates need:
+■ In Mathematics: ■ In English:
+ ● A rigorous four-year ● Four courses
+ course sequence ● Content equivalent to
+ ● Content* equivalent to four years of grade-
+ a sequence that level English or higher
+ includes Algebra I and with a strong focus on
+ II, Geometry, and Data oral and written
+ Analysis &amp; Statistics communication skills
+ and considerable
+ *can be taught via different research and analysis
+ pathways
+
+ 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ADP Policy Agenda
+■ Align high school standards with college
+ and career expectations.
+■ Require all students to take curriculum
+ aligned with standards.
+■ Include “college-ready” tests,
+ aligned with state standards, in
+ high school assessment system.
+■ Hold high schools accountable for
+ graduating students college- and career-
+ ready, and hold postsecondary institutions
+ accountable for student success.
+
+ 5</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">ADP Algebra II
+ End-of-Course Exam
+In 2005, ADP states began to explore possibility
+ of collaborating on common assessment goals:
+■ To measure “college-ready” content
+
+■ To ensure consistent content and rigor in
+ Algebra II courses within and among states
+■ To enable comparisons in performance among
+ the states
+■ To reduce test development costs by working
+ together
+■ To be considered for postsecondary
+ placement purposes
+ 6</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Exam Core Content
+Operations on Numbers and Expressions
+ •Real numbers
+ •Complex numbers
+ •Algebraic expressions
+Equations and Inequalities
+ •Linear equations and inequalities
+ •Nonlinear equations and inequalities
+Polynomial and Rational Functions
+ •Quadratic functions
+ •Higher-order polynomial and rational functions
+Exponential functions
+ •Exponential functions
+Function Operations and Inverses
+ •Function operations and composition
+ •Inverse functions
+ •Piecewise functions
+
+ 7</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Exam Core Design
+■ 57 operational items
+■ Two untimed sessions (approximately 90
+ minutes each)
+■ One with calculator/one without
+■ Multiple choice, short answer &amp; extended
+ response items
+■ At least 30% of points from non-multiple
+ choice items
+■ Paper &amp; Pencil/Online format
+ ● Spring 2008 Paper &amp; Pencil format only
+
+ 8</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Algebra II Exam: Modules to
+ extend rigor and scope
+Items for modules have been created and field tested,
+but at this time, no state has opted to purchase them.
+
+ ■ Content:
+ ■ Design:
+ ● Data &amp; Statistics
+ ● 8 items each
+ ● 20-25 minute session
+ ● Probability
+ ● All with calculator
+ ● Trigonometric
+ Functions ● Multiple choice, short
+
+ ● Logarithmic Functions answer &amp; extended
+ response items
+ ● Matrices
+ ● 30% of points from non-
+ ● Conic Sections multiple choice items
+ ● Sequences &amp; Series ● Paper &amp; Pencil/Online
+ format
+ 9</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Algebra II Exam: Milestones
+
+■ First Operational Pencil &amp; Paper: Spring 2008
+
+■ First Operational Online: Winter 2008/09
+
+■ Validity and Research Studies with Colleges and
+
+ Universities: Fall 2008 and Winter 2009
+■ Standard Setting: Summer 2009
+
+ 10</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validity Overview
+
+■ Content Validity
+■ Procedural Validity
+■ Alignment Evidence
+■ College Readiness Evidence-Predictive Validity
+ &amp; Concurrent Validity
+■ Standard Setting
+■ Reporting
+■ Consequential Validity
+
+ 11</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">College Readiness
+
+■ College Readiness Evidence
+ ● Concurrent Validity
+ ◆ What is the relationship between Algebra II and other
+ “known” tests (ACT, SAT, placement tests . . .)?
+ ● Predictive Validity (Cross-sectional now then longitudinal
+ as a cohort reaches college)
+ ◆ What is the relationship between Algebra II and success on
+ the first semester credit-bearing college course?
+ ● Expert Judgment
+ ◆ Where do College Professors that teach first semester credit-
+ bearing courses believe the readiness cut should be?
+
+ 12</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Standard Setting
+
+■ Different Approach for College Readiness
+ ◆ Empirical validity evidence will inform standard setting
+ (based on studies previously described)
+ ◆ The consortium of states, National Education Leaders, and
+ Achieve will serve as the “Board” to review the evidence
+ and recommend cut scores. They will use the Briefing
+ Book approach.
+ ◆ The PLD will have two components: an empirical basis
+ based on probability of success in college and descriptions
+ of the type of skills that students demonstrate at each level.
+
+ 13</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">More Information
+ For more information on Achieve,
+ please visit Achieve, Inc., on the Web at
+ http://www.achieve.org
+
+For more information on ADP Algebra II End-of-
+ Course Exam,
+ please visit Achieve, Inc., on the Web at
+ http://www.achieve.org/AlgebraIITestOverview
+
+ Contact Achieve:
+ Robert Triscari rtriscari@achieve.org
+ Tracy Halka thalka@achieve.org
+ 14</div>
+```
+
+## About this copy {.archive-about}
+
+*Establishing Validity on the Achieve American Diploma Project Algebra II Exam* — Center for Assessment Reidy Interactive Lecture Series, September 2008.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2008-09-22-rils-establishing-validity-on-the-achieve-american-diploma-project-algebra-ii-e/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-09-22-rils-establishing-validity-on-the-achieve-american-diploma-project-algebra-ii-e.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-09-22-rils-establishing-validity-on-the-achieve-american-diploma-project-algebra-ii-e.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

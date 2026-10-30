@@ -1,0 +1,250 @@
+---
+pagetitle: Uses and Limitations of Growth Data
+description: Uses and Limitations of Growth Data — CCSSO, June 2009. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Uses and Limitations of
+ Growth Data
+ Jonathan Dings
+ Boulder Valley School District
+ June 22, 2009
+ jonathan.dings@bvsd.org</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+
+• Setting Meaningful Goals for
+ Continuous Improvement
+• Metrics that Incentivize
+
+ Productive Responses
+• Contextualizing Growth Data
+
+ to Provoke Thoughtful Use
+• Avoiding Over-Interpretation</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Continuous Improvement Model
+
+ Plan of Action Assess Current Reality
+
+ Vision
+
+ Set SMART Goals Why Are We Getting
+ These Results?
+• Achievement
+• Equity
+• Climate
+ Theory of Action
+ If ….Then….and X will result BayCES, 2002
+ 3</div>
+```
+
+::: notes
+```{=html}
+Judy
+```
+:::
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Assessing Our Results
+■ What are the trends over time?
+■ What are the trends for groups?
+
+■ How did overall achievement change,
+
+ compared to the same students’ achievement
+ last year?
+■ How does the change compare to a standards-
+
+ based or norms-based idea of a year’s growth?
+■ How does the change differ by groups?
+
+■ How do achievement data compare with school
+
+ climate, parent, staff and NCG survey results?</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Colorado Student Assessment Program
+
+•Grades 3-10 Read/Write/Math; Sci at 5,8,10
+•Based on Content Standards
+•Standardized Administration to Nearly All
+Students, with Accommodations Available
+•Selected- and Open-Response Questions
+•CSAP Development Process and Statistical
+Evidence Support Making Inferences from
+Results
+•Growth Data More Relevant for Many
+Purposes than Achievement</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Relatively New Metric: Colorado’s Growth
+ Model
+
+■ Easier to use and understand than
+ the previous methods
+■ Supported by a useful video
+
+■ CDE graphs available online by
+
+ district and school
+■ Current year results arrived at a later
+
+ than ideal time for full use</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Colorado Median Growth Percentile
+■ Amount of gain is statistically compared
+ across students starting from the same
+ point (“academic peers”)
+■ Growth percentile assigned: percent of
+
+ “academic peers” making that amount of
+ gain or less
+■ Percentiles range from 1 to 99, can be
+
+ compared with state median of 50
+■ Accountability Measure: the middle growth
+
+ %-ile</div>
+```
+
+::: notes
+```{=html}
+Bullet 2 --- Norm based model<br>
+Bullet 4 --- 50 is typical for a state-wide interpretation
+```
+:::
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Several View of BVSD Writing Data
+ Colorado’s Growth Model
+
+■ District
+■ Grade
+
+■ Race/Ethnicity</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">District Median Growth %-ile
+ Overall
+ Eng Home La
+ ELL
+ Meal Assist
+ Special Ed</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Productive Response to Median
+ Growth Percentile
+■ Users are far less dismissive of gaps
+ in growth than in achievement
+■ Because a student’s growth is not
+
+ readily predicted, raising median
+ growth requires group improvement
+■ Reflection on what went well for
+
+ students with high growth</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School and Teacher Use
+■ Fair comparison across content
+ areas
+■ Encouraged for use in school goal
+
+ setting, especially around equity
+■ Published at student level in Student
+
+ Information System (Infinite
+ Campus), contextualized with
+ grades, demographics, simple gain</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">School Results, vs. District</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Student Roster in IC</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Teacher level results</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Avoiding Over-Interpretation
+
+■ Contextualize with Error Estimates
+■ Examine Multiple Content Areas
+
+ and Years of Results for Each
+ Student
+■ Consider Likely Response of
+
+ Parents, Having Seen Percentiles
+ only for Achievement, not Growth</div>
+```
+
+## About this copy {.archive-about}
+
+*Uses and Limitations of Growth Data* — CCSSO, June 2009.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2009-06-19-ccsso-uses-and-limitations-of-growth-data/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-06-19-ccsso-uses-and-limitations-of-growth-data.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-06-19-ccsso-uses-and-limitations-of-growth-data.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

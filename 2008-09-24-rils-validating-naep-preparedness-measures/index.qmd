@@ -1,0 +1,123 @@
+---
+pagetitle: Validating NAEP Preparedness Measures
+description: Validating NAEP Preparedness Measures — Center for Assessment Reidy Interactive Lecture Series, September 2008. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating NAEP
+ Preparedness Measures
+ Presentation to:
+ THE 2008 REIDY INTERACTIVE LECTURE SERIES:
+ Validating Assessment and Accountability Programs
+ Friday, September 26, 2008
+ Portsmouth, NH
+
+ Presenter:
+ Lauress L. Wise
+
+September 26, 2008 Validating NAEP Preparedness Measures 1</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">NAEP 12th Grade Readiness Measures
+
+• The National Assessment Governing Board (NAGB) has
+ conducted an extensive review of 12th grade NAEP
+ – Launched in response to Roy Truby’s farewell address
+ – A key focus has been on redefining content standards in terms of
+ student readiness for college, work, and military service
+ – NAGB hopes to report results from the 2009 assessment in terms
+ of readiness standards
+• National Commission on 12th Grade NAEP (2004)
+ – Concern about student motivation for 12th grade assessment
+ – Recommended consideration of readiness reporting
+• Ad Hoc (NAGB) Committee on Planning for NAEP 12th
+ Grade Assessments in 2009
+ – Recommended focus on academic preparation (Preparedness)
+ – Targets: Credit-bearing college courses and job training programs
+ – Led to adoption of revised frameworks for math and reading
+
+September 26, 2008 Validating NAEP Preparedness Measures 2</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Panel to Recommend Validity Evidence for
+NAEP Preparedness Measures
+• In June 2007, NAGB commissioned a Technical
+ Panel on 12th Grade Preparedness Research
+ – 7 experts in educational policy and measurement and
+ industrial psychology, chaired by Michael Kirst
+ – Recommendations are due at NAGB’s November
+ 2008 meeting
+• Preliminary recommendations discussed at
+ NAGB’s August 2008 meeting
+ – Panel believes that preparedness reporting is feasible
+ with appropriate validity studies
+ – Research studies to start in October 2008
+ – Completed by May 2010, followed by standard setting
+ – Results to be reported by October 2010
+
+September 26, 2008 Validating NAEP Preparedness Measures 3</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Types of Validity Studies Identified by the
+NAEP Panel
+
+• Content Alignment
+ – To SAT/ACT, ASVAB, AccuPlacer, Compass, Work Keys
+• Statistical Relationships
+ – Score linkages to many of these same tests
+• Judgmental Standard Setting with Expert Panels
+ – Identify KSA’s for samples of exemplar “reference” courses and
+ job training programs
+ – Relate to NAEP math and reading score levels
+• Survey of Higher Education and Job Training Institutions
+ – Identify requirements and cut-scores used for admissions and
+ placement decisions
+
+September 26, 2008 Validating NAEP Preparedness Measures 4</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Group Discussion Questions
+
+1. Do you think it is a good idea to define
+ high school content standards in terms of
+ readiness for what lies beyond? (Why or
+ why not)
+2. What barriers do you see to the adoption
+ of such measures?
+3. What evidence do you consider most
+ important for establishing the validity of
+ readiness measures
+
+September 26, 2008 Validating NAEP Preparedness Measures 5</div>
+```
+
+## About this copy {.archive-about}
+
+*Validating NAEP Preparedness Measures* — Center for Assessment Reidy Interactive Lecture Series, September 2008.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2008-09-24-rils-validating-naep-preparedness-measures/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-09-24-rils-validating-naep-preparedness-measures.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-09-24-rils-validating-naep-preparedness-measures.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

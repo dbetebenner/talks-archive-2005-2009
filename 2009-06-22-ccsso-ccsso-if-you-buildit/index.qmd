@@ -1,0 +1,276 @@
+---
+pagetitle: CCSSO If You Buildit
+description: CCSSO If You Buildit — CCSSO, June 2009. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">If You
+If You Build
+ Build It Will
+ It Will They,
+ They, Necessarily,
+ Necessarily, Come?
+How To Get Data Used Come?
+ In School Buildings
+• Jody Ernst
+• Director of Research &amp; Evaluation
+• Colorado League of Charter Schools
+Jody L. Ernst
+Director of Research &amp; Evaluation
+
+CCSSO Annual Conference
+June 22, 2009</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">WhatIfare
+ You BuildbyItwhich
+ the steps Will large
+ They, Necessarily,
+ scale assessment
+data (i.e., raw numbers) Come?
+ get translated into actions
+effecting the education of students?
+ • Jody Ernst
+1.Get all the right systems in place
+ • Director of Research &amp; Evaluation
+2.Make it user friendly
+ • Buy-in
+ Colorado
+3.Get League
+ from all of Charter Schools
+ stakeholders
+4.Develop high quality professional development tools
+5.Make these tools available often and inexpensively
+6.Provide technical assistance</div>
+```
+
+::: notes
+```{=html}
+Even the best data will have no influence on student progress unless TEACHERS are using it to make decisions about instructional practices<br>
+<br>
+-CDE has done 2-4 very well—discuss collaboration—still struggling with number 1 (due to local control of state and FERPA compliance issues) steps are being made thought (e.g., just passed legislation for a statewide teacher identifier)<br>
+<br>
+-Districts and school support organizations need to take <br>
+on 4 as well, and will need to provide 5 themselves.<br>
+<br>
+3. Thinking of data broadly (large scale, small scale, ...), how are data quality and data use related. <br>
+ The best data will do nothing to improve student achievement outcomes if it goes unused<br>
+ The use of poor data for making decisions about student education could yield potentially negative consequences
+```
+:::
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+CDE with the help of many others, such as the staff at the Center for Assessment, have developed a great, user friendly tool that provides districts and principals now, <br>
+And hopefully teachers in the near future, with a visual map of both their overall performance compared to schools in their district, as well as building level exploration <br>
+Capabilities.<br>
+<br>
+On the splash page they have introductory tutorials about what the growth model is and how to use the interface.
+```
+:::
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+Here you see a fictitious district<br>
+<br>
+I have selected to look at all elementary schools’ math placement, according to status and growth, and have asked that charters be highlighted.
+```
+:::
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+To dig deeper into my own school, if I were a principle, I select my school too view on of several dissagregations—including grade, ethnicity, and gender.
+```
+:::
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+Here I have selected to view all the 5th graders in my building. From here I can <br>
+Identify patterns (which I will show in a minute)<br>
+Look at individual student growth patterns over time<br>
+<br>
+Let’s look at a student first.
+```
+:::
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+Bethanne, scored on the cusp of the partially proficient and unsatisfactory categories in 3rd grade. But dropped in to unsat by 4th.<br>
+<br>
+From here we want to know two things: how much growth did Bethanne achieve and how much did she need to move up (rather than down)?
+```
+:::
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+Here we see that her growth was low between 3rd and 4th grade and between 4th and 5th.<br>
+<br>
+Had she grown in the typical range (growth of 35 to 64th percentile) she would have been pp. <br>
+<br>
+Now we need to ask: how much growth does she need to move up next year?
+```
+:::
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+We see here that she need to grow in the high growth range (65th-99th percentile) in order to move up to proficiency.<br>
+<br>
+Since she has historically grown in the low growth range, what needs to be done?<br>
+<br>
+Now what about other subjects?
+```
+:::
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+She is doing better in reading, but has slipped in the last year.<br>
+<br>
+You can see that this info can be used to put this student on an RtI plan.<br>
+<br>
+Because the interface is so visual data teams, or all 6th grade teachers (in this example) and relatively quickly go through individual students<br>
+At the beginning of each year—using this info to assign students to classrooms or programs, cluster kids by strengths and needs, etc<br>
+<br>
+Now lets look at pattern identification
+```
+:::
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+Here we are looking at path performance (by scale score and growth) of all 10th grade students in High school 8.<br>
+<br>
+How did we do with our GT kids?
+```
+:::
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+::: notes
+```{=html}
+How did we do with our lower income kids?<br>
+<br>
+This is a great result.<br>
+<br>
+If patterns did emerge, it would be a warning sign to make systematic changes to address why a certain group of children are not growing.
+```
+:::
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">If and
+Districts Youschool
+ Build It Will
+ support They,need
+ organizations Necessarily,
+ to take
+on the role of providing PD often and inexpensively, and
+ Come?
+need to provide ongoing technical assistance.
+ • of CDE’s training models for a variety of training formats
+ Jody Ernst
+-Use
+ • Director
+(onsite, ofwebinar,
+ regional, Research &amp; Evaluation
+ self-paced)
+
+-•Have
+ Colorado League
+ staff on hand of Charter
+ to answer Schools
+ questions and provide hands-
+on assistance</div>
+```
+
+::: notes
+```{=html}
+Just as having great data does not ensure teachers will use it, neither does having a great tool.<br>
+<br>
+PD needs to be made available, time needs to be given to teachers to take advantage of the PD opportunities and PD needs to be made available often, in a variety of formats.<br>
+<br>
+All organizations, states, districts, schools, and school support orgs should be involved in this process—collaboration and buy-in are essential.<br>
+<br>
+All district face challenges around capacity, they need to seek out creative solutions.
+```
+:::
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">If You
+How/where do Build
+ local dataIt(e.g.,
+ Will They,
+ interim Necessarily,
+ assessments, classroom
+observations) fit in?
+ Come?
+1. They inform the teacher about a students progress during the course of the
+ • Jody Ernst
+academic year, when there is still time for intervention.
+
+2.•They can
+ Director
+ be usedofin conjunction
+ Researchwith&amp;the year
+ Evaluation
+ end measures to assess the
+effectiveness of the teacher’s/school’s curriculum/practices with last years
+ • Colorado League of Charter Schools
+students.
+
+Teachers need to be trained on how to do this well.</div>
+```
+
+::: notes
+```{=html}
+2. With regard to your answer to question 1: How/where do local data (e.g., interim assessments, classroom observations) fit in?<br>
+ In this model, the data is the result at the end of the year, which teachers do not see until the beginning of the next year.<br>
+ Interim assessment and classroom observations, therefore, have two uses<br>
+ 1st they inform the teacher about a students progress during the course of the academic year, when there is still time for intervention.<br>
+ 2nd they can be used in conjunction with the year end measures to assess the effectiveness of the teacher’s/school’s curriculum/practices with last years students<br>
+ in order to make corrections, adjustments to plans for this years students (based on their formative and summative data)<br>
+ <br>
+The League is developing our trainings to help schools do this well and I know Rebecca, in Arizona, has already done to do work around this…
+```
+:::
+
+## About this copy {.archive-about}
+
+*CCSSO If You Buildit* — CCSSO, June 2009.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2009-06-22-ccsso-ccsso-if-you-buildit/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-06-22-ccsso-ccsso-if-you-buildit.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-06-22-ccsso-ccsso-if-you-buildit.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

@@ -1,0 +1,701 @@
+---
+pagetitle: Viccissitudes of the Validators
+description: Viccissitudes of the Validators — Center for Assessment Reidy Interactive Lecture Series, September 2008. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Viccissitudes of the Validators
+
+ Henry Braun
+ Lynch School of Education
+ Boston College
+
+ Presented at the
+2008 Reidy Interactive Lecture Series
+ Portsmouth NH</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Outline
+
+■ Accountability systems
+■ Validity and validation (general)
+
+■ Validation (specific)
+ ■ Tests
+ ■ Standards
+ ■ Indicators
+
+■ Conclusions and prospects</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Educational Accountability
+
+■ Hold the “system” (schools and teachers)
+ responsible for the academic advancement
+ of its students
+■ Externally mandated
+
+■ Monitoring of both inputs and outputs
+
+■ Variable consideration of context
+
+■ Differential incentives</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Current Accountability Systems
+■ Goals
+ ■ Raise learning for all students
+ ■ Reduce achievement gaps
+ ■ Improve system efficiency
+
+■ Emphasis on test-based outputs
+■ Minimal local context
+
+■ Standards-referenced indicators
+
+■ Simple and incomplete theory-of-action
+
+■ Meaningful consequences</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Theory-of-Action
+
+The justification for imposing a particular
+accountability system is the promise that it will
+accomplish the desired goals.
+
+The mechanism by which this will happen is
+called the “theory-of-action”.
+
+Too often it is stated in simplistic terms and
+ignores other (less desirable) behavioral
+responses that the system may elicit .</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Theory-of-Action (2)
+
+Explication of a theory-of-action usually
+involves a high-level flow chart but rarely offers
+more detail on the processes that will operate.
+
+It is precisely that level of detail that is
+required to develop a data collection plan to
+support a serious validation effort …. (More
+later)</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validity as a scientific enterprise
+ Validity is an ongoing argument that seeks
+ to clarify what a measurement means and to
+ understand the limitations of each score
+ interpretation.
+ (adapted from Cronbach,1988)
+
+ ■ Validity as consideration of consequences
+ “Validity is an overall evaluative judgment,
+ founded on empirical evidence and
+ theoretical rationales, of the adequacy and
+ appropriateness of inferences and actions
+ based on test scores.”
+ (Messick, 1989)
+
+8</div>
+```
+
+::: notes
+```{=html}
+Validity is an ongoing argument that seeks to clarify what a measurement means and to understand the limitations of each score interpretation.<br>
+<br>
+Validity is an overall evaluative judgment, founded on empirical evidence and theoretical rationales, of the adequacy and appropriateness of inferences and actions based on test scores.
+```
+:::
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Systemic Validity
+
+Assessment practices and systems of
+accountability are systemically valid if they
+generate useful information and
+constructive responses that support one or
+more policy goals (Access, Quality, Equity,
+Efficiency) within an education system,
+without causing undue deterioration with
+respect to other goals.
+ (adapted from Braun and Kanjee, 2006)</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validation
+In validating an accountability system, the theory-of-
+action plays the same role as does the construct in test
+validation.
+
+The more “ecological” view of validity embodied in the
+acceptance / embrace of consequential validity is perfectly
+suited to the questions raised about the impact of an
+accountability system on the education of our children.
+
+Thus, consequential validity is the ultimate
+criterion by which we should judge an
+accountability system.</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validity Questions
+
+Is the system working? If so, to what degree? If not,
+why not and what should be done about it?
+
+The necessary evidence will comprise both quantitative and qualitative
+information.
+
+The required data goes well beyond recording and analyzing students’
+test scores -- It requires tracking multiple facets of the system over time.
+
+Such efforts are generally well beyond the capacity of state education
+departments and – in any case – are likely to be politically toxic.</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">STRONG STATES, WEAK SCHOOLS: THE DILEMMAS OF CENTRALIZED
+ ACCOUNTABILITY (RAND, 2008)
+
+■ California, Georgia, Pennsylvania
+■ 70 superintendents, 260 principals, 2350 elementary &amp;
+ middle school math teachers
+■ Responses to high stakes accountability
+■ 95+ % variation among teachers (within schools)
+■ Conclusions
+ ■ Variable linkage between central directives/expectations and
+ teacher practices
+ ■ Many principals and teachers lack requisite capacity to
+ respond constructively to the new demands
+ ■ Greater regulation will lead over time to greater uniformity
+ ■ Not clear whether it will inspire innovation and creativity</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validation (2)
+ Study did not:
+■ Analyze links between teacher practices and student
+ outcomes
+■ Investigate student trajectories
+
+■ Consider changes in overall resource allocation
+
+■ Examine patterns of teacher mobility
+
+ Ultimately, an evaluative judgment is a
+ tentative causal conclusion based on partial
+ evidence drawn from an uncontrolled study of
+ schools and districts.</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Caveats
+ “The chief fault of the testing movement has
+consisted in its emphasis upon content in highly
+academic material … the fact that a particular
+pupil shows a marked improvement in reading
+or spelling may give some indication that a
+teacher is improving her performance … but the
+use to which the pupil puts that knowledge is
+the only significant point in determining the
+significance of subject tests in measuring the
+educational system.”
+
+ Ridley and Simon (1938, as quoted in
+Rothstein, 2008).</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Caveats (cont.)
+ “The more any quantitative social indicator is
+ used for social decision-making, the more
+ subject it will be to corruption pressures and
+ the more apt it will be to distort and corrupt
+ the social processes it is intended to monitor.”
+ (D. T. Campbell, 1979)
+
+“Distortion and Risk in Optimal Performance
+ Contracts”
+ (George Baker, 2002)</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Barriers to Validation
+
+■ Constraints
+ ■ Fixed features (externally imposed)
+ ■ Time
+ ■ Cost
+
+■ Capacity
+■ Complexity
+
+■ Inertia
+
+■ Changing players</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">A Bottom-up Strategy?
+
+■ Begin by examining particular system
+ components
+■ Consider degree of coherence among
+
+ components
+■ Evaluate consequences (broadly conceived)
+
+■ Suggestions for redesign (in the small and in
+ the large)</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Standards for Educational Accountability
+ Systems (CRESST/CPRE)
+
+■ System components
+■ Tests
+
+■ Stakes
+
+■ Public reporting formats
+
+■ Evaluation</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating the Test
+
+The lack of a gold standard means that the validation
+process must have an explicit strategy and rationale.
+
+Kane (2004) suggests a two-phase approach:
+
+Interpretive argument: Build a chain of reasoning from
+the test construction process to the desired claims.
+Validity argument: Gather theoretical and empirical
+support for the “truthfulness” of the claims and to
+establish appropriate boundaries.</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating the Test (2)
+
+■ Types of tests
+ ■ NRT vs. CRT
+ ■ End-of-course vs. Cross-cutting skills
+
+■ Threats to evidential validity
+ ■ Construct underrepresentation
+ ■ Construct-irrelevant variance
+
+■ Evidence regarding consequential validity
+ ■ Student learning
+ ■ Instructional practices
+ ■ Administrative practices</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating the Test (3)
+
+The “test” is a “system” and should be
+evaluated as a system
+ ■ Design
+ ■ Development
+ ■ Materials preparation
+ ■ Administration
+ ■ Data processing
+ ■ Scoring
+ ■ Scaling
+ ■ Reporting</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Performance Standards
+■ Increasingly, academic performance is being
+ communicated in terms of standards (e.g. 30% of
+ students at or above proficient)
+■ Indicators framed in terms of standards are being
+ used to track trends in differences and/or changes in
+ academic performance
+■ Consequential decisions about students and/or
+ schools are being made on the basis of results
+ framed in terms of standards
+■ Policy-makers and the public make inferences about
+ public schools based on their interpretations of the
+ standards and standards-based reports</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Performance Standards (2)
+
+ “Arguments and procedures supporting a
+performance standard … may differ according to
+the breadth of the claim the performance
+standards sets forth.”
+
+ “In practice, though, the performance standard
+always embodies a … claim, pertaining to
+capabilities for performance in nontest settings.”
+ (Haertel and Lorie,2004)</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Performance Standards (3)
+
+“Standard setting still can not be reduced to a problem
+of statistical estimation. Fundamentally, standard
+setting involves the development of a policy about what
+is to be required for each level of performance. This
+policy is stated in the performance standards and
+implemented through the cut scores.” (Kane, 2001, p.
+85, emphasis added)
+
+Performance standards are (usually) operationalized by
+means of a “cut-score” on the reporting scale.</div>
+```
+
+::: notes
+```{=html}
+To the extent that cut-scores are aligned with that policy we have reason to believe we will be making the “right” inferences. But it is truly “hoping for the best” to expect that that alignment will be as tight as it could be without deliberately trying to make it so rather than expect that somehow subject matter experts will magically find something that may not be there to begin with. <br>
+<br>
+Incidentally, the argument here is not necessarily avoiding judgmental decision and thereby reopening the allegation that standards setting is arbitrary (Glass, 1978). The point is a) more about the point in time at which subject matter knowledge is brought in; b) the nature and kinds of expertise that are most informative to the process. <br>
+<br>
+With respect to timing: The deliberations that now occur after the assessment has been completed could occurs at the conception of the assessment. The value of doing so, as has been alluded several times, is that, the result of those deliberations inform the assessment design.<br>
+<br>
+With respect to the nature and kinds of expertise: <br>
+Standard setting panels are primarily composed of practitioners, meaning, for example, math teachers if the assessment is about math. Other points of view are included as well including administrators and even the public at large. As a norm there is no explicit input from a research perspective. There is much psychological and educational research that can inform the definitions of achievement levels. In reading for example, we know much about the development of vocabulary. We know what vocabulary levels are needed at each levels to navigate the text for those grades. We also know the rate at which vocabulary can be expected to develop. It may not be unreasonable as parts of standards for reading to estimate a students vocabulary level by means of an assessment that is especially well suited to detect whether the student is in a “danger achievement zone” defines by research on vocabulary acquisition . Imagine instead setting scores on the basis of judgments? Why would judges that are not high level specialists be able to divine the danger zones?
+```
+:::
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Performance Standards (4)
+■ Historically, standard setting has been a retrospective
+ judgmental process carried out
+ ■ independently of the assessment design process
+ ■ after the assessment is administered the first time.
+■ The consequences of a retrospective approach are
+ ■ Reliance on subject matter expertise rather than
+ research on student learning and development
+ ■ Tendency to conflate policy and psychometrics
+ ■ Difficulty in achieving coherence of cut scores across
+ grades
+■ Risks
+ ■ Cut scores may not be well supported
+ psychometrically
+ ■ Insufficient evidence to adequately support desired
+ inferences</div>
+```
+
+::: notes
+```{=html}
+In short, there are major consequences to performance standards. In this presentation we like to make three points.<br>
+<br>
+The retrospective nature of the process has several disadvantages: <br>
+<br>
+We conflate policy and psychometrics<br>
+ Typically the standard setting panel is charged with fleshing out high level policy description of performance levels. This conflates policy with procedure. <br>
+<br>
+We need to rely much more on the judgment of experts <br>
+ By not explicitly defining performance standards early on we are forced to rely on the judgment of experts later on to flesh the definition of performance standards and to cast those definitions into a set of cut scores. <br>
+<br>
+We run the risk of ending up with cut-scores not well supported psychometrically<br>
+ By not having the definitions of performance levels upfront we risk developing an assessment that does not support well the inferences and decisions we wish to make.<br>
+<br>
+We run the risk shortchanging validity by, for example, eroding the inferences we can draw about students and aggregates<br>
+ Having less that adequate support for the performance level definitions that emerge we erode the validity of inferences about students and schools. <br>
+<br>
+Example of retrospective:<br>
+<br>
+To develop the cut scores on each content area/grade level, teams of subject area experts<br>
+matched assessment tasks and activities to the five proficiency levels. The teams then developed<br>
+descriptions of each level by analyzing the tasks and activities assigned to the level. The result<br>
+was a description of the knowledge, skills, and processes from the Maryland Learning Outcomes<br>
+that were required by the tasks and activities at each proficiency level for each subject area and<br>
+grade level assessed.<br>
+<br>
+Hansche (1998, p. 52)<br>
+Hansche, L. N. (1998). Handbook for the Development of Performance<br>
+Standards: Meeting the Requirements of Title I. Washington,<br>
+D.C.: Council of Chief State School Officers and U.S. Department<br>
+of Education.
+```
+:::
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Performance Standards (5)
+
+■ With no gold standard, “procedural validity” has been the
+ touchstone for evaluating standards
+■ But the validity argument demands that we examine
+ different aspects of “standards-in-use:
+ ■ Credibility of interpretation
+ ■ Classification reliability
+ ■ Predictive efficacy (in-school, out-of-school)
+ ■ Statistical properties of indicators derived from standards
+
+ There are important implications for
+ establishing valid performance standards.</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Indicators
+■ Indicators are statistics calculated from student-level
+ data that are used directly for decision-making
+ ■ Percent of students exceeding the proficiency cut-score
+ ■ The change in the percentage of students exceeding the proficiency
+
+ cut-score
+ ■ The percentage of students gaining at least 20 scale score points in
+
+ math from 10th to 11th grade
+ ■ Percent of 9th grade cohort graduating high school in four years
+
+■ There is an implicit assumption that the indicator
+ validly captures an important aspect of system
+ functioning – and that it is appropriate to evaluate the
+ system (at least in part) on the value of that indicator</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Politics , Educational reform :
+High-level Test-based
+ Accountability
+ goals
+
+ Foundations
+ • Theory of learning
+ • Content standards
+ • Performance standards
+ • Federal, state , and local
+ regulations
+
+ Assessment
+ Data Design
+ • State assessments 1) Test development
+ • Local assessments 2) Standard setting
+ • Process 3) Psychometrics
+ • Schools and teachers 4) validation
+ • Financial
+ • Demographic
+
+ Indicators
+ • Percent proficient
+ • Improvement
+ • Growth
+ • Graduation rates
+ • Teacher attributes
+
+ Outcomes
+
+ • Teacher, and local reports
+ • Mandated state and local
+ federal reports
+ • Student transfer options
+ • School reconstitutions
+
+ Actions
+
+ • Teacher behavior changes
+ • Administrative actions</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Indicators (2)
+
+ The Janus Strategy
+■ Backwards:
+ ■ Are the data underlying the indicator(s) valid for the
+
+ purpose?
+ ■ Is the construction of the indicator(s) defensible?
+
+■ Forwards:
+ ■ Are the statistical properties of the indicator(s)
+
+ consistent with the desired inferences?
+ ■ Is the indicator set a reasonable basis for the intended
+
+ decisions?</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Indicators (3)
+
+General guidelines
+
+■ Indicators based on one source of data are
+ very susceptible to corruption
+■ Technical analysis matters
+
+■ Lack of local context is problematic
+
+■ Strong incentives/sanctions not warranted</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Validating Indicators (4)
+
+ Exemplars
+■ Percent proficient
+
+■ Trend in percent proficient
+
+■ Trend in difference in percent proficient
+
+■ Growth to a standard
+
+■ Absolute growth
+
+■ Estimate of value-added</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Lessons Learned
+■ Accountability is expected and appropriate for any
+ publicly funded enterprise
+■ Current accountability systems
+ ■ Are under-designed and over-hyped
+ ■ Often substitute ideology for technical analysis
+ ■ Ignore the dynamics of human responses
+ ■ Too crude for the intended job
+
+■ Experience in other fields (e.g. health care, law
+ enforcement, business) tells us that it is rare to
+ find an accountability system that works “as
+ intended”</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Lessons Learned (2)
+
+ “Whenever you try to legislate professional behavior,
+there are bound to be unintended consequences….Nor
+is it clear that pay for performance (P4P) will actually
+result in better care.
+ Doctors have seldom been rewarded for excellence,
+at least not in any tangible way… At first glance, P4P
+would seem to remedy this problem. But first its deep
+flaws must be addressed before patient care is
+compromised in unexpected ways.”
+ [S. Jauhar, M.D., NY Times, 9/9/08]</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Prospects
+
+■ Validation focused on components can make an important
+ contribution
+■ In the long-term, design considerations must become more salient in
+ the construction of accountability systems
+■ Because politics (almost) always trumps psychometrics,
+ measurement personnel should try to engage more directly in the
+ policy-making process
+
+ An accountability system that accomplishes
+ flexible regulation in the service of constructive
+ improvement of education outcomes is a rare
+ beast indeed!</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Coda
+
+V a l i d ators  G l a d i ators</div>
+```
+
+## About this copy {.archive-about}
+
+*Viccissitudes of the Validators* — Center for Assessment Reidy Interactive Lecture Series, September 2008.
+
+This is an image-based copy of the original PowerPoint slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2008-09-24-rils-viccissitudes-of-the-validators/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-09-24-rils-viccissitudes-of-the-validators.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2008-09-24-rils-viccissitudes-of-the-validators.ppt)
+- [All talks](https://dbetebenner.github.io/talks/)

@@ -1,0 +1,720 @@
+---
+pagetitle: 'The Colorado Growth Model: Operationalizing Growth-to-Standard for AYP using Growth Percentiles'
+description: >-
+  The Colorado Growth Model: Operationalizing Growth-to-Standard for AYP using Growth Percentiles — Arizona Department of Education, March 10, 2009. Image-based
+  copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Colorado Growth Model
+ Operationalizing Growth−to−Standard for AYP using Growth Percentiles
+
+Grade 4/2005 Grade 5/2006 Grade 6/2007 Grade 7/2008 Grade 8/2009 Grade 9/2010</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Colorado Growth Model uses each student's growth percentile in two ways:
+ First, the growth percentile is used to describe how much a student has grown
+ during the last year. Second, the growth percentile is used to determine whether the
+ student is on track to reach/maintain proficiency. The following slides demonstrate,
+ for individual students, how the Colorado Growth Model is used to determine
+ whether the student is On Track to either Reach or Maintain Proficiency.
+ That is, whether the student is either &quot;Catching Up&quot; or &quot;Keeping Up&quot;.
+
+Grade 4/2005 Grade 5/2006 Grade 6/2007 Grade 7/2008 Grade 8/2009 Grade 9/2010</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">On Track to Reach NCLB Proficient − Catching Up
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to put them on track to reach NCLB
+ proficient within 3 years?
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to put them on track to reach NCLB
+ proficient within 3 years?
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ After 1 year the student
+ remains unsatisfactory,
+ so their 1 year growth was not
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ Is the student's growth, 67th percentile growth, consecutively for two years, to reach NCLB proficient.
+ from 2007 to 2008, sufficient Their 70th percentile growth puts them ahead of that 2 year target.
+ to put them on track to reach NCLB
+ proficient within 3 years?
+
+ 67th
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ After 1 year the student
+ remains unsatisfactory,
+ so their 1 year growth was not
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ Is the student's growth, 67th percentile growth, consecutively for two years, to reach NCLB proficient.
+ from 2007 to 2008, sufficient Their 70th percentile growth puts them ahead of that 2 year target.
+ to put them on track to reach NCLB
+ proficient within 3 years?
+ 55th
+
+ 67th
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ In 2008 CDE estimated that it
+ would take 55th percentile growth,
+ After 1 year the student consecutively for three years, to reach NCLB
+ remains unsatisfactory, proficient. Their 70th percentile growth
+ so their 1 year growth was not puts them ahead of that 3 year target.
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ Is the student's growth, 67th percentile growth, consecutively for two years, to reach NCLB proficient.
+ from 2007 to 2008, sufficient Their 70th percentile growth puts them ahead of that 2 year target.
+ to put them Conclusion: Even
+ on track to reach NCLBthough the student was not NCLB proficient in 2008, their 2007−08
+ growth
+ proficient percentile of 70 was more than either the two or three year targets. As such
+ within 3 years?
+ the student's growth is considered to be sufficient to reach NCLB proficient within three years. 55th
+
+ In short, the student is on track to be NCLB proficient and is &quot;catching
+ 67th up&quot;.
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ In 2008 CDE estimated that it
+ would take 55th percentile growth,
+ After 1 year the student consecutively for three years, to reach NCLB
+ remains unsatisfactory, proficient. Their 70th percentile growth
+ so their 1 year growth was not puts them ahead of that 3 year target.
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Not On Track to Reach NCLB Proficient − Not Catching Up
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">After 1 year the student
+ remains unsatisfactory,
+ so their 1 year growth was not
+ Is the student's growth, enough to get them to NCLB proficient.
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ 89th percentile growth, consecutively for two years,
+ After 1 year the student to reach NCLB proficient. Their 61st percentile
+ remains unsatisfactory, growth puts them behind that 2 year target.
+ so their 1 year growth was not
+ Is the student's growth, enough to get them to NCLB proficient.
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+ 89th
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ 89th percentile growth, consecutively for two years,
+ After 1 year the student to reach NCLB proficient. Their 61st percentile
+ remains unsatisfactory, growth puts them behind that 2 year target.
+ so their 1 year growth was not
+ Is the student's growth, enough to get them to NCLB proficient.
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+ 77th
+
+ 89th
+
+ 61st ●
+ In 2008 CDE estimated that it
+ would take 77th percentile growth,
+ ●
+ consecutively for three years, to reach
+ NCLB proficient. Their 61st percentile growth
+ 10th ●
+ puts them behind that 3 year target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ 89th percentile growth, consecutively for two years,
+ Conclusion: Because the After student
+ 1 yearwas
+ the not NCLB proficient
+ student to in 2008
+ reach NCLB and their Their
+ proficient. 2007−08
+ 61st percentile
+ remains unsatisfactory,
+ growth percentile of 61 was less than both the two and three year targets, the year target.
+ growth puts them behind that 2
+ so their 1 year growth was not
+ student's
+ Is the student's growth is enough
+ growth, considered to be
+ to get them insufficient
+ to NCLB to reach proficient within three years
+ proficient.
+ from 2007 toIn2008, sufficient
+ short, the student is not on track to be NCLB proficient and is not &quot;catching up&quot;.
+ to put them on track to reach
+ NCLB proficient within 3 years?
+ 77th
+
+ 89th
+
+ 61st ●
+ In 2008 CDE estimated that it
+ would take 77th percentile growth,
+ ●
+ consecutively for three years, to reach
+ NCLB proficient. Their 61st percentile growth
+ 10th ●
+ puts them behind that 3 year target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Not On Track to Remain NCLB Proficient − Not Keeping Up
+
+ ● 19th
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above NCLB
+ proficient for the next 3 years?
+
+ ● 19th
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above NCLB
+ proficient for the next 3 years?
+
+ ● 19th
+ ●
+
+ After 1 year the student
+ remains NCLB proficient,
+ so their 1 year growth was
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 26th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above NCLB at or above NCLB proficient. Their 19th percentile
+ proficient for the next 3 years? growth puts them behind that 2 year minimal target.
+
+ 26th
+ ● 19th
+ ●
+
+ After 1 year the student
+ remains NCLB proficient,
+ so their 1 year growth was
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 26th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above NCLB at or above NCLB proficient. Their 19th percentile
+ proficient for the next 3 years? growth puts them behind that 2 year minimal target.
+
+ 27th
+
+ 26th
+ ● 19th
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 27th percentile
+ growth, consecutively for three years, to
+ After 1 year the student
+ maintain at or above proficient. Their 19th
+ remains NCLB proficient,
+ percentile growth puts them behind that
+ so their 1 year growth was
+ 3 year minimal target.
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 26th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above NCLB at or above NCLB proficient. Their 19th percentile
+ proficient for the next 3 years? growth puts them behind that 2 year minimal target.
+ Conclusion: Even though the student was NCLB proficient in 2008, their 2007−08
+ growth percentile of 19 was less than both the two and three year minimum targets. As such, the
+ student's growth is considered to be insufficient to remain NCLB proficient over the next three years.
+ In short, the student is not on track to remain NCLB proficient and is not &quot;keeping up&quot;.
+
+ 27th
+
+ 26th
+ ● 19th
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 27th percentile
+ growth, consecutively for three years, to
+ After 1 year the student
+ maintain at or above proficient. Their 19th
+ remains NCLB proficient,
+ percentile growth puts them behind that
+ so their 1 year growth was
+ 3 year minimal target.
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">On Track to Remain Colorado Proficient − Keeping Up
+ 63rd ●
+
+ 66th ●
+ 26th ●
+
+ ●
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above Colorado
+ proficient for the next 3 years?
+
+ 63rd ●
+
+ 66th ●
+ 26th ●
+
+ ●
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ 63rd ●
+
+ 66th ●
+ 26th ●
+
+ ●
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ 63rd ●
+
+ 66th ● 18th
+ 26th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 18th percentile growth,
+ consecutively for two years, to maintain
+ at or above proficient. Their 63rd percentile
+ growth puts them above that 2 year minimal target.
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ 63rd ● 22nd
+
+ 66th ● 18th
+ 26th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 22nd percentile
+ growth, consecutively for three years, to
+ In 2008 CDE estimated that it maintain at or above proficient. Their 63rd
+ would take, at a minimum, 18th percentile growth, percentile growth puts them above that 3 year
+ consecutively for two years, to maintain minimal target.
+ at or above proficient. Their 63rd percentile
+ growth puts them above that 2 year minimal target.
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ Conclusion: Because the student was Colorado proficient in 2008 and their 2007−08
+ growth percentile of 63 was greater than both the two and three year minimum targets, the
+ student's growth is considered to be sufficient to remain ●proficient during the next three years. 22nd
+ 63rd
+
+ In short, the
+ ●
+ student is on track to remain Colorado proficient and is &quot;keeping
+ 66th 18th
+ up&quot;.
+ 26th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 22nd percentile
+ growth, consecutively for three years, to
+ In 2008 CDE estimated that it maintain at or above proficient. Their 63rd
+ would take, at a minimum, 18th percentile growth, percentile growth puts them above that 3 year
+ consecutively for two years, to maintain minimal target.
+ at or above proficient. Their 63rd percentile
+ growth puts them above that 2 year minimal target.
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Not On Track to Remain Colorado Proficient − Not Keeping Up
+
+ 45th ● 22nd ●
+
+ 58th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above Colorado
+ proficient for the next 3 years?
+
+ 45th ● 22nd ●
+
+ 58th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above Colorado
+ proficient for the next 3 years?
+
+ 45th ● 22nd ●
+
+ 58th ●
+
+ ●
+
+ After 1 year the student
+ remains proficient,
+ so their 1 year growth was
+ enough to remain at proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 25th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above Colorado at or above proficient. Their 22nd percentile
+ proficient for the next 3 years? growth puts them below that 2 year minimal target.
+
+ 45th ● 22nd ● 25th
+
+ 58th ●
+
+ ●
+
+ After 1 year the student
+ remains proficient,
+ so their 1 year growth was
+ enough to remain at proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 25th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above Colorado at or above proficient. Their 22nd percentile
+ proficient for the next 3 years? growth puts them below that 2 year minimal target.
+
+ 31st
+
+ 45th ● 22nd ● 25th
+
+ 58th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 31st percentile
+ After 1 year the student growth, consecutively for three years, to
+ remains proficient, maintain at or above proficient. Their
+ so their 1 year growth was 22nd percentile growth puts them behind
+ enough to remain at proficient. that 3 year minimal target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 25th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above at or above proficient. Their 22nd percentile
+ proficient for the next 3 years? growth puts them below that 2 year minimal target.
+
+ Conclusion: Even though the student was proficient in 2008, their 2007−08
+ growth percentile of 22 was less than both the two and three year minimum targets. As such, the
+ student's growth is considered to be insufficient to remain Colorado proficient over the next three years.
+ In short, the student is not on track to remain Colorado proficient and is not &quot;keeping up&quot;.
+ 31st
+
+ 45th ● 22nd ● 25th
+
+ 58th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 31st percentile
+ After 1 year the student growth, consecutively for three years, to
+ remains proficient, maintain at or above proficient. Their
+ so their 1 year growth was 22nd percentile growth puts them behind
+ enough to remain at proficient. that 3 year minimal target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## About this copy {.archive-about}
+
+*The Colorado Growth Model: Operationalizing Growth-to-Standard for AYP using Growth Percentiles* — Arizona Department of Education, March 10, 2009.
+
+This is an image-based copy of the original PDF slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2009-03-10-az-the-colorado-growth-model-operationalizing-growth-to-standard-for-ayp-using/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-03-10-az-the-colorado-growth-model-operationalizing-growth-to-standard-for-ayp-using.pdf)
+- [All talks](https://dbetebenner.github.io/talks/)

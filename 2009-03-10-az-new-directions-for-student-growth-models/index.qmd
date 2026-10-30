@@ -1,0 +1,1460 @@
+---
+pagetitle: New Directions for Student Growth Models
+description: New Directions for Student Growth Models — Arizona Department of Education, March 10, 2009. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ The Colorado Growth Model
+ References
+
+New Directions for Student Growth Models
+
+ Damian W. Betebenner
+
+ National Center for the Improvement of Educational Assessment
+ Dover, NH
+
+ Presentation to
+ The Arizona State Board for Charter Schools
+ Phoenix, Arizona March 10th, 2009
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview The Big Picture
+ The Colorado Growth Model Relevant Questions/Concepts
+ References Growth &amp; Effectiveness
+
+Statistics Wisdom (an oxymoron?)
+
+ John Tukey
+ It is better to have an approximate answer to the right question than
+ a precise answer to the wrong question.
+
+ George E. P. Box
+ All models are wrong but some are useful.
+
+ Recommendation: Start at the end
+ The best growth model will answer the questions of relevance to your
+ stakeholders.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview The Big Picture
+ The Colorado Growth Model Relevant Questions/Concepts
+ References Growth &amp; Effectiveness
+
+What are the relevant questions?
+
+ Growth models address specific questions
+ Different growth analysis techniques are good at answering
+ different questions.
+ It is critical to understand these different questions.
+ Different questions lead to different conversations which lead to
+ different uses and outcomes.
+
+ Questions form the vocabulary of later conversations
+ Starting with the right questions simplifies development and
+ motivating the proper use of the growth model results.
+ It’s all about the conversations you want to have. The questions
+ set the table for those conversations.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview The Big Picture
+ The Colorado Growth Model Relevant Questions/Concepts
+ References Growth &amp; Effectiveness
+
+What are the relevant questions for parents?
+
+ Yen (2007), from a state survey of parents, teachers and administrators,
+ compiled a list of frequently voiced questions/concerns by stakeholder
+ group.
+
+ Parent Questions
+ Did my child make a year’s worth of progress in a year?
+ Is my child growing appropriately toward meeting state
+ standards?
+ Is my child growing as much in Math as Reading?
+ Did my child grow as much this year as last year?
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview The Big Picture
+ The Colorado Growth Model Relevant Questions/Concepts
+ References Growth &amp; Effectiveness
+
+What are the relevant questions for teachers?
+
+ Yen (2007), from a state survey of parents, teachers and administrators,
+ compiled a list of frequently voiced questions/concerns by stakeholder
+ group.
+
+ Teacher Questions
+ Did my students make a year’s worth of progress in a year?
+ Did my students grow appropriately toward meeting state
+ standards?
+ How close are my students to becoming Proficient?
+ Are there students with unusually low growth who need special
+ attention?
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview The Big Picture
+ The Colorado Growth Model Relevant Questions/Concepts
+ References Growth &amp; Effectiveness
+
+What are the relevant questions for administrators?
+
+ Yen (2007), from a state survey of parents, teachers and administrators,
+ compiled a list of frequently voiced questions/concerns by stakeholder
+ group.
+
+ Administrator Questions
+ Did the students in our district/school make a year’s worth of
+ progress in all content areas?
+ Are our students growing appropriately toward meeting state
+ standards?
+ Does this school/program show as much growth as that one?
+ Can I measure student growth even for students who do not
+ change proficiency categories?
+ Can I pool together results from different grades to draw
+ summary conclusions?
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview The Big Picture
+ The Colorado Growth Model Relevant Questions/Concepts
+ References Growth &amp; Effectiveness
+
+Growth, Effectiveness, and Value-Added
+
+ Fundamental Premise
+ “Good” schools bring about student growth in excess of that found at
+ “bad” schools.
+
+ “Good schools” are often called highly effective schools.
+ What’s the relationship between growth and effectiveness?
+ Effectiveness indicates who/what is responsible for the growth
+ (value-added models).
+ Yen’s questions make no mention of effectiveness.
+ Yen’s questions indicate stakeholder interest in a description of
+ student growth.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Describing Student Growth
+ The Colorado Growth Model
+ Combining Actual and Aspirational Growth
+ References
+
+The Colorado Growth Model
+
+ How much growth did my student make?
+ Is it enough?
+ An important first step in the development of the Colorado
+ Growth Model was to separate the description of growth from
+ the assignment of responsibility (i.e., accountability).
+ Incorporating growth into accountability follows from the viable
+ description of growth.
+ A viable description of growth facilitates stakeholder
+ engagement and investigations of responsibility for good/bad
+ growth.
+ This leads to greater stakeholder support for accountability.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Describing Student Growth
+ The Colorado Growth Model
+ Combining Actual and Aspirational Growth
+ References
+
+Describing Student Growth
+
+ Measuring student growth, even with a vertical scale, is not a simple
+ task.
+ Some believe a vertical scale simplifies the task of measuring
+ student growth.
+ Even with an interval (or ratio) scale, growth is not easy to interpret.
+ Consider, for example, height.
+ A child might grow 4 inches between ages 3 and 4.
+ 4 inches is a well understood quantity.
+ The 4 inch increase becomes really meaningful only when understood
+ alongside the growth of other 3 to 4 year olds.
+ Student growth percentiles were developed to provide a normative
+ context for describing student growth.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Describing Student Growth
+ The Colorado Growth Model
+ Combining Actual and Aspirational Growth
+ References
+
+Student Growth Percentiles
+
+ Should we be surprised with a child’s current achievement given their
+ prior achievement?
+ Student growth percentiles answer this question.
+ Consider a low achieving student with 90th percentile growth and a
+ high achieving student with 10th percentile growth.
+ The low achieving student grew at a rate exceeding 90 percent of
+ similar students.
+ The high achieving student grew at a rate exceeding just 10 percent of
+ similar students.
+ The low achiever’s growth is more exemplary (probabilistically) than
+ the high achiever’s.
+ Judgments about the adequacy of student growth require external
+ criteria.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">NCIEA
+ CDE
+
+ Colorado Department of Education
+ High
+ Math
+ Advanced ●
+ Typical
+ Achievement
+ ● Low
+ CSAP Math
+ ● Scale Score
+
+ ● ● Growth
+ Level Percentiles
+ Proficient
+ High 66th − 99th
+
+ Typical 36th − 65th
+ Part Proficient
+ Low 1st − 35th
+
+ Unsatisfactory
+ Grade 4 Grade 5 Grade 6 Grade 7 Next Year
+ 2005 2006 2007 2008
+ Scale Score 515 517 589 603
+ Achievement Level Proficient Proficient Advanced Proficient Achievement
+ Growth Percentile 15 92 76
+ Growth Level Low High High Growth
+
+ 2008 CSAP Growth &amp; Achievement Report
+ Advanced High
+ Reading
+ Typical Achievement
+ ● ●
+ CSAP Reading
+ Low ● Scale Score
+ ●
+ Proficient Growth
+ Level Percentiles
+
+ ● High 66th − 99th
+
+ Typical 36th − 65th
+ Part Proficient
+ Low 1st − 35th
+
+ Unsatisfactory
+ Grade 4 Grade 5 Grade 6 Grade 7 Next Year
+ 2005 2006 2007 2008
+ Scale Score 567 620 652 657
+ Achievement Level Part Proficient Proficient Proficient Proficient Achievement
+ Growth Percentile 72 89 72
+ Growth Level High High High Growth
+
+ Advanced
+ High Writing
+ Achievement
+ ● Typical
+ CSAP Writing
+ ● Scale Score
+
+ Low
+ ● ● Growth
+ Proficient
+ Level Percentiles
+
+ ●
+
+ Example Student 3020
+ High 66th − 99th
+
+ Part Proficient Typical 36th − 65th
+
+ Low 1st − 35th
+
+ Unsatisfactory
+
+ Grade 4 Grade 5 Grade 6 Grade 7 Next Year
+ 2005 2006 2007 2008
+ Scale Score 478 517 519 574
+ Achievement Level Part Proficient Proficient Proficient Proficient Achievement
+ Growth Percentile 77 44 86
+ Growth Level High Typical High Growth</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">NCIEA
+ CDE
+
+ Colorado Department of Education
+ Advanced
+ Math
+ Achievement
+ CSAP Math
+ ● Scale Score
+ ●
+ Growth
+ ●
+ Proficient ● Level Percentiles
+
+ ● High 66th − 99th
+ ●
+
+ Typical 36th − 65th
+ Part Proficient
+ Low 1st − 35th
+
+ Unsatisfactory
+ Grade 6 Grade 7 Grade 8 Grade 9 Grade 10
+ 2004 2005 2006 2007 2008
+ Scale Score 511 521 555 545 588
+ Achievement Level Part Proficient Part Proficient Part Proficient Unsatisfactory Part Proficient Achievement
+ Growth Percentile 20 66 27 84
+ Growth Level Low High Low High Growth
+
+ 2008 CSAP Growth &amp; Achievement Report
+ Advanced Reading
+ Achievement
+ ●
+ CSAP Reading
+ ● Scale Score
+
+ Proficient ● ● ●
+ ●
+ Growth
+ Level Percentiles
+
+ High 66th − 99th
+
+ Part Proficient Typical 36th − 65th
+
+ Low 1st − 35th
+
+ Unsatisfactory
+
+ Grade 6 Grade 7 Grade 8 Grade 9 Grade 10
+ 2004 2005 2006 2007 2008
+ Scale Score 644 644 642 629 677
+ Achievement Level Proficient Proficient Proficient Part Proficient Proficient Achievement
+ Growth Percentile 25 14 5 71
+ Growth Level Low Low Low High Growth
+
+ Advanced Writing
+ Achievement
+ ● ● CSAP Writing
+ Scale Score
+
+ ● ●
+ Proficient Growth
+ ● Level Percentiles
+ ●
+
+ Example Student 3020
+ High 66th − 99th
+
+ Part Proficient Typical 36th − 65th
+
+ Low 1st − 35th
+
+ Unsatisfactory
+
+ Grade 6 Grade 7 Grade 8 Grade 9 Grade 10
+ 2004 2005 2006 2007 2008
+ Scale Score 501 556 532 562 593
+ Achievement Level Part Proficient Proficient Part Proficient Part Proficient Proficient Achievement
+ Growth Percentile 54 14 56 81
+ Growth Level Typical Low Typical High Growth</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Describing Student Growth
+ The Colorado Growth Model
+ Combining Actual and Aspirational Growth
+ References
+
+Combining Normative and Criterion-Referenced Growth
+
+ Growth adequacy is determined by whether a student’s growth is
+ sufficient to reach/maintain desired achievement levels (e.g.,
+ proficiency).
+ Percentile growth projections/trajectories are calculated for each
+ student.
+ These “growth-to-standard” trajectories indicate what it will take for
+ the student to reach/maintain proficiency and other achievement
+ levels.
+ The Colorado Growth Model was recently approved as part of the
+ Growth Model Pilot Program using this approach.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text"> NCIEA
+ CDE
+
+ Colorado Department of Education
+ Advanced
+ Math
+ Achievement
+ High CSAP Math
+ ● Scale Score
+
+ Growth
+ Proficient Typical
+ Level Percentiles
+
+ ● Low
+ High 66th − 99th
+
+ Typical 36th − 65th
+ Part Proficient
+ Low 1st − 35th
+
+ Unsatisfactory
+ Grade 3 Next Year
+ 2008
+ Scale Score 408
+ Achievement Level Part Proficient Achievement
+ Growth Percentile
+ Growth Level Growth
+
+ 2008 CSAP Growth &amp; Achievement Report
+ Advanced Reading
+ Achievement
+ High
+ CSAP Reading
+ ● Scale Score
+ Typical
+ Proficient Growth
+ ● Low Level Percentiles
+
+ High 66th − 99th
+
+ Typical 36th − 65th
+ Part Proficient
+ Low 1st − 35th
+
+ Unsatisfactory
+ Grade 3 Next Year
+ 2008
+ Scale Score 559
+ Achievement Level Proficient Achievement
+ Growth Percentile
+ Growth Level Growth
+
+ Advanced
+ Writing
+ Achievement
+ CSAP Writing
+ High ● Scale Score
+
+ Growth
+ Proficient Typical
+ Level Percentiles
+ ●
+
+ Example Student 3020
+ Low High 66th − 99th
+
+ Part Proficient Typical 36th − 65th
+
+ Low 1st − 35th
+
+ Unsatisfactory
+
+ Grade 3 Next Year
+ 2008
+ Scale Score 467
+ Achievement Level Proficient Achievement
+ Growth Percentile
+ Growth Level Growth</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text"> NCIEA
+ CDE
+
+ Colorado Department of Education
+ Advanced
+ Math
+ High Achievement
+ CSAP Math
+ ● Scale Score
+ Typical
+
+ ●
+ Growth
+ Proficient Low
+ Level Percentiles
+ ●
+ ●
+ High 66th − 99th
+
+ Typical 36th − 65th
+ Part Proficient
+ Low 1st − 35th
+
+ Unsatisfactory
+ Grade 3 Grade 4 Grade 5 Next Year
+ 2006 2007 2008
+ Scale Score 425 435 475
+ Achievement Level Proficient Part Proficient Part Proficient Achievement
+ Growth Percentile 21 52
+ Growth Level Low Typical Growth
+
+ 2008 CSAP Growth &amp; Achievement Report
+ Advanced Reading
+ Achievement
+ High
+ CSAP Reading
+ ● Scale Score
+ Typical
+ Proficient ● Growth
+ Level Percentiles
+ Low
+ ●
+ High 66th − 99th
+
+ Typical 36th − 65th
+ Part Proficient ●
+ Low 1st − 35th
+
+ Unsatisfactory
+ Grade 3 Grade 4 Grade 5 Next Year
+ 2006 2007 2008
+ Scale Score 478 547 587
+ Achievement Level Part Proficient Part Proficient Part Proficient Achievement
+ Growth Percentile 70 73
+ Growth Level High High Growth
+
+ Advanced
+ Writing
+ High
+ Achievement
+ CSAP Writing
+ ● Scale Score
+ ●
+ Typical
+ Growth
+ Proficient
+ Low Level Percentiles
+
+ Example Student 3020
+ High 66th − 99th
+ ●
+ ●
+ Part Proficient Typical 36th − 65th
+
+ Low 1st − 35th
+
+ Unsatisfactory
+
+ Grade 3 Grade 4 Grade 5 Next Year
+ 2006 2007 2008
+ Scale Score 436 447 527
+ Achievement Level Part Proficient Part Proficient Proficient Achievement
+ Growth Percentile 34 98
+ Growth Level Low High Growth</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ Describing Student Growth
+ The Colorado Growth Model
+ Combining Actual and Aspirational Growth
+ References
+
+Going from Students to Schools
+
+ It’s of interest to examine schools where students demonstrate, on
+ average, extraordinarily high and low student growth.
+ To summarize the student growth percentiles associated with a
+ school (or other grouping) calculate the median of the student
+ growth percentiles.
+ If students were randomly assigned to schools, expect to see a
+ median of 50.
+ Values greatly above or below 50 are of interest in identifying best
+ practices or providing extra support.
+ Examining growth with achievement sheds new light on school
+ performance.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Denver County 1: 2007 CSAP Math School Results
+ Student Growth versus Student Achievement by Free/Reduced Lunch Percentage
+
+ 100
+ Percent Free/Reduced Lunch
+ Less than 20 percent
+ 90
+ 20 to 40 percent
+
+Percentage of Proficient/Advanced Students in School
+ 80 Sustaining Excelling 40 to 60 percent
+ 60 to 80 percent
+ More than 80 percent
+ 70
+
+ 60 School Size
+ 50 Students
+ 50 100 Students
+ 200 Students
+ 40
+ 500 Students
+
+ 30 Underperforming Improving 1,000 Students
+
+ 20
+
+ 10
+
+ 0
+
+ 0 10 20 30 40 50 60 70 80 90 100
+
+ Median of Student Growth Percentiles in School
+ Note: Achievement and growth levels used to qualify school performance are presently under review by CDE and subject to revision.</div>
+```
+
+## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Denver County 1: 2007 CSAP Math School Results
+ Student Growth versus Student Achievement by Free/Reduced Lunch Percentage
+ 100
+ School Percent
+ Free/Reduced Lunch
+ 90
+
+Percentage of Proficient/Advanced Students in School
+ ● Less than 20 percent
+ 80 Sustaining Excelling ● 20 to 40 percent
+ ● 40 to 60 percent
+ 70
+ ● 60 to 80 percent
+ ● More than 80 percent
+ 60
+ School Size
+ 50
+ 50 Students
+ 100 Students
+ 40
+ 200 Students
+
+ 30 Underperforming Improving 500 Students
+
+ 1,000 Students
+ 20
+
+ 10
+
+ 0
+
+ 0 10 20 30 40 50 60 70 80 90 100
+
+ Median of Student Growth Percentiles in School</div>
+```
+
+## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Overview
+ The Colorado Growth Model
+ References
+
+References
+ Yen, W. M. (2007).
+ Vertical scaling and No Child Left Behind.
+ In Dorans, N. J., Pommerich, M., and Holland, P. W., editors, Linking
+ and Aligning Scores and Scales, pages 273–283. Springer, New
+ York.
+
+ Damian W. Betebenner New Directions for Student Growth Models</div>
+```
+
+## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Colorado Growth Model
+ Operationalizing Growth−to−Standard for AYP using Growth Percentiles
+
+Grade 4/2005 Grade 5/2006 Grade 6/2007 Grade 7/2008 Grade 8/2009 Grade 9/2010</div>
+```
+
+## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Colorado Growth Model uses each student's growth percentile in two ways:
+ First, the growth percentile is used to describe how much a student has grown
+ during the last year. Second, the growth percentile is used to determine whether the
+ student is on track to reach/maintain proficiency. The following slides demonstrate,
+ for individual students, how the Colorado Growth Model is used to determine
+ whether the student is On Track to either Reach or Maintain Proficiency.
+ That is, whether the student is either &quot;Catching Up&quot; or &quot;Keeping Up&quot;.
+
+Grade 4/2005 Grade 5/2006 Grade 6/2007 Grade 7/2008 Grade 8/2009 Grade 9/2010</div>
+```
+
+## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">On Track to Reach NCLB Proficient − Catching Up
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to put them on track to reach NCLB
+ proficient within 3 years?
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to put them on track to reach NCLB
+ proficient within 3 years?
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ After 1 year the student
+ remains unsatisfactory,
+ so their 1 year growth was not
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ Is the student's growth, 67th percentile growth, consecutively for two years, to reach NCLB proficient.
+ from 2007 to 2008, sufficient Their 70th percentile growth puts them ahead of that 2 year target.
+ to put them on track to reach NCLB
+ proficient within 3 years?
+
+ 67th
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ After 1 year the student
+ remains unsatisfactory,
+ so their 1 year growth was not
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ Is the student's growth, 67th percentile growth, consecutively for two years, to reach NCLB proficient.
+ from 2007 to 2008, sufficient Their 70th percentile growth puts them ahead of that 2 year target.
+ to put them on track to reach NCLB
+ proficient within 3 years?
+ 55th
+
+ 67th
+
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ In 2008 CDE estimated that it
+ would take 55th percentile growth,
+ After 1 year the student consecutively for three years, to reach NCLB
+ remains unsatisfactory, proficient. Their 70th percentile growth
+ so their 1 year growth was not puts them ahead of that 3 year target.
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ Is the student's growth, 67th percentile growth, consecutively for two years, to reach NCLB proficient.
+ from 2007 to 2008, sufficient Their 70th percentile growth puts them ahead of that 2 year target.
+ to put them Conclusion: Even
+ on track to reach NCLBthough the student was not NCLB proficient in 2008, their 2007−08
+ growth
+ proficient percentile of 70 was more than either the two or three year targets. As such
+ within 3 years?
+ the student's growth is considered to be sufficient to reach NCLB proficient within three years. 55th
+
+ In short, the student is on track to be NCLB proficient and is &quot;catching
+ 67th up&quot;.
+ 70th ●
+
+ 42nd ●
+ 68th ●
+
+ In 2008 CDE estimated that it
+ would take 55th percentile growth,
+ After 1 year the student consecutively for three years, to reach NCLB
+ remains unsatisfactory, proficient. Their 70th percentile growth
+ so their 1 year growth was not puts them ahead of that 3 year target.
+ ● enough to get them to NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Not On Track to Reach NCLB Proficient − Not Catching Up
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">After 1 year the student
+ remains unsatisfactory,
+ so their 1 year growth was not
+ Is the student's growth, enough to get them to NCLB proficient.
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/31.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ 89th percentile growth, consecutively for two years,
+ After 1 year the student to reach NCLB proficient. Their 61st percentile
+ remains unsatisfactory, growth puts them behind that 2 year target.
+ so their 1 year growth was not
+ Is the student's growth, enough to get them to NCLB proficient.
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+ 89th
+
+ 61st ●
+
+ ●
+
+ 10th ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/32.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ 89th percentile growth, consecutively for two years,
+ After 1 year the student to reach NCLB proficient. Their 61st percentile
+ remains unsatisfactory, growth puts them behind that 2 year target.
+ so their 1 year growth was not
+ Is the student's growth, enough to get them to NCLB proficient.
+ from 2007 to 2008, sufficient
+ to put them on track to reach
+ NCLB proficient within 3 years?
+ 77th
+
+ 89th
+
+ 61st ●
+ In 2008 CDE estimated that it
+ would take 77th percentile growth,
+ ●
+ consecutively for three years, to reach
+ NCLB proficient. Their 61st percentile growth
+ 10th ●
+ puts them behind that 3 year target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/33.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it would take
+ 89th percentile growth, consecutively for two years,
+ Conclusion: Because the After student
+ 1 yearwas
+ the not NCLB proficient
+ student to in 2008
+ reach NCLB and their Their
+ proficient. 2007−08
+ 61st percentile
+ remains unsatisfactory,
+ growth percentile of 61 was less than both the two and three year targets, the year target.
+ growth puts them behind that 2
+ so their 1 year growth was not
+ student's
+ Is the student's growth is enough
+ growth, considered to be
+ to get them insufficient
+ to NCLB to reach proficient within three years
+ proficient.
+ from 2007 toIn2008, sufficient
+ short, the student is not on track to be NCLB proficient and is not &quot;catching up&quot;.
+ to put them on track to reach
+ NCLB proficient within 3 years?
+ 77th
+
+ 89th
+
+ 61st ●
+ In 2008 CDE estimated that it
+ would take 77th percentile growth,
+ ●
+ consecutively for three years, to reach
+ NCLB proficient. Their 61st percentile growth
+ 10th ●
+ puts them behind that 3 year target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/34.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Not On Track to Remain NCLB Proficient − Not Keeping Up
+
+ ● 19th
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/35.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above NCLB
+ proficient for the next 3 years?
+
+ ● 19th
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/36.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above NCLB
+ proficient for the next 3 years?
+
+ ● 19th
+ ●
+
+ After 1 year the student
+ remains NCLB proficient,
+ so their 1 year growth was
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/37.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 26th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above NCLB at or above NCLB proficient. Their 19th percentile
+ proficient for the next 3 years? growth puts them behind that 2 year minimal target.
+
+ 26th
+ ● 19th
+ ●
+
+ After 1 year the student
+ remains NCLB proficient,
+ so their 1 year growth was
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/38.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 26th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above NCLB at or above NCLB proficient. Their 19th percentile
+ proficient for the next 3 years? growth puts them behind that 2 year minimal target.
+
+ 27th
+
+ 26th
+ ● 19th
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 27th percentile
+ growth, consecutively for three years, to
+ After 1 year the student
+ maintain at or above proficient. Their 19th
+ remains NCLB proficient,
+ percentile growth puts them behind that
+ so their 1 year growth was
+ 3 year minimal target.
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/39.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 26th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above NCLB at or above NCLB proficient. Their 19th percentile
+ proficient for the next 3 years? growth puts them behind that 2 year minimal target.
+ Conclusion: Even though the student was NCLB proficient in 2008, their 2007−08
+ growth percentile of 19 was less than both the two and three year minimum targets. As such, the
+ student's growth is considered to be insufficient to remain NCLB proficient over the next three years.
+ In short, the student is not on track to remain NCLB proficient and is not &quot;keeping up&quot;.
+
+ 27th
+
+ 26th
+ ● 19th
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 27th percentile
+ growth, consecutively for three years, to
+ After 1 year the student
+ maintain at or above proficient. Their 19th
+ remains NCLB proficient,
+ percentile growth puts them behind that
+ so their 1 year growth was
+ 3 year minimal target.
+ enough to remain at NCLB proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/40.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">On Track to Remain Colorado Proficient − Keeping Up
+ 63rd ●
+
+ 66th ●
+ 26th ●
+
+ ●
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/41.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above Colorado
+ proficient for the next 3 years?
+
+ 63rd ●
+
+ 66th ●
+ 26th ●
+
+ ●
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/42.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ 63rd ●
+
+ 66th ●
+ 26th ●
+
+ ●
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/43.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ 63rd ●
+
+ 66th ● 18th
+ 26th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 18th percentile growth,
+ consecutively for two years, to maintain
+ at or above proficient. Their 63rd percentile
+ growth puts them above that 2 year minimal target.
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/44.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ 63rd ● 22nd
+
+ 66th ● 18th
+ 26th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 22nd percentile
+ growth, consecutively for three years, to
+ In 2008 CDE estimated that it maintain at or above proficient. Their 63rd
+ would take, at a minimum, 18th percentile growth, percentile growth puts them above that 3 year
+ consecutively for two years, to maintain minimal target.
+ at or above proficient. Their 63rd percentile
+ growth puts them above that 2 year minimal target.
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/45.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth, After 1 year the student
+ from 2007 to 2008, sufficient remains proficient,
+ to remain at or above Colorado so their 1 year growth was
+ proficient for the next 3 years? enough to remain at proficient.
+
+ Conclusion: Because the student was Colorado proficient in 2008 and their 2007−08
+ growth percentile of 63 was greater than both the two and three year minimum targets, the
+ student's growth is considered to be sufficient to remain ●proficient during the next three years. 22nd
+ 63rd
+
+ In short, the
+ ●
+ student is on track to remain Colorado proficient and is &quot;keeping
+ 66th 18th
+ up&quot;.
+ 26th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 22nd percentile
+ growth, consecutively for three years, to
+ In 2008 CDE estimated that it maintain at or above proficient. Their 63rd
+ would take, at a minimum, 18th percentile growth, percentile growth puts them above that 3 year
+ consecutively for two years, to maintain minimal target.
+ at or above proficient. Their 63rd percentile
+ growth puts them above that 2 year minimal target.
+
+Grade 5/2005 Grade 6/2006 Grade 7/2007 Grade 8/2008 Grade 9/2009 Grade 10/2010</div>
+```
+
+## {.archive-slide background-image="slides/46.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Not On Track to Remain Colorado Proficient − Not Keeping Up
+
+ 45th ● 22nd ●
+
+ 58th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/47.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above Colorado
+ proficient for the next 3 years?
+
+ 45th ● 22nd ●
+
+ 58th ●
+
+ ●
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/48.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Is the student's growth,
+ from 2007 to 2008, sufficient
+ to remain at or above Colorado
+ proficient for the next 3 years?
+
+ 45th ● 22nd ●
+
+ 58th ●
+
+ ●
+
+ After 1 year the student
+ remains proficient,
+ so their 1 year growth was
+ enough to remain at proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/49.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 25th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above Colorado at or above proficient. Their 22nd percentile
+ proficient for the next 3 years? growth puts them below that 2 year minimal target.
+
+ 45th ● 22nd ● 25th
+
+ 58th ●
+
+ ●
+
+ After 1 year the student
+ remains proficient,
+ so their 1 year growth was
+ enough to remain at proficient.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/50.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 25th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above Colorado at or above proficient. Their 22nd percentile
+ proficient for the next 3 years? growth puts them below that 2 year minimal target.
+
+ 31st
+
+ 45th ● 22nd ● 25th
+
+ 58th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 31st percentile
+ After 1 year the student growth, consecutively for three years, to
+ remains proficient, maintain at or above proficient. Their
+ so their 1 year growth was 22nd percentile growth puts them behind
+ enough to remain at proficient. that 3 year minimal target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## {.archive-slide background-image="slides/51.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">In 2008 CDE estimated that it
+ Is the student's growth, would take, at a minimum, 25th percentile growth,
+ from 2007 to 2008, sufficient consecutively for two years, to maintain
+ to remain at or above at or above proficient. Their 22nd percentile
+ proficient for the next 3 years? growth puts them below that 2 year minimal target.
+
+ Conclusion: Even though the student was proficient in 2008, their 2007−08
+ growth percentile of 22 was less than both the two and three year minimum targets. As such, the
+ student's growth is considered to be insufficient to remain Colorado proficient over the next three years.
+ In short, the student is not on track to remain Colorado proficient and is not &quot;keeping up&quot;.
+ 31st
+
+ 45th ● 22nd ● 25th
+
+ 58th ●
+
+ ●
+
+ In 2008 CDE estimated that it
+ would take, at a minimum, 31st percentile
+ After 1 year the student growth, consecutively for three years, to
+ remains proficient, maintain at or above proficient. Their
+ so their 1 year growth was 22nd percentile growth puts them behind
+ enough to remain at proficient. that 3 year minimal target.
+
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+```
+
+## About this copy {.archive-about}
+
+*New Directions for Student Growth Models* — Arizona Department of Education, March 10, 2009.
+
+This is an image-based copy of the original PDF slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2009-03-10-az-new-directions-for-student-growth-models/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-03-10-az-new-directions-for-student-growth-models.pdf)
+- [All talks](https://dbetebenner.github.io/talks/)

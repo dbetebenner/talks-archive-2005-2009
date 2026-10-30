@@ -1,0 +1,185 @@
+---
+pagetitle: The Invariance of Measures of Growth & Effectiveness to Scale Transformation
+description: The Invariance of Measures of Growth & Effectiveness to Scale Transformation — NCME Annual Meeting, April 2009. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">The Invariance of Measures of
+Growth &amp; Effectiveness to Scale Transformation
+
+ Derek Briggs &amp; Damian Betebenner
+
+ University of Colorado, Boulder &amp; The Center for Assessment
+
+ NCME Presentation
+ San Diego, California April 14th, 2009
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Quantile Regression/Student Growth Percentiles
+
+ We wish to estimate:
+
+ Pr(Current Achievement |Past Achievement ).
+
+ Quantile regression is used to model the conditional quantile
+ functions.
+ B-spline smoothing is applied to accommodate non-linearity,
+ heteroscedasticity, etc. Scatterplot Smoothing
+ The method is a quantile regression based generalized additive
+ model[Hastie and Tibshirani, 1990, Wood, 2006]
+ Implemented in R using SGP Package
+
+ t −1 X
+ X 3
+ QSSt (τ|SSt −1 , . . . , SS1 ) = φij (SSj )βij (τ),
+ j =1 i =1
+
+ where φi ,j , i = 1, 2, 3 and j = 1, . . . , t − 1 denote the B-spline basis
+ functions.
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Quantile Regression/Student Growth Percentiles
+
+ Conditional Decile Regression Lines Conditional Decile Regression Curves
+ 2006−07 Math: Grade 5 versus 6 2006−07 Math: Grade 5 versus 6
+
+ 1000 Unsatisfactory Partially Prof. 1000 Unsatisfactory Partially Prof.
+ Proficient Proficient
+
+ Partially Prof. Proficient Advanced Partially Prof. Proficient Advanced
+
+ 800 800
+
+ Grade 6 Scale Score Grade 6 Scale Score
+ 600 600
+
+ 400 400
+
+ 200 200
+
+ 200 400 600 800 1000 200 400 600 800 1000
+
+ Grade 5 Scale Score Grade 5 Scale Score
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Within Method Results
+
+ Are school results within each analysis method
+ invariant to monotonic scale transformations?
+ In general, yes
+ With the exception of the Lord transformation, correlations of VAM
+ effects/residuals were all high (above 0.85). With three years of data
+ the correlations were all above 0.98 and above.
+ Correlations for median student growth percentiles across the 7
+ scales and 3 years were 1.0
+ The Lord Transformation “breaks” the VAM estimates because it
+ radically alters the interval nature of the scale.
+ Standardizing scores with layered VAM models obviates most issues
+ associated with non-intervalness.
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Across Method Results
+
+ Fixing the monotonic scale transformation, are
+ school results across analysis method similar?
+ It depends.
+ With three years (2006/Grade 6) of data, the correlation between
+ median student growth percentiles and VAM effects/residuals
+ (SEP3ML3) were 0.91. Standardizing the percentiles increases
+ correlation to 0.95.
+ With 1 year (2004/Grade 4) and 2 years (2005/Grade 5) data, the
+ correlations were 0.72 and 0.84
+ Outliers suggest relationship with prior achievement, especially with
+ 1 year (2004/Grade 4)
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Within Method Results: Redux
+
+ What is the relationship between prior
+ achievement and the VAM effects/median SGP?
+ Correlation between median SGP and prior achievement (mean
+ theta, SEP3ML3) were 0.34, 0.18, and 0.31 in 2004, 2005, and
+ 2006, respectively.
+ Correlation between VAM effects/residuals and prior achievement
+ (mean theta, SEP3ML3) were -0.11, -0.09, and 0.39 in 2004, 2005,
+ and 2006, respectively.
+ Still investigating why the dramatic switch in the VAM model.
+ What correlation passes the smell test?
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Within Method Results: Redux
+
+ What is the relationship between school poverty
+ and the VAM effects/median SGP?
+ Correlation between median SGP and percent free/reduced lunch
+ were -0.42, -0.25, and -0.39 in 2004, 2005, and 2006, respectively.
+ Correlation between VAM effects/residuals and percent free/reduced
+ lunch were -0.15, -0.06, and -0.51 in 2004, 2005, and 2006,
+ respectively.
+ What correlation passes the smell test?
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">References
+ Hastie, T. J. and Tibshirani, R. J. (1990).
+ Generalized Additive Models.
+ Chapman &amp; Hall/CRC, New York, NY.
+ Wood, S. N. (2006).
+ Generalized Additive Models: An Introduction with R.
+ Chapman &amp; Hall/CRC, New York, NY.
+
+ D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+```
+
+## About this copy {.archive-about}
+
+*The Invariance of Measures of Growth & Effectiveness to Scale Transformation* — NCME Annual Meeting, April 2009.
+
+This is an image-based copy of the original beamer slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2009-04-14-ncme-the-invariance-of-measures-of-growth-and-effectiveness-to-scale-transforma/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-04-14-ncme-the-invariance-of-measures-of-growth-and-effectiveness-to-scale-transforma.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2009-04-14-ncme-the-invariance-of-measures-of-growth-and-effectiveness-to-scale-transforma.tex)
+- [All talks](https://dbetebenner.github.io/talks/)

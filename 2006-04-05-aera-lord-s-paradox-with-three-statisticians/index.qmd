@@ -1,0 +1,465 @@
+---
+pagetitle: Lord’s Paradox with Three Statisticians
+description: Lord’s Paradox with Three Statisticians — AERA Annual Meeting, April 2006. Image-based copy of the original slides.
+image: slides/01.webp
+format:
+  deck-revealjs:
+    slide-number: c/t
+    hash: true
+    embed-resources: false
+---
+
+## {.archive-slide background-image="slides/01.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Lord’s Paradox with Three Statisticians
+
+ Damian W. Betebenner
+
+ Lynch School of Education
+ Boston College
+
+American Educational Research Association Annual Meeting
+ San Francisco, April 9th, 2006
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ History of Lord’s Paradox
+ Analysis
+ Lord’s Paradox Solution
+ Discussion
+
+Lord’s Paradox
+
+ In an article entitled A Paradox in the Interpretation of Group
+ Comparisons (1967), Lord introduced a deceptively simple
+ conundrum that defied attempts at resolution for nearly 15 years:
+
+ A large university is interested in investigating the effects
+ on the students of the diet provided in the university
+ dining halls and any sex differences in these effects.
+ Various types of data are gathered. In particular, the
+ weight of each student at the time of his arrival in
+ September and his weight the following June are
+ recorded [Lord, 1967, p. 304].
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ History of Lord’s Paradox
+ Analysis
+ Lord’s Paradox Solution
+ Discussion
+
+Lord’s Paradox
+
+ The paradox arises from two seeminly conflicting analyses of the
+ data performed by two statisticians:
+ Statistician 1 Performs a gain score analysis for the two sexes and
+ shows zero average gain for both.
+ Statistician 2 Performs an ANCOVA analysis and demonstrates a
+ significant difference between the adjusted June
+ weights of the two sexes.
+ The paradox: One analysis indicates that the diet produces a
+ differential effect for the two sexes while the other analysis
+ suggests that it does not.
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ History of Lord’s Paradox
+ Analysis
+ Lord’s Paradox Solution
+ Discussion
+
+Lord’s Paradox Redux
+ Lord (1973) extended the paradox to situations involving two groups
+ and two treatments:
+
+ . . . consider the problem of evaluating federally funded
+ special education programs. A group of disadvantaged
+ children are pretested in September, then enrolled in a
+ special program, and finally posttested in June. A control
+ group of children are similarly pretested and posttested but
+ not enrolled in the special program. Since the most
+ disadvantaged children are selected for the special
+ program, the control group will typically have higher pretest
+ scores than the disadvantaged group [Lord, 1973, p. 235].
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ History of Lord’s Paradox
+ Analysis
+ Lord’s Paradox Solution
+ Discussion
+
+Lord’s Paradox Solution
+
+ An elegant solution to the paradox was provided by Holland
+ and Rubin (1983) in a Festschrift devoted to Lord.
+ The paradox lies with the incompatible causal inferences one
+ wishes to draw from the data: differential effectiveness versus
+ no-differential effectiveness.
+ In both forms of Lord’s Paradox, a causal conclusion rests on
+ an assumption concerning an unobservable control group.
+ Holland and Rubin derive necessary conditions for the control
+ group in order that the causal conclusions hold.
+ Since the control group is unobservable, these conditions
+ must be tested based upon knowledge of the given situation.
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ History of Lord’s Paradox
+ Analysis
+ Lord’s Paradox Solution
+ Discussion
+
+Rubin’s Causal Model
+
+ Causality [Holland, 1986] with regard to effect t, relative to
+ effect c, is conceived as the difference in outcome on unit u as
+ measured by Y :
+
+ Yt (u) − Yc (u)
+ It is impossible to simultaneously observe and measure t and c
+ applied to u.
+ Scientists work around this difficulty by exploiting homogeneity
+ and invariance assumptions with regard to the observational
+ units.
+ Statisticians, for example, consider average causal effect by
+ utilizing random assignment of units:
+
+ Effect = (Yt − Yc ) = (Yt ) − (Yc )
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Using Teachers as the treatment
+
+ The scenarios utilized within Lord’s paradox are not unlike current
+ situations in which one wishes to determine the quality of a given
+ teacher:
+ Students, assigned to one of four teachers, are
+ administered a pre-test at the beginning of the school
+ year and a post-test at the end of the school year. Three
+ statisticians, attempting to determine teacher efficacy,
+ perform three types analyses: gain score analysis,
+ ANCOVA, and mixed-effects analysis using using pre-test
+ and post-test scores.
+
+ To investigate this scenario, “toy&quot; data is produced for the four
+ teachers.
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Rubin’s Causal Model
+
+ Assuming one could assign students at random to both teachers
+ and “control&quot;, the average causal effects associated with each
+ teacher, T , is given by:
+
+ ∆i = (Yt − Yc |T = i )
+ To compare teachers i1 and i2 , one computes the difference of
+ the average causal effects:
+
+ ∆ = ∆ i1 − ∆ i2
+ = (Yt |T = i1 ) − (Yc |T = i2 ) − (Yt |T = i1 ) − (Yc |T = i2 )
+    
+
+ = (Yt |T = i1 ) − (Yt |T = i2 ) − (Yc |T = i1 ) − (Yc |T = i2 )
+    
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Assumptions
+
+ Estimating differential teacher effect requires one to make
+ certain assumptions concerning what would happen to the
+ same children under “control&quot; conditions.
+ The three statisticians make the following assumptions
+ concerning their control groups:
+ Statistician 1 The gain score analysis assumes the unobserved
+ control group’s post-test score would equal their pre-test
+ score, Yc = a. In some situations [Wainer, 1991] this is a
+ justifiable assumption.
+ Statistician 2 The ANCOVA analysis assumes the post-test
+ score is a linear function of the pre-test score, Yc = a + bX .
+ Statistician 3 The Mixed-effects analysis (random
+ intercepts/fixed slopes) has analogous assumption to
+ ANCOVA. The difference being the BLUPs of the residual
+ effects.
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Lord’s Paradox Illustration
+Pretest/Posttest data for four teachers
+
+ 90 100
+
+ 80
+
+ Posttest
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+ 20 40 60 80 100
+
+ Pretest
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Lord’s Paradox Illustration
+Pretest/Posttest data for four teachers
+
+ 90 100
+ Pretest=Posttest
+
+ 80
+
+ Posttest
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+ 20 40 60 80 100
+
+ Pretest
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Lord’s Paradox Illustration
+Pretest/Posttest data for four teachers
+
+ 90 100
+ Pretest=Posttest
+
+ 80
+
+ Posttest
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+ 20 40 60 80 100
+
+ Pretest
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Lord’s Paradox Illustration
+Pretest/Posttest data for four teachers
+
+ 90 100
+ Pretest=Posttest
+
+ 80
+
+ Posttest
+ 70
+
+ 60
+
+ 50
+
+ 40
+
+ 30
+
+ 20 40 60 80 100
+
+ Pretest
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Comparison’s of three different effects
+
+ 5
+ Gain Scores
+ 4 ANCOVA
+ Mixed−Effects
+
+ 3
+
+ 2
+
+ Effect
+ 1
+
+ 0
+
+ −4 −3 −2 −1
+
+ 1 2 3 4
+
+ Teacher
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+Summary
+
+ Different analyses can lead to irreconcilable conclusions
+ regarding the efficacy of teachers.
+ These differences arise from the causal claims made about
+ the teachers under consideration.
+ Following Rubin’s Causal Model, reconciling these differences
+ requires one to make arguments concerning the behavior of
+ unobservable control groups.
+ Mixed-effects analyses, like gain score and ANCOVA
+ analyses, have accompanying assumptions that must be
+ fulfilled in order that causal claims hold.
+
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
+
+```{=html}
+<div class="archive-text">Introduction
+ Analysis
+ Discussion
+
+References
+ Holland, P. W. (1986).
+ Statistics and causal inference.
+ Journal of the American Statistical Association,
+ 81(396):945–960.
+ Holland, P. W. and Rubin, D. B. (1983).
+ On Lord’s paradox.
+ In Wainer, H. and Messick, S., editors, Principles of Modern
+ Psychological Measurement, pages 3–25. Lawrence Erlbaum
+ Associates, Hillsdale, New Jersey.
+ Lord, F. M. (1967).
+ A paradox in the interpretation of group comparisons.
+ Psychological Bulletin, 68(5):304–305.
+ Lord, F. M. (1973).
+ Lord’s paradox.
+ In Anderson, S. B., Ball, S., and Murphy, R. T., editors,
+ Encyclopedia of Educational Evaluation, pages 232–236.
+ Jossey-Bass, San Francisco.
+ Wainer, H. (1991).
+ Adjusting for differential base rates: Lord’s paradox again.
+ Psychological Bulletin, 109(1):147–151.
+ D. W. Betebenner Lord’s Paradox with Three Statisticians</div>
+```
+
+## About this copy {.archive-about}
+
+*Lord’s Paradox with Three Statisticians* — AERA Annual Meeting, April 2006.
+
+This is an image-based copy of the original beamer slides; builds and animations are flattened.
+
+- [Talk page](https://dbetebenner.github.io/talks/2006-04-05-aera-lord-s-paradox-with-three-statisticians/)
+- [Download PDF](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2006-04-05-aera-lord-s-paradox-with-three-statisticians.pdf)
+- [Original file](https://github.com/dbetebenner/talks-archive-2005-2009/releases/download/originals/2006-04-05-aera-lord-s-paradox-with-three-statisticians.tex)
+- [All talks](https://dbetebenner.github.io/talks/)
