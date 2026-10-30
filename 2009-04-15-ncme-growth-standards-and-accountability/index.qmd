@@ -14,632 +14,467 @@ format:
 ```{=html}
 <div class="archive-text">Overview
 Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Conclusions
+References
 
 Growth, Standards and Accountability
 
- Damian W. Betebenner
+Damian W. Betebenner
 
- The Center for Assessment
+The Center for Assessment
 
- NCME Presentation
- San Diego, California April 15th, 2009
+NCME Presentation
+San Diego, California April 15th, 2009
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Growth, Standards and Accountability
 
- Growth, Standards, and Accountability:
- Dominant (and linked) themes in education today.
+Growth, Standards, and Accountability:
+Dominant (and linked) themes in education today.
 
- Growth Examination of student achievement over time.
- Standards Broadly used to anchor judgments and qualifications
- of education quality.
- Accountability Currently focus on assignment of responsibility for
- performance (e.g., school accountability).
+Growth Examination of student achievement over time.
+Standards Broadly used to anchor judgments and qualifications
+of education quality.
+Accountability Currently focus on assignment of responsibility for
+performance (e.g., school accountability).
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Growth, Standards and Accountability
 
- Is it possible to better connect these three themes?
+Is it possible to better connect these three themes?
 
- Angoff (1974): “Scratch a criterion and you find a norm”
- Need BOTH norms and criteria to make sense of the world.
- Normative growth is a lens that can illuminate a number of
- important relationships.
+Angoff (1974): “Scratch a criterion and you find a norm”
+Need BOTH norms and criteria to make sense of the world.
+Normative growth is a lens that can illuminate a number of
+important relationships.
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Growth and Standards
 
- What rates of student growth are necessary for students to
- reach desirable performance standards?
- Are these rates of growth realistic for all students?
+What rates of student growth are necessary for students to
+reach desirable performance standards?
+Are these rates of growth realistic for all students?
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Standards and Accountability
 
- Given current performance standards, are universal
- performance (i.e., proficiency) mandates realistic?
- What do we mean by “easy” and “hard” standards?
- Can a balance between ambitious yet reasonable
- performance targets be struck?
+Given current performance standards, are universal
+performance (i.e., proficiency) mandates realistic?
+What do we mean by “easy” and “hard” standards?
+Can a balance between ambitious yet reasonable
+performance targets be struck?
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Growth and Accountability
 
- What levels of institutional effectiveness are required to fulfill
- universal proficiency mandates?
- Are these levels of effectiveness reasonable?
- Is failure to reach these levels of effectiveness the sole
- responsibility of the education system?
+What levels of institutional effectiveness are required to fulfill
+universal proficiency mandates?
+Are these levels of effectiveness reasonable?
+Is failure to reach these levels of effectiveness the sole
+responsibility of the education system?
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Describing Student Growth
 
- Measuring student growth, even with a vertical scale, is not a
- simple task.
- Even with an interval (or ratio) scale, growth is not easy to
- interpret. Consider, for example, height.
- A child might grow 4 inches between ages 3 and 4.
- 4 inches is a well understood quantity.
- The 4 inch increase becomes really meaningful only when
- understood alongside the growth of other 3 to 4 year olds.
- Student growth percentiles were developed to provide a
- normative context for describing student growth.
+Measuring student growth, even with a vertical scale, is not a
+simple task.
+Even with an interval (or ratio) scale, growth is not easy to
+interpret. Consider, for example, height.
+A child might grow 4 inches between ages 3 and 4.
+4 inches is a well understood quantity.
+The 4 inch increase becomes really meaningful only when
+understood alongside the growth of other 3 to 4 year olds.
+Student growth percentiles were developed to provide a
+normative context for describing student growth.
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">300
- 500
- 325
- 475
- 350
- 450
- 20 core
- 05 375 S
- 425
- S le
- ca le ca
- S
- 400
- 400
- S re 2006
- co</div>
+<div class="archive-text">20 core
+S le
+ca le ca
+S re 2006
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">300
- 500
- 325
- 475
- 350
- 450
- 20 core
- 05 375 S
- 425
- S le
- ca le ca
- S
- 400
- 400
- S re 2006
- co</div>
+<div class="archive-text">20 core
+S le
+ca le ca
+S re 2006
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">300
- 500
- 325
- 475
- 350
- 450
- 20 core
- 05 375 S
- 425
- S le
- ca le ca
- S
- 400
- 400
- S re 2006
- co</div>
+<div class="archive-text">20 core
+S le
+ca le ca
+S re 2006
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">300
- 500
- 325
- 475
- 350
- 450
- 20 core
- 05 375 S
- 425
- S le
- ca le ca
- S
- 400
- 400
- S re 2006
- co</div>
+<div class="archive-text">20 core
+S le
+ca le ca
+S re 2006
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Normative Growth Model
- Should we be surprised with a child’s current achievement given
- their prior achievement?
+Should we be surprised with a child’s current achievement given
+their prior achievement?
 
- Pr(Current Achievement |Past Achievement ).
+Pr(Current Achievement |Past Achievement ).
 
- Quantile regression is used to model the conditional quantile
- functions.
- B-spline smoothing is applied to accommodate non-linearity,
- heteroscedasticity, etc. Scatterplot Smoothing
- The method is a quantile regression based generalized
- additive model [Hastie and Tibshirani, 1990, Wood, 2006]
- Implemented in R using SGP Package
+Quantile regression is used to model the conditional quantile
+functions.
+B-spline smoothing is applied to accommodate non-linearity,
+heteroscedasticity, etc. Scatterplot Smoothing
+The method is a quantile regression based generalized
+additive model [Hastie and Tibshirani, 1990, Wood, 2006]
+Implemented in R using SGP Package
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Normative and Criterion-Referenced Growth
 
- “Adequate” Growth: Is a student’s (normative) growth sufficient to
- reach/maintain desired performance standards (e.g., proficiency)?
+“Adequate” Growth: Is a student’s (normative) growth sufficient to
+reach/maintain desired performance standards (e.g., proficiency)?
 
- Norms are blind to standards? Equally rare does not imply
- equally good.
- Using the coefficient matrices from the quantile regression
- analyses, percentile growth projections/trajectories are
- calculated for each student.
- These “growth-to-standard” trajectories indicate what it will
- take for the student to reach/maintain proficiency and other
- performance standards.
- The Colorado Growth Model was recently approved as part of
- the Growth Model Pilot Program using this approach.
- D. W. Betebenner Growth, Standards and Accountability</div>
+Norms are blind to standards? Equally rare does not imply
+equally good.
+Using the coefficient matrices from the quantile regression
+analyses, percentile growth projections/trajectories are
+calculated for each student.
+These “growth-to-standard” trajectories indicate what it will
+take for the student to reach/maintain proficiency and other
+performance standards.
+The Colorado Growth Model was recently approved as part of
+the Growth Model Pilot Program using this approach.
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Advanced
- Math
- Achievement
- High
- CSAP Math
- ● Scale Score
- ● Typical
+Math
+Achievement
+High
+CSAP Math
+● Scale Score
+● Typical
 
- ● Growth
- Proficient
- Level Percentiles
- Low
+● Growth
+Proficient
+Level Percentiles
+Low
 
- High 66th − 99th
- ●
- Part Proficient ● Typical 36th − 65th
+High 66th − 99th
+Part Proficient ● Typical 36th − 65th
 
- Low 1st − 35th
+Low 1st − 35th
 
- Unsatisfactory
- Grade 5 Grade 6 Grade 7 Grade 8 Next Year
- 2005 2006 2007 2008
- Scale Score 446 468 549 524
+Unsatisfactory
+Grade 5 Grade 6 Grade 7 Grade 8 Next Year
+Scale Score 446 468 549 524
 Achievement Level Part Proficient Part Proficient Part Proficient Proficient Achievement
 Growth Percentile 52 96 25
- Growth Level Typical High Low Growth</div>
+Growth Level Typical High Low Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Advanced Reading
- High Achievement
- CSAP Reading
- ● Typical ● Scale Score
+High Achievement
+CSAP Reading
+● Typical ● Scale Score
 
- Proficient Low Growth
- ● ● Level Percentiles
+Proficient Low Growth
+● ● Level Percentiles
 
- ● High 66th − 99th
+● High 66th − 99th
 
- Part Proficient Typical 36th − 65th
+Part Proficient Typical 36th − 65th
 
- Low 1st − 35th
- Unsatisfactory
+Low 1st − 35th
+Unsatisfactory
 
- Grade 5 Grade 6 Grade 7 Grade 8 Next Year
- 2005 2006 2007 2008
- Scale Score 589 617 617 657
+Grade 5 Grade 6 Grade 7 Grade 8 Next Year
+Scale Score 589 617 617 657
 Achievement Level Proficient Proficient Part Proficient Proficient Achievement
 Growth Percentile 64 36 83
- Growth Level Typical Typical High Growth</div>
+Growth Level Typical Typical High Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 An even bigger picture
 
- The education system, being composed of students, can be
- examined similarly.
- Using performance on annual student assessments, consider
- an entire education system over time.
- Standards and norm referenced interpretations are necessary
- to grasp the performance of the system in it’s entirety.
- Looked at appropriately, there is a beautiful (and predictable)
- interplay between norms and standards.
+The education system, being composed of students, can be
+examined similarly.
+Using performance on annual student assessments, consider
+an entire education system over time.
+Standards and norm referenced interpretations are necessary
+to grasp the performance of the system in it’s entirety.
+Looked at appropriately, there is a beautiful (and predictable)
+interplay between norms and standards.
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2008 CSAP Mathematics
- Growth and Achievement Chart
+Growth and Achievement Chart
 
- 700 99
-
- 650 90
-
- 95
-
- 600
-
- 90
-
- 2008 Achievement Percentile Percentile Growth Trajectory
- 65
- 550 85
-
- 80
+2008 Achievement Percentile Percentile Growth Trajectory
 
 Scale Score
- 75
 
- 70
- 50
- 500 65
- 60
- 55
- 50
- 45 35
- 450
- 40
- 35
-
- 30
-
- 25
- 400
- 20
-
- 15 10
-
- 350 10
-
- 5
-
- 300
-
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10</div>
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2008 CSAP Reading
- Growth and Achievement Chart
+Growth and Achievement Chart
 
- 750 90
-
- 99
- 700
-
- 65
-
- 95
- 650
- 50
- 90
-
- 85
-
- 2008 Achievement Percentile Percentile Growth Trajectory
- 80
- 600 75 35
- 70
- 65
+2008 Achievement Percentile Percentile Growth Trajectory
 
 Scale Score
- 60
- 55
- 50
- 45
- 550 40
- 35
- 30
- 25
 
- 20
- 500
- 15
-
- 10
-
- 450
-
- 5 10
-
- 400
-
- 350
-
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10</div>
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2008 CSAP Reading
- Growth and Achievement Chart
- 90
+Growth and Achievement Chart
 
- 750
-
- 99 65
- 700
-
- 50
- 95
- 650
- 90 35
- 85
-
- 2008 Achievement Percentile Percentile Growth Trajectory
- 80
- 600 75
- 70
- 65
+2008 Achievement Percentile Percentile Growth Trajectory
 
 Scale Score
- 60
- 55
- 50
- 45
- 550 40
- 35
- 30
- 25
 
- 20
- 500
- 15 10
-
- 10
-
- 450
-
- 5
-
- 400
-
- 350
-
- Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10</div>
+Grade 3 Grade 4 Grade 5 Grade 6 Grade 7 Grade 8 Grade 9 Grade 10</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Growth and Standards
 
- What rates of student growth are necessary for students to
- reach desirable performance standards?
- Are these rates of growth realistic for all students?
+What rates of student growth are necessary for students to
+reach desirable performance standards?
+Are these rates of growth realistic for all students?
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Standards and Accountability
 
- Given current performance standards, are universal
- performance (i.e., proficiency) mandates realistic?
- What do we mean by “easy” and “hard” standards?
- Can a balance between ambitious yet reasonable
- performance targets be struck?
+Given current performance standards, are universal
+performance (i.e., proficiency) mandates realistic?
+What do we mean by “easy” and “hard” standards?
+Can a balance between ambitious yet reasonable
+performance targets be struck?
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Growth and Accountability
 
- What levels of institutional effectiveness are required to fulfill
- universal proficiency mandates?
- Are these levels of effectiveness reasonable?
- Is failure to reach these levels of effectiveness the sole
- responsibility of the education system?
+What levels of institutional effectiveness are required to fulfill
+universal proficiency mandates?
+Are these levels of effectiveness reasonable?
+Is failure to reach these levels of effectiveness the sole
+responsibility of the education system?
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Conclusions
 
- Norm shouldn’t be a four letter word.
- Performance standards across grades that are (normatively)
- (dis)similar will lead to (un)reasonable growth trajectories.
- A “growth model” anchored to standards will not save you
- from uneven standards.
- Normative effectiveness models (value-added models) are
- blind to standards (so they save you in that respect)
+Norm shouldn’t be a four letter word.
+Performance standards across grades that are (normatively)
+(dis)similar will lead to (un)reasonable growth trajectories.
+A “growth model” anchored to standards will not save you
+from uneven standards.
+Normative effectiveness models (value-added models) are
+blind to standards (so they save you in that respect)
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 Conclusions
 
- If resetting standards or transitioning to a new assessment,
- having growth data prior to standard setting will probably be
- helpful.
- Normative growth data would give a sense of what current
- student progress currently looks like.
- The goal is to balance what is, what should be, and what is
- reasonable.
- Once that’s in place, productive discussions about
- responsibility/accountability can ensue.
+If resetting standards or transitioning to a new assessment,
+having growth data prior to standard setting will probably be
+helpful.
+Normative growth data would give a sense of what current
+student progress currently looks like.
+The goal is to balance what is, what should be, and what is
+reasonable.
+Once that’s in place, productive discussions about
+responsibility/accountability can ensue.
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Norm- and Criterion-Referenced Growth
- Conclusions
- References
+Norm- and Criterion-Referenced Growth
+Conclusions
+References
 
 References
- Angoff, W. H. (1974).
- Criterion-referencing, norm-referencing and the SAT.
- College Board Review, 92:2–5.
- Hastie, T. J. and Tibshirani, R. J. (1990).
- Generalized Additive Models.
- Chapman &amp; Hall/CRC, New York, NY.
- Wood, S. N. (2006).
- Generalized Additive Models: An Introduction with R.
- Chapman &amp; Hall/CRC, New York, NY.
+Angoff, W. H. (1974).
+Criterion-referencing, norm-referencing and the SAT.
+College Board Review, 92:2–5.
+Hastie, T. J. and Tibshirani, R. J. (1990).
+Generalized Additive Models.
+Chapman &amp; Hall/CRC, New York, NY.
+Wood, S. N. (2006).
+Generalized Additive Models: An Introduction with R.
+Chapman &amp; Hall/CRC, New York, NY.
 
- D. W. Betebenner Growth, Standards and Accountability</div>
+D. W. Betebenner Growth, Standards and Accountability</div>
 ```
 
 ## About this copy {.archive-about}

@@ -14,12 +14,12 @@ format:
 ```{=html}
 <div class="archive-text">If You
 If You Build
- Build It Will
- It Will They,
- They, Necessarily,
- Necessarily, Come?
+Build It Will
+It Will They,
+They, Necessarily,
+Necessarily, Come?
 How To Get Data Used Come?
- In School Buildings
+In School Buildings
 • Jody Ernst
 • Director of Research &amp; Evaluation
 • Colorado League of Charter Schools
@@ -34,22 +34,22 @@ June 22, 2009</div>
 
 ```{=html}
 <div class="archive-text">WhatIfare
- You BuildbyItwhich
- the steps Will large
- They, Necessarily,
- scale assessment
+You BuildbyItwhich
+the steps Will large
+They, Necessarily,
+scale assessment
 data (i.e., raw numbers) Come?
- get translated into actions
+get translated into actions
 effecting the education of students?
- • Jody Ernst
+• Jody Ernst
 1.Get all the right systems in place
- • Director of Research &amp; Evaluation
+• Director of Research &amp; Evaluation
 2.Make it user friendly
- • Buy-in
- Colorado
+• Buy-in
+Colorado
 3.Get League
- from all of Charter Schools
- stakeholders
+from all of Charter Schools
+stakeholders
 4.Develop high quality professional development tools
 5.Make these tools available often and inexpensively
 6.Provide technical assistance</div>
@@ -61,12 +61,12 @@ Even the best data will have no influence on student progress unless TEACHERS ar
 <br>
 -CDE has done 2-4 very well—discuss collaboration—still struggling with number 1 (due to local control of state and FERPA compliance issues) steps are being made thought (e.g., just passed legislation for a statewide teacher identifier)<br>
 <br>
--Districts and school support organizations need to take <br>
+-Districts and school support organizations need to take<br>
 on 4 as well, and will need to provide 5 themselves.<br>
 <br>
-3. Thinking of data broadly (large scale, small scale, ...), how are data quality and data use related. <br>
- The best data will do nothing to improve student achievement outcomes if it goes unused<br>
- The use of poor data for making decisions about student education could yield potentially negative consequences
+3. Thinking of data broadly (large scale, small scale, ...), how are data quality and data use related.<br>
+The best data will do nothing to improve student achievement outcomes if it goes unused<br>
+The use of poor data for making decisions about student education could yield potentially negative consequences
 ```
 :::
 
@@ -74,8 +74,8 @@ on 4 as well, and will need to provide 5 themselves.<br>
 
 ::: notes
 ```{=html}
-CDE with the help of many others, such as the staff at the Center for Assessment, have developed a great, user friendly tool that provides districts and principals now, <br>
-And hopefully teachers in the near future, with a visual map of both their overall performance compared to schools in their district, as well as building level exploration <br>
+CDE with the help of many others, such as the staff at the Center for Assessment, have developed a great, user friendly tool that provides districts and principals now,<br>
+And hopefully teachers in the near future, with a visual map of both their overall performance compared to schools in their district, as well as building level exploration<br>
 Capabilities.<br>
 <br>
 On the splash page they have introductory tutorials about what the growth model is and how to use the interface.
@@ -104,7 +104,7 @@ To dig deeper into my own school, if I were a principle, I select my school too 
 
 ::: notes
 ```{=html}
-Here I have selected to view all the 5th graders in my building. From here I can <br>
+Here I have selected to view all the 5th graders in my building. From here I can<br>
 Identify patterns (which I will show in a minute)<br>
 Look at individual student growth patterns over time<br>
 <br>
@@ -128,7 +128,7 @@ From here we want to know two things: how much growth did Bethanne achieve and h
 ```{=html}
 Here we see that her growth was low between 3rd and 4th grade and between 4th and 5th.<br>
 <br>
-Had she grown in the typical range (growth of 35 to 64th percentile) she would have been pp. <br>
+Had she grown in the typical range (growth of 35 to 64th percentile) she would have been pp.<br>
 <br>
 Now we need to ask: how much growth does she need to move up next year?
 ```
@@ -188,26 +188,26 @@ If patterns did emerge, it would be a warning sign to make systematic changes to
 ```{=html}
 <div class="archive-text">If and
 Districts Youschool
- Build It Will
- support They,need
- organizations Necessarily,
- to take
+Build It Will
+support They,need
+organizations Necessarily,
+to take
 on the role of providing PD often and inexpensively, and
- Come?
+Come?
 need to provide ongoing technical assistance.
- • of CDE’s training models for a variety of training formats
- Jody Ernst
+• of CDE’s training models for a variety of training formats
+Jody Ernst
 -Use
- • Director
+• Director
 (onsite, ofwebinar,
- regional, Research &amp; Evaluation
- self-paced)
+regional, Research &amp; Evaluation
+self-paced)
 
 -•Have
- Colorado League
- staff on hand of Charter
- to answer Schools
- questions and provide hands-
+Colorado League
+staff on hand of Charter
+to answer Schools
+questions and provide hands-
 on assistance</div>
 ```
 
@@ -228,24 +228,24 @@ All district face challenges around capacity, they need to seek out creative sol
 ```{=html}
 <div class="archive-text">If You
 How/where do Build
- local dataIt(e.g.,
- Will They,
- interim Necessarily,
- assessments, classroom
+local dataIt(e.g.,
+Will They,
+interim Necessarily,
+assessments, classroom
 observations) fit in?
- Come?
+Come?
 1. They inform the teacher about a students progress during the course of the
- • Jody Ernst
+• Jody Ernst
 academic year, when there is still time for intervention.
 
 2.•They can
- Director
- be usedofin conjunction
- Researchwith&amp;the year
- Evaluation
- end measures to assess the
+Director
+be usedofin conjunction
+Researchwith&amp;the year
+Evaluation
+end measures to assess the
 effectiveness of the teacher’s/school’s curriculum/practices with last years
- • Colorado League of Charter Schools
+• Colorado League of Charter Schools
 students.
 
 Teachers need to be trained on how to do this well.</div>
@@ -254,12 +254,12 @@ Teachers need to be trained on how to do this well.</div>
 ::: notes
 ```{=html}
 2. With regard to your answer to question 1: How/where do local data (e.g., interim assessments, classroom observations) fit in?<br>
- In this model, the data is the result at the end of the year, which teachers do not see until the beginning of the next year.<br>
- Interim assessment and classroom observations, therefore, have two uses<br>
- 1st they inform the teacher about a students progress during the course of the academic year, when there is still time for intervention.<br>
- 2nd they can be used in conjunction with the year end measures to assess the effectiveness of the teacher’s/school’s curriculum/practices with last years students<br>
- in order to make corrections, adjustments to plans for this years students (based on their formative and summative data)<br>
- <br>
+In this model, the data is the result at the end of the year, which teachers do not see until the beginning of the next year.<br>
+Interim assessment and classroom observations, therefore, have two uses<br>
+1st they inform the teacher about a students progress during the course of the academic year, when there is still time for intervention.<br>
+2nd they can be used in conjunction with the year end measures to assess the effectiveness of the teacher’s/school’s curriculum/practices with last years students<br>
+in order to make corrections, adjustments to plans for this years students (based on their formative and summative data)<br>
+<br>
 The League is developing our trainings to help schools do this well and I know Rebecca, in Arizona, has already done to do work around this…
 ```
 :::

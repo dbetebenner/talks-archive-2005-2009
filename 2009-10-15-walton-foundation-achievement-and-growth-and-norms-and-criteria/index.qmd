@@ -13,84 +13,84 @@ format:
 
 ```{=html}
 <div class="archive-text">Questions
- References
+References
 
 Achievement and Growth and Norms and Criteria
 
- Damian W. Betebenner
+Damian W. Betebenner
 
- The Center for Assessment
+The Center for Assessment
 
- SQM Evaluation Meeting
- Chicago, Illinois October 15th, 2009
+SQM Evaluation Meeting
+Chicago, Illinois October 15th, 2009
 
- D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
+D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Questions
- References
+References
 
 Defining Adequate Achievement
 
- What is grade level achievement?
+What is grade level achievement?
 
- Normative Normative achievement is well understood. For
- example, “on grade level” often refers to median
- performance on a widely adminstered test.
- Criterion Referenced Criterion referencecd achievement is
- achored to statewide performance standards. For
- example, on grade level achievement refers to
- performance at least at the proficient level.
+Normative Normative achievement is well understood. For
+example, “on grade level” often refers to median
+performance on a widely adminstered test.
+Criterion Referenced Criterion referencecd achievement is
+achored to statewide performance standards. For
+example, on grade level achievement refers to
+performance at least at the proficient level.
 
- D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
+D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Questions
- References
+References
 
 Defining Adequate Growth
 
- What is a “year’s worth” of growth?
- Normative How much growth is “low”, “typical” or “high”?
- Criterion Referenced How much growth is “enough”?
+What is a “year’s worth” of growth?
+Normative How much growth is “low”, “typical” or “high”?
+Criterion Referenced How much growth is “enough”?
 
- D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
+D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Questions
- References
+References
 
 Wisdom
 
- Reconciliation?
+Reconciliation?
 
- Need BOTH norms and criteria to make sense of the world.
- Angoff (1974): “Scratch a criterion and you find a norm”
+Need BOTH norms and criteria to make sense of the world.
+Angoff (1974): “Scratch a criterion and you find a norm”
 
- D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
+D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Questions
- References
+References
 
 References
- Angoff, W. H. (1974).
- Criterion-referencing, norm-referencing and the SAT.
- College Board Review, 92:2–5.
+Angoff, W. H. (1974).
+Criterion-referencing, norm-referencing and the SAT.
+College Board Review, 92:2–5.
 
- D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
+D. W. Betebenner Achievement and Growth and Norms and Criteria</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -109,7 +109,7 @@ knowledge, unlock statistics, improve transparency and
 accountability of public policies, change culture, increase
 numeracy, and in the end, improve democracy and welfare.
 
- Enrico Giovannini, Chief Statistician, OECD. June 2007.</div>
+Enrico Giovannini, Chief Statistician, OECD. June 2007.</div>
 ```
 
 ## About this copy {.archive-about}

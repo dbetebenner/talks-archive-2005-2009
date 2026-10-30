@@ -13,17 +13,17 @@ format:
 
 ```{=html}
 <div class="archive-text">Authentic Use of Software &amp;
- Technology
- in an Applied Statistics Course
- Damian W. Betebenner,
- Yun Xiang, &amp; Xiaohui Yue
+Technology
+in an Applied Statistics Course
+Damian W. Betebenner,
+Yun Xiang, &amp; Xiaohui Yue
 
- Lynch School of Education
- Boston College
- April 11, 2006
+Lynch School of Education
+Boston College
+April 11, 2006
 
 10/30/26 Department of Educational Research, 1
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -31,8 +31,8 @@ format:
 ```{=html}
 <div class="archive-text">Abstract
 ● Effectively combining software use with instruction is easier in
- subjects where the use of software is an integral component of
- content mastery
+subjects where the use of software is an integral component of
+content mastery
 
 ● A prominent example: applied statistics
 
@@ -41,7 +41,7 @@ format:
 ● Our implementations
 
 10/30/26 Department of Educational Research, 2
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -49,19 +49,19 @@ format:
 ```{=html}
 <div class="archive-text">Perspectives
 “It takes intelligent people to take full advantage of intelligent machines”
- –Wooldridge, 1993
+–Wooldridge, 1993
 
 ● An emerging problem is the inauthentic manner in which software/
- technology and instruction are combined.
+technology and instruction are combined.
 
 ● Difference between inauthentic use and authentic use of
- technology (cognitive tool)
+technology (cognitive tool)
 
 ● A place to begin where technology already plays an authentic role is
- in subjects where technology already plays an essential role.
+in subjects where technology already plays an essential role.
 
 10/30/26 Department of Educational Research, 3
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -69,20 +69,20 @@ format:
 ```{=html}
 <div class="archive-text">Purpose – Goal of the study
 ● The central purpose: to authentically incorporate the use of
- technology in an applied statistics class.
+technology in an applied statistics class.
 
 ● To dissect the manner in which technology/software has been
- effectively incorporated into a graduate level introductory statistics
+effectively incorporated into a graduate level introductory statistics
 
 ● To discern insights into the effective incorporation of software use in
- the classroom where software is an essential component of the
- subject
+the classroom where software is an essential component of the
+subject
 
 ● We hope to help educators from any discipline interrogate their
- own (in)authentic use of technology.
+own (in)authentic use of technology.
 
 10/30/26 Department of Educational Research, 4
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -91,22 +91,22 @@ format:
 <div class="archive-text">Frameworks for the
 Implementation of Technology
 ● Definition of “authentic”: Following Hennessy &amp; Murphy (1999), an
- activity is authentic if it is:
- ● coherent and personally meaningful, and
- ● purposeful within a social framework – the ordinary practices of
- culture
+activity is authentic if it is:
+● coherent and personally meaningful, and
+● purposeful within a social framework – the ordinary practices of
+culture
 ● To make judgments about the purposeful use of technology
- requires knowledge about how technology is used in society at
- large.
+requires knowledge about how technology is used in society at
+large.
 
 ● Such a critique of expert knowledge aligns well with a large
- number of learning theories
+number of learning theories
 
 ● A chicken-egg dilemma emerges when attempting to situate
- technology use within expert practice.
+technology use within expert practice.
 
 10/30/26 Department of Educational Research, 5
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
@@ -116,18 +116,18 @@ Implementation of Technology
 “Experts think with machines, they don’t let machines think for them.”
 
 ● Many of the implementations of technology in the classroom
- lacking due to a lack of authenticity
+lacking due to a lack of authenticity
 
 ● Major challenge with regard to the seamless integration of
- computer software use with the development of theory in the
- class
+computer software use with the development of theory in the
+class
 
 ● Limitations of the lecture/lab class format
 
 ● An attempt to overcome the limitation
 
 10/30/26 Department of Educational Research, 6
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -135,20 +135,20 @@ Implementation of Technology
 ```{=html}
 <div class="archive-text">Background
 ● An authentic use of software requires an operating computer in
- the classroom that is projected in such as way so that all students
- can view the process as it takes place
+the classroom that is projected in such as way so that all students
+can view the process as it takes place
 
 ● The limitation of PowerPoint: This distance between “the pointer”
- and “the voice”
+and “the voice”
 
 ● Our solution to this dilemma: instead of projecting the software
- onto a basic reflective surface, the GUI is projected onto a touch
- sensitive white board (TSWB)
+onto a basic reflective surface, the GUI is projected onto a touch
+sensitive white board (TSWB)
 
 ● Advantages of TSWB
 
 10/30/26 Department of Educational Research, 7
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
@@ -158,27 +158,27 @@ Implementation of Technology
 ● Critical reflection of practice through participant observation
 
 ● The setting for the participant observations occurred at two
- different universities:
- ● In 5 classes where a TSWB was made available and
- ● in 6 classes without a TSWB
- ● Classes were no larger than 35 students
+different universities:
+● In 5 classes where a TSWB was made available and
+● in 6 classes without a TSWB
+● Classes were no larger than 35 students
 
 ● How was TSWB used in class?
 
 10/30/26 Department of Educational Research, 8
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">SOME DIGITAL PICTURES CAN BE ADDED HERE
- TO DEPICT DIFFERENT SITUATIONS THAT
- ENCOURAGE/DISCOURAGE AUTHENTIC
- INSTRUCTION
+TO DEPICT DIFFERENT SITUATIONS THAT
+ENCOURAGE/DISCOURAGE AUTHENTIC
+INSTRUCTION
 
 10/30/26 Department of Educational Research, 9
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -190,16 +190,16 @@ Implementation of Technology
 ● Richer and less contrived examples can be explored
 
 ● Students are exposed to an authentic discussion of theory and
- application
+application
 
 ● A price: mastery over 2 domains
- ● subject matter and
- ● real-time use of the software
+● subject matter and
+● real-time use of the software
 
 ● Unexpected benefit for disabilities
 
 10/30/26 Department of Educational Research, 10
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -207,21 +207,21 @@ Implementation of Technology
 ```{=html}
 <div class="archive-text">Summary
 ● Our overall goal was/is to create a learning environment for students that
- allows the instructor the freedom to model authentic practice.
+allows the instructor the freedom to model authentic practice.
 
 ● Authentic technology use in the classroom makes the instructor more
- relevant rather than less.
+relevant rather than less.
 
 ● The future of authentic instruction
- ● The interface between the technology/software and the subject
- matter
- ● The instructor’s fluency with that technology/software
+● The interface between the technology/software and the subject
+matter
+● The instructor’s fluency with that technology/software
 
 ● “How do/would/should I, an expert, utilize technology in my own
- discipline specific research?”
+discipline specific research?”
 
 10/30/26 Department of Educational Research, 11
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -229,28 +229,27 @@ Implementation of Technology
 ```{=html}
 <div class="archive-text">References
 ● Brown, J., Collins, A., &amp; Duguid, P. (1989). Situated cognition and the culture of learning.
- Education Researcher, 18 (1), 32–42.
+Education Researcher, 18 (1), 32–42.
 
 ● Hennessy, S., &amp; Murphy, P. (1999). The potential for collaborative problem solving in design
- and technology. International Journal of Technology and Design Education, 9 (1), 1–36.
+and technology. International Journal of Technology and Design Education, 9 (1), 1–36.
 
 ● Newmann, F. M., &amp; Wehlage, G. G. (1993). Five standards of authentic instruction.
- Educational Leadership, 50 (7). (Available online at http://pdonline.ascd.org/pdonline/
- diffinstr/el199304_newmann.html)
+Educational Leadership, 50 (7). (Available online at http://pdonline.ascd.org/pdonline/
+diffinstr/el199304_newmann.html)
 
 ● Otero, V., Peressini, D., Anderson Meymaris, K., &amp; Ford, P. (2005, January/February).
- Integrating technology into teacher education: A critical framework for implementing reform.
- Journal of Teacher Education, 56 (1), 8–23.
+Integrating technology into teacher education: A critical framework for implementing reform.
+Journal of Teacher Education, 56 (1), 8–23.
 
 ● Rogoff, B. (1990). Apprenticeship in thinking: Cognitive development in social context. New
- York: Oxford University Press. Turnbull, W. (2002). The place of authenticity in technology in
- New Zealand curriculum. International Journal of Technology and Design Education, 12, 23–
- 40.
+York: Oxford University Press. Turnbull, W. (2002). The place of authenticity in technology in
+New Zealand curriculum. International Journal of Technology and Design Education, 12, 23–
 
 ● Wooldridge, A. (1993). A comparative view of education: Effective school reforms.
- Current(351), 4–16.
+Current(351), 4–16.
 10/30/26 Department of Educational Research, 12
- Measurement, and Evaluation, Boston College</div>
+Measurement, and Evaluation, Boston College</div>
 ```
 
 ## About this copy {.archive-about}

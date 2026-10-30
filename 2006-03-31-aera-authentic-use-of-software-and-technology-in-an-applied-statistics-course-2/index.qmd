@@ -13,12 +13,12 @@ format:
 
 ```{=html}
 <div class="archive-text">Authentic Use of
- Software &amp; Technology
+Software &amp; Technology
 in an Applied Statistics Course
- Damian W. Betebenner, Yun Xiang, &amp; Xiaohui Yue
+Damian W. Betebenner, Yun Xiang, &amp; Xiaohui Yue
 
- Department of Educational Research, Measurement, and Evaluation
- Lynch School of Education, Boston College</div>
+Department of Educational Research, Measurement, and Evaluation
+Lynch School of Education, Boston College</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -26,30 +26,30 @@ in an Applied Statistics Course
 ```{=html}
 <div class="archive-text">Perspectives &amp; Purpose
 • Background of computer use in curriculum
- development
+development
 • Difference between inauthentic use and
- authentic use of technology (cognitive tool)
+authentic use of technology (cognitive tool)
 • The central purpose: to authentically
- incorporate the use of technology in an
- applied statistics class.</div>
+incorporate the use of technology in an
+applied statistics class.</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Frameworks for the Implementation of
- Technology
+Technology
 • Definition of “authentic”
- Following Hennessy &amp; Murphy (1999), an activity is authentic if
- it is:
- 1. coherent and personally meaningful, and
- 2. purposeful within a social framework—the ordinary practices
- of culture. (critical)
+Following Hennessy &amp; Murphy (1999), an activity is authentic if
+it is:
+1. coherent and personally meaningful, and
+2. purposeful within a social framework—the ordinary practices
+of culture. (critical)
 
 • Such a critique of expert knowledge aligns well
- with a large number of learning theories
+with a large number of learning theories
 • Chicken-egg dilemma emerges when attempting to
- situate technology use within expert practice</div>
+situate technology use within expert practice</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -57,11 +57,11 @@ in an Applied Statistics Course
 ```{=html}
 <div class="archive-text">The Goal of the Study
 • By illuminating what we think are best practice
- considerations for the implementation of
- technology into an applied statistics classroom,
- we hope to help educators from any discipline
- interrogate their own (in)authentic use of
- technology.</div>
+considerations for the implementation of
+technology into an applied statistics classroom,
+we hope to help educators from any discipline
+interrogate their own (in)authentic use of
+technology.</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -69,11 +69,11 @@ in an Applied Statistics Course
 ```{=html}
 <div class="archive-text">Setting &amp; Methodology (i)
 • Many of the implementations of technology
- in the classroom lacking due to a lack of
- authenticity
+in the classroom lacking due to a lack of
+authenticity
 • Major challenge with regard to the seamless
- integration of computer software use with
- the development of theory in the class
+integration of computer software use with
+the development of theory in the class
 • Limitations of the lecture/lab class format
 • An attempt to overcome the limitation</div>
 ```
@@ -83,15 +83,15 @@ in an Applied Statistics Course
 ```{=html}
 <div class="archive-text">Setting &amp; Methodology (ii)
 • An authentic use of software requires an operating
- computer in the classroom that is projected in such
- as way so that all students can view the process as
- it takes place
+computer in the classroom that is projected in such
+as way so that all students can view the process as
+it takes place
 • The limitation of PowerPoint: This distance between
- “the pointer” and “the voice”
+“the pointer” and “the voice”
 • Our solution to this dilemma: instead of projecting
- the software onto a basic reflective surface, the
- GUI is projected onto a touch sensitive white board
- (TSWB)
+the software onto a basic reflective surface, the
+GUI is projected onto a touch sensitive white board
+(TSWB)
 • Advantages of TSWB</div>
 ```
 
@@ -100,13 +100,13 @@ in an Applied Statistics Course
 ```{=html}
 <div class="archive-text">Setting &amp; Methodology (iii)
 • Critical reflection of practice through participant
- observation
+observation
 • The setting for the participant observations
- occurred at two different universities:
- In 5 classes where a TSWB was made available
- and
- in 6 classes without a TSWB.
- Classes were no larger than 35 students
+occurred at two different universities:
+In 5 classes where a TSWB was made available
+and
+in 6 classes without a TSWB.
+Classes were no larger than 35 students
 • How was TSWB used in class?</div>
 ```
 
@@ -120,24 +120,24 @@ in an Applied Statistics Course
 
 ```{=html}
 <div class="archive-text">Results &amp; Conclusions (i)
- --Advantages of TSWB
+--Advantages of TSWB
 A separate lab is no longer needed to demonstrate
- software use
+software use
 • When devising lesson plans/lectures, our focus resides on
- investigating rich problems in class out of which theory and
- software use flows.
+investigating rich problems in class out of which theory and
+software use flows.
 • Compared with separate lab sections to introduce students to
- computer use, the TSWB allowed the instructor to better
- coordinate computer use.
+computer use, the TSWB allowed the instructor to better
+coordinate computer use.
 • Whereas teaching a computer lab can be analogous to “herding
- cats”, having a central projected computer allows one to proceed
- through the analysis at a measured pace that the students can
- follow.
+cats”, having a central projected computer allows one to proceed
+through the analysis at a measured pace that the students can
+follow.
 • The ideal situation was for the students to have computers with
- which they can follow along (e.g., laptops, high speed wireless,
- and adequate deskspace). The students didn’t feel compelled to
- write down the mouse strokes one must follow to perform the
- analyses.</div>
+which they can follow along (e.g., laptops, high speed wireless,
+and adequate deskspace). The students didn’t feel compelled to
+write down the mouse strokes one must follow to perform the
+analyses.</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -146,16 +146,16 @@ A separate lab is no longer needed to demonstrate
 <div class="archive-text">Results &amp; Conclusions (ii)
 Richer and less contrived examples can be explored
 • In an investigation of regression, for example, with a
- working computer available a scatterplot depicting
- hundreds, if not thousands, of data points is easily
- available. Moreover, so is the depiction of the regression
- line together with coefficients for its representation as a
- linear equation.
+working computer available a scatterplot depicting
+hundreds, if not thousands, of data points is easily
+available. Moreover, so is the depiction of the regression
+line together with coefficients for its representation as a
+linear equation.
 
 • Richer examples, ideally, lead to more student involvement.
- Having a computer handy allows the instructor to follow
- through on analyses for such questions. The only limitation
- is the instructors expertise.</div>
+Having a computer handy allows the instructor to follow
+through on analyses for such questions. The only limitation
+is the instructors expertise.</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
@@ -164,17 +164,17 @@ Richer and less contrived examples can be explored
 <div class="archive-text">Results &amp; Conclusions (iii)
 
 Students are exposed to an authentic discussion of
- theory and application
+theory and application
 • The instructor’s discussion is a refined
- encapsulation of the manner in which experts
- engage statistics. Thus, the instructor’s model
- expert practice for the students.
+encapsulation of the manner in which experts
+engage statistics. Thus, the instructor’s model
+expert practice for the students.
 
 • Many questions from students can immediately
- and meaningfully be investigated using the
- software in front of the students. Such
- investigations acculturate the students in a manner
- consistent with that employed by expert.</div>
+and meaningfully be investigated using the
+software in front of the students. Such
+investigations acculturate the students in a manner
+consistent with that employed by expert.</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
@@ -196,20 +196,20 @@ Students are exposed to an authentic discussion of
 ```{=html}
 <div class="archive-text">Future of the Study
 • The future of authentic instruction that incorporates technology/
- software lies with the interface between the technology/software and
- the subject matter which, in turn, is brought to life through the
- instructor’s fluency with that technology/software.
+software lies with the interface between the technology/software and
+the subject matter which, in turn, is brought to life through the
+instructor’s fluency with that technology/software.
 • In situations where technology/software has yet to find an essential
- niche within a discipline (or instructors are not fluent with its use) the
- result is usually inauthentic instruction relying upon highly contrived
- exercises.
+niche within a discipline (or instructors are not fluent with its use) the
+result is usually inauthentic instruction relying upon highly contrived
+exercises.
 • The key to authentic incorporation of technology in the classroom lies
- with the answer to the question:
- How do/would/should I, an expert, utilize technology in my own discipline
- specific research?
- Once this question is answered, the trick is to transfer this enact this
- utilization of technology in the classroom and engage students in that
- process. Undoubtedly, this not a simple endeavor.</div>
+with the answer to the question:
+How do/would/should I, an expert, utilize technology in my own discipline
+specific research?
+Once this question is answered, the trick is to transfer this enact this
+utilization of technology in the classroom and engage students in that
+process. Undoubtedly, this not a simple endeavor.</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}

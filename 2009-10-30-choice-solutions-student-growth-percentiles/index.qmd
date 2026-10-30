@@ -13,171 +13,171 @@ format:
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 Student Growth Percentiles
 
- Damian W. Betebenner
+Damian W. Betebenner
 
- The Center for Assessment, Dover NH
+The Center for Assessment, Dover NH
 
- October 30th, 2009
+October 30th, 2009
 
- D. W. Betebenner Student Growth Percentiles</div>
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 Student Growth Percentiles
 
- Student Growth Percentiles are a norm referenced growth
- metric capable of being embedded within criterion referenced
- assessment/accountability systems.
- Student Growth Percentiles were developed by Dr. Damian
- Betebenner at The Center for Assessment to help states use
- their longitudinal assessment data to understand the progress
- of students and its relationship to education quality.
- Student Growth Percentiles have been adopted for use by four
- states: Colorado, Massachusetts, Indiana, and Arizona and
- are being piloted in many other states including Rhode Island
- and New Hampshire.
- The method formed the basis of the Colorado Department of
- Education’s successful application to USED under the Growth
- Model Pilot Program for use as part of AYP.
+Student Growth Percentiles are a norm referenced growth
+metric capable of being embedded within criterion referenced
+assessment/accountability systems.
+Student Growth Percentiles were developed by Dr. Damian
+Betebenner at The Center for Assessment to help states use
+their longitudinal assessment data to understand the progress
+of students and its relationship to education quality.
+Student Growth Percentiles have been adopted for use by four
+states: Colorado, Massachusetts, Indiana, and Arizona and
+are being piloted in many other states including Rhode Island
+and New Hampshire.
+The method formed the basis of the Colorado Department of
+Education’s successful application to USED under the Growth
+Model Pilot Program for use as part of AYP.
 
- D. W. Betebenner Student Growth Percentiles</div>
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 What are the relevant questions?
 
- Growth models address specific questions
- Different growth analysis techniques are good at
- answering different questions.
- It is critical to understand these different questions.
- Different questions lead to different conversations which
- lead to different uses and outcomes.
+Growth models address specific questions
+Different growth analysis techniques are good at
+answering different questions.
+It is critical to understand these different questions.
+Different questions lead to different conversations which
+lead to different uses and outcomes.
 
- Questions form the vocabulary of later conversations
- Starting with the right questions simplifies development
- and motivating the proper use of the growth model results.
- It’s all about the conversations you want to have. The
- questions set the table for those conversations.
+Questions form the vocabulary of later conversations
+Starting with the right questions simplifies development
+and motivating the proper use of the growth model results.
+It’s all about the conversations you want to have. The
+questions set the table for those conversations.
 
- D. W. Betebenner Student Growth Percentiles</div>
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 What are the relevant questions for parents?
 
- Yen (2007), from a state survey of parents, teachers and
- administrators, compiled a list of frequently voiced
- questions/concerns by stakeholder group.
+Yen (2007), from a state survey of parents, teachers and
+administrators, compiled a list of frequently voiced
+questions/concerns by stakeholder group.
 
- Parent Questions
- Did my child make a year’s worth of progress in a year?
- Is my child growing appropriately toward meeting state
- standards?
- Is my child growing as much in Math as Reading?
- Did my child grow as much this year as last year?
+Parent Questions
+Did my child make a year’s worth of progress in a year?
+Is my child growing appropriately toward meeting state
+standards?
+Is my child growing as much in Math as Reading?
+Did my child grow as much this year as last year?
 
- D. W. Betebenner Student Growth Percentiles</div>
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 What are the relevant questions for teachers?
 
- Yen (2007), from a state survey of parents, teachers and
- administrators, compiled a list of frequently voiced
- questions/concerns by stakeholder group.
+Yen (2007), from a state survey of parents, teachers and
+administrators, compiled a list of frequently voiced
+questions/concerns by stakeholder group.
 
- Teacher Questions
- Did my students make a year’s worth of progress in a
- year?
- Did my students grow appropriately toward meeting state
- standards?
- How close are my students to becoming Proficient?
- Are there students with unusually low growth who need
- special attention?
+Teacher Questions
+Did my students make a year’s worth of progress in a
+year?
+Did my students grow appropriately toward meeting state
+standards?
+How close are my students to becoming Proficient?
+Are there students with unusually low growth who need
+special attention?
 
- D. W. Betebenner Student Growth Percentiles</div>
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 What are the relevant questions for administrators?
- Yen (2007), from a state survey of parents, teachers and
- administrators, compiled a list of frequently voiced
- questions/concerns by stakeholder group.
+Yen (2007), from a state survey of parents, teachers and
+administrators, compiled a list of frequently voiced
+questions/concerns by stakeholder group.
 
- Administrator Questions
- Did the students in our district/school make a year’s worth
- of progress in all content areas?
- Are our students growing appropriately toward meeting
- state standards?
- Does this school/program show as much growth as that
- one?
- Can I measure student growth even for students who do
- not change proficiency categories?
- Can I pool together results from different grades to draw
- summary conclusions?
- D. W. Betebenner Student Growth Percentiles</div>
+Administrator Questions
+Did the students in our district/school make a year’s worth
+of progress in all content areas?
+Are our students growing appropriately toward meeting
+state standards?
+Does this school/program show as much growth as that
+one?
+Can I measure student growth even for students who do
+not change proficiency categories?
+Can I pool together results from different grades to draw
+summary conclusions?
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 Student Growth Percentiles
 
- Student growth percentiles allows stakeholders to answer all
- of the questions just mentioned.
- A common metric usable by diverse stakeholders (e.g.,
- parents, teachers, principals, administrators, and policy
- makers) creates the possibility for transformative change.
+Student growth percentiles allows stakeholders to answer all
+of the questions just mentioned.
+A common metric usable by diverse stakeholders (e.g.,
+parents, teachers, principals, administrators, and policy
+makers) creates the possibility for transformative change.
 
- D. W. Betebenner Student Growth Percentiles</div>
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Student Growth Percentiles
- References
+References
 
 References
- Yen, W. M. (2007).
- Vertical scaling and No Child Left Behind.
- In Dorans, N. J., Pommerich, M., and Holland, P. W., editors,
- Linking and Aligning Scores and Scales, pages 273–283.
- Springer, New York.
+Yen, W. M. (2007).
+Vertical scaling and No Child Left Behind.
+In Dorans, N. J., Pommerich, M., and Holland, P. W., editors,
+Linking and Aligning Scores and Scales, pages 273–283.
+Springer, New York.
 
- D. W. Betebenner Student Growth Percentiles</div>
+D. W. Betebenner Student Growth Percentiles</div>
 ```
 
 ## About this copy {.archive-about}

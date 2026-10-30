@@ -13,364 +13,328 @@ format:
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth
- Descriptive/Prescriptive Growth
- References
+Defining a Year’s Growth
+Descriptive/Prescriptive Growth
+References
 
- Toward a Normative Understanding of Student Growth
+Toward a Normative Understanding of Student Growth
 
- Damian W. Betebenner
+Damian W. Betebenner
 
- National Center for the Improvement of Educational Assessment
- Dover, NH
+National Center for the Improvement of Educational Assessment
+Dover, NH
 
- UC Boulder REMinar Brownbag
- October 10th, 2007
+UC Boulder REMinar Brownbag
+October 10th, 2007
 
- D. W. Betebenner Normative Student Growth</div>
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth Judgments and Accountability Models
- Descriptive/Prescriptive Growth Growth Models
- References
+Defining a Year’s Growth Judgments and Accountability Models
+Descriptive/Prescriptive Growth Growth Models
+References
 
- Accountability Models
- Accountability mandates—like NCLB’s universal proficiency
- requirement—dominate discussions of assessment outcomes.
- Despite their prominence, it is important distinguish between the
- judgments made by the accountability system and the assessment
- derived quantities on which the judgment is based.
- Accountability systems provide/impose values that allow judgments
- to be made about performance at the individual or aggregate level.
- A school might report 55% of its students proficient in math. Judging
- this result as (in)adequate requires separate values, usually
- embedded within an accountability system.
- Similarly, a student scoring 500 on the grade 5 CSAP reading test is
- judged unsatisfactory by the values embedded within the performance
- standards and accountability system.
- With the analysis of growth, it is important to distinguish between the
- description of growth provided by the model and the qualification of
- that value as (in)adequate by the accountability system.
- D. W. Betebenner Normative Student Growth</div>
+Accountability Models
+Accountability mandates—like NCLB’s universal proficiency
+requirement—dominate discussions of assessment outcomes.
+Despite their prominence, it is important distinguish between the
+judgments made by the accountability system and the assessment
+derived quantities on which the judgment is based.
+Accountability systems provide/impose values that allow judgments
+to be made about performance at the individual or aggregate level.
+A school might report 55% of its students proficient in math. Judging
+this result as (in)adequate requires separate values, usually
+embedded within an accountability system.
+Similarly, a student scoring 500 on the grade 5 CSAP reading test is
+judged unsatisfactory by the values embedded within the performance
+standards and accountability system.
+With the analysis of growth, it is important to distinguish between the
+description of growth provided by the model and the qualification of
+that value as (in)adequate by the accountability system.
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth Judgments and Accountability Models
- Descriptive/Prescriptive Growth Growth Models
- References
+Defining a Year’s Growth Judgments and Accountability Models
+Descriptive/Prescriptive Growth Growth Models
+References
 
- Growth Models
+Growth Models
 
- Over the last decade, growth models have been used primarily to
- infer effectiveness at the teacher or school level.
- The foremost example being the value-added models developed by
- Dr. William Sanders and used in many districts and states
- nationwide to infer teacher or school effectiveness
- These models and their effectiveness claims are controversial for a
- number of reasons [Braun, 2005, Rubin et al., 2004].
- Value-added models provide normative “effectiveness” quantities
- that are difficult to interpret.
- The models provide a means for accountability systems to judge
- without providing a description of growth.
+Over the last decade, growth models have been used primarily to
+infer effectiveness at the teacher or school level.
+The foremost example being the value-added models developed by
+Dr. William Sanders and used in many districts and states
+nationwide to infer teacher or school effectiveness
+These models and their effectiveness claims are controversial for a
+number of reasons [Braun, 2005, Rubin et al., 2004].
+Value-added models provide normative “effectiveness” quantities
+that are difficult to interpret.
+The models provide a means for accountability systems to judge
+without providing a description of growth.
 
- D. W. Betebenner Normative Student Growth</div>
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth Judgments and Accountability Models
- Descriptive/Prescriptive Growth Growth Models
- References
+Defining a Year’s Growth Judgments and Accountability Models
+Descriptive/Prescriptive Growth Growth Models
+References
 
- Growth Models and Implicit Values
- Value-added models implicitely judge effectiveness based upon
- whether teachers or schools significantly differ from mathemtically
- derived expectation (i.e., “average”).
- In this context, the average for a teacher of school is judged to be
- neutral, significantly above average—good, and significantly
- below—average bad.
- Current growth to a standard methodologies implicitely judge
- individual student progress based upon whether growth is sufficient
- to achieve/maintain proficient status within a number of years.
- Neither value-added nor growth to a standard models supply a
- useful description of effectiveness/growth beyond the judgment of
- (in)adequacy.
- Growth models incorporated into accountability systems should
- return actionable descriptions of growth/effectiveness that allow
- stakeholders to more transparently impose their own values of
- (in)adequacy.
- D. W. Betebenner Normative Student Growth</div>
+Growth Models and Implicit Values
+Value-added models implicitely judge effectiveness based upon
+whether teachers or schools significantly differ from mathemtically
+derived expectation (i.e., “average”).
+In this context, the average for a teacher of school is judged to be
+neutral, significantly above average—good, and significantly
+below—average bad.
+Current growth to a standard methodologies implicitely judge
+individual student progress based upon whether growth is sufficient
+to achieve/maintain proficient status within a number of years.
+Neither value-added nor growth to a standard models supply a
+useful description of effectiveness/growth beyond the judgment of
+(in)adequacy.
+Growth models incorporated into accountability systems should
+return actionable descriptions of growth/effectiveness that allow
+stakeholders to more transparently impose their own values of
+(in)adequacy.
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models Actual versus Aspirational Student Growth
- Defining a Year’s Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- Exploring the Range of Aspirational Outcomes
- References
+Defining a Year’s Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+Exploring the Range of Aspirational Outcomes
+References
 
- Actual versus Aspirational Student Growth
+Actual versus Aspirational Student Growth
 
- It seems simple enough: Establish what constitutes a year’s growth
- in a year’s time for each student.
- This simplicity belies a subtle complexity.
- To adequately address the notion of a year’s growth, actual growth
- must be distinguished from aspirational growth.
- Describe What is a current year’s growth?
- Prescribe What should a current year’s growth be?
- Answering the second question establishes a threshold
- distinguishing adequate from inadequate growth.
- To make such a distinction requires an answer to the first question
- which defines a norm: What is the range of growth currently
- observed?
- Aspirational growth should be possible—This is Linn’s existence
- proof applied at the individual level [Linn, 2003].
+It seems simple enough: Establish what constitutes a year’s growth
+in a year’s time for each student.
+This simplicity belies a subtle complexity.
+To adequately address the notion of a year’s growth, actual growth
+must be distinguished from aspirational growth.
+Describe What is a current year’s growth?
+Prescribe What should a current year’s growth be?
+Answering the second question establishes a threshold
+distinguishing adequate from inadequate growth.
+To make such a distinction requires an answer to the first question
+which defines a norm: What is the range of growth currently
+observed?
+Aspirational growth should be possible—This is Linn’s existence
+proof applied at the individual level [Linn, 2003].
 
- D. W. Betebenner Normative Student Growth</div>
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models Actual versus Aspirational Student Growth
- Defining a Year’s Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- Exploring the Range of Aspirational Outcomes
- References
+Defining a Year’s Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+Exploring the Range of Aspirational Outcomes
+References
 
- Describing Actual Student Growth
+Describing Actual Student Growth
 
- Measuring student growth, even with a vertical scale, is not a simple
- task.
- Numerous States believe that placing their tests on a vertical scale
- will simplify the task of measuring student growth.
- Even with an interval (or ratio) scale, growth is not easy to interpret.
- Consider, for example, height.
- A child might grow 4 inches between ages 3 and 4.
- 4 inches is a well understood quantity.
- However, the 4 inch increase becomes fully understandable only when
- placed in context of growth of other children between ages 3 and 4.
- In the following discussion student growth percentiles are introduced
- that provide a normative context to interpret student growth.
+Measuring student growth, even with a vertical scale, is not a simple
+task.
+Numerous States believe that placing their tests on a vertical scale
+will simplify the task of measuring student growth.
+Even with an interval (or ratio) scale, growth is not easy to interpret.
+Consider, for example, height.
+A child might grow 4 inches between ages 3 and 4.
+4 inches is a well understood quantity.
+However, the 4 inch increase becomes fully understandable only when
+placed in context of growth of other children between ages 3 and 4.
+In the following discussion student growth percentiles are introduced
+that provide a normative context to interpret student growth.
 
- D. W. Betebenner Normative Student Growth</div>
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models Actual versus Aspirational Student Growth
- Defining a Year’s Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- Exploring the Range of Aspirational Outcomes
- References
+Defining a Year’s Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+Exploring the Range of Aspirational Outcomes
+References
 
- Student Growth Percentiles
- As the figures indicate, there is a distribution of 2006 scale scores
- associated with each 2005 scale score.
- The average (or median) of the conditional density could be used as
- a point estimate of the expected 2006 scale score given the student’s
- 2005 performance.
- Similarly, the middle 50% of each density gives a range of scores
- where one would expect such a student’s score to reside 50% of the
- time.
- Using quantile regression techniques, conditional densities using
- more than a single prior score can be estimated.
- Given a student’s prior scale scores and the associated conditional
- density, their current scale score corresponds to a percentile of that
- conditional distribution.
- This percentile is the student’s growth percentile.
- For example, a student growth percentile of 60 indicates the student’s
- latest scale score exceeded 60 percent of his/her counterparts with
- equal prior scores.
- D. W. Betebenner Normative Student Growth</div>
+Student Growth Percentiles
+As the figures indicate, there is a distribution of 2006 scale scores
+associated with each 2005 scale score.
+The average (or median) of the conditional density could be used as
+a point estimate of the expected 2006 scale score given the student’s
+2005 performance.
+Similarly, the middle 50% of each density gives a range of scores
+where one would expect such a student’s score to reside 50% of the
+time.
+Using quantile regression techniques, conditional densities using
+more than a single prior score can be estimated.
+Given a student’s prior scale scores and the associated conditional
+density, their current scale score corresponds to a percentile of that
+conditional distribution.
+This percentile is the student’s growth percentile.
+For example, a student growth percentile of 60 indicates the student’s
+latest scale score exceeded 60 percent of his/her counterparts with
+equal prior scores.
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models Actual versus Aspirational Student Growth
- Defining a Year’s Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- Exploring the Range of Aspirational Outcomes
- References
+Defining a Year’s Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+Exploring the Range of Aspirational Outcomes
+References
 
- Student Growth Percentiles
- Student growth percentiles norm each student’s growth relative to
- similarly performing students.
- The growth percentiles are estimated using quantile regression
- techniques (Betebenner &amp; Shang, 2007; Koenker, 2005).
- The percentile scale on which the growth percentiles lie allows for
- easy comparison of all students.
- For example, consider a low achieving student demonstrating 90th
- percentile growth and a high achieving student demonstrating 10th
- percentile growth.
- The low achieving student grew at a rate exceeding 90 percent of
- similar students.
- The high achieving student grew at a rate exceeding just 10 percent of
- similar students.
- In this sense, the low achiever’s growth is more extraordinary than the
- high achiever’s.
- However, judgment of whether the student’s growth was adequate
- requires external criteria.
- D. W. Betebenner Normative Student Growth</div>
+Student Growth Percentiles
+Student growth percentiles norm each student’s growth relative to
+similarly performing students.
+The growth percentiles are estimated using quantile regression
+techniques (Betebenner &amp; Shang, 2007; Koenker, 2005).
+The percentile scale on which the growth percentiles lie allows for
+easy comparison of all students.
+For example, consider a low achieving student demonstrating 90th
+percentile growth and a high achieving student demonstrating 10th
+percentile growth.
+The low achieving student grew at a rate exceeding 90 percent of
+similar students.
+The high achieving student grew at a rate exceeding just 10 percent of
+similar students.
+In this sense, the low achiever’s growth is more extraordinary than the
+high achiever’s.
+However, judgment of whether the student’s growth was adequate
+requires external criteria.
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models Actual versus Aspirational Student Growth
- Defining a Year’s Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- Exploring the Range of Aspirational Outcomes
- References
+Defining a Year’s Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+Exploring the Range of Aspirational Outcomes
+References
 
- Performance Standards and Growth Percentiles
- Performance standards are the most useful external criteria needed
- to define what adequate growth is.
- If proficiency within 3 years is the achievement goal, then one can
- examine prior growth to estimate what growth percentile is sufficient
- to reach the desired outcome.
- For high achieving students, modest growth percentiles are required
- to maintain their position above proficiency in reading.
- For low achieving (low unsatisfactory) students in reading, sustained
- 80th percentile growth is required to reach the desired threshold.
- The process of defining (in)adequate growth is a standard setting
- procedure.
- Clearly, defining a year’s growth for some students as 80th
- percentile or better sets a very high standard.
- And defining a year’s growth for some students as 25th percentile or
- better sets a low standard.
- Growth standards should be equitable, reasonable, and desirable.
- D. W. Betebenner Normative Student Growth</div>
+Performance Standards and Growth Percentiles
+Performance standards are the most useful external criteria needed
+to define what adequate growth is.
+If proficiency within 3 years is the achievement goal, then one can
+examine prior growth to estimate what growth percentile is sufficient
+to reach the desired outcome.
+For high achieving students, modest growth percentiles are required
+to maintain their position above proficiency in reading.
+For low achieving (low unsatisfactory) students in reading, sustained
+80th percentile growth is required to reach the desired threshold.
+The process of defining (in)adequate growth is a standard setting
+procedure.
+Clearly, defining a year’s growth for some students as 80th
+percentile or better sets a very high standard.
+And defining a year’s growth for some students as 25th percentile or
+better sets a low standard.
+Growth standards should be equitable, reasonable, and desirable.
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth Combining Actual and Aspirational Growth
- Descriptive/Prescriptive Growth Ethics of Accountability
- References
+Defining a Year’s Growth Combining Actual and Aspirational Growth
+Descriptive/Prescriptive Growth Ethics of Accountability
+References
 
- Combining Actual and Aspirational Growth
+Combining Actual and Aspirational Growth
 
- Using student growth percentiles it is simple to reconcile actual
- growth measures with aspirational growth targets.
- Each student receives a growth percentile derived from present
- performance conditioning upon past performance.
- Growth standard setting is conducted once to determine what
- growth percentiles will be considered adequate and what growth
- percentiles will be considered inadequate.
- For example, consider a student just completing the 5th grade
- Their reading was at the partially proficient level.
- However, considering their 3rd and 4th grade achievement, they grew
- in the last year at the 99th percentile.
- Moreover, that level of growth is deemed adequate—they made at
- least a year’s growth.
- The following figure depicts this student’s scenario.
+Using student growth percentiles it is simple to reconcile actual
+growth measures with aspirational growth targets.
+Each student receives a growth percentile derived from present
+performance conditioning upon past performance.
+Growth standard setting is conducted once to determine what
+growth percentiles will be considered adequate and what growth
+percentiles will be considered inadequate.
+For example, consider a student just completing the 5th grade
+Their reading was at the partially proficient level.
+However, considering their 3rd and 4th grade achievement, they grew
+in the last year at the 99th percentile.
+Moreover, that level of growth is deemed adequate—they made at
+least a year’s growth.
+The following figure depicts this student’s scenario.
 
- D. W. Betebenner Normative Student Growth</div>
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -378,115 +342,107 @@ format:
 ```{=html}
 <div class="archive-text">Diagnostic/Prognostic Individual Growth Chart
 
- 800
-
- 700
-
 Scale Score
- Prognostic Growth Distribution of
- Analysis Potential 6th Grade
- Outcomes
+Prognostic Growth Distribution of
+Analysis Potential 6th Grade
+Outcomes
 
- 600
- 90th
+90th
 
- 75th
+75th
 
- 50th
- 99th
- Diagnostic Growth Diagnostic Growth
- Analysis Analysis 25th
- 90th 90th
+50th
+99th
+Diagnostic Growth Diagnostic Growth
+Analysis Analysis 25th
+90th 90th
 
- 500
- 75th 75th
+75th 75th
 
- 50th 50th
+50th 50th
 
- 25th 25th
- 20th
+25th 25th
+20th
 
- 400
+Grade 3/2004 Grade 4/2005 Grade 5/2006 Grade 6/2007
 
- Grade 3/2004 Grade 4/2005 Grade 5/2006 Grade 6/2007
-
- Grade/Year</div>
+Grade/Year</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth Combining Actual and Aspirational Growth
- Descriptive/Prescriptive Growth Ethics of Accountability
- References
+Defining a Year’s Growth Combining Actual and Aspirational Growth
+Descriptive/Prescriptive Growth Ethics of Accountability
+References
 
- Ethics and Growth Standards
+Ethics and Growth Standards
 
- Hume Kant Linn
+Hume Kant Linn
 
- Is/Ought Fallacy Ought Implies Can Existence Proof
+Is/Ought Fallacy Ought Implies Can Existence Proof
 
- D. W. Betebenner Normative Student Growth</div>
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth Combining Actual and Aspirational Growth
- Descriptive/Prescriptive Growth Ethics of Accountability
- References
+Defining a Year’s Growth Combining Actual and Aspirational Growth
+Descriptive/Prescriptive Growth Ethics of Accountability
+References
 
- Ethics and Accountability
+Ethics and Accountability
 
- Growth percentiles easily translate to probability statements and
- make transparent the possibility of achievement outcomes
- conditional upon where a student begins.
- Given current mandates to ammeliorate achievement gaps between
- ethnic and other subgroups, descriptive analyses of growth using
- growth percentiles present stark alternatives.
- Uniform (and challenging) achievement goals for all subgroups
- results in higher—and in some cases unrealistic—growth
- standards/expectations.
- Is doesn’t imply ought, but ought should imply can. How can this
- moral dilemma be reconciled.
- Norming results by subgroup (or covarying by some other
- demographic variable) is not an attractive alternative.
+Growth percentiles easily translate to probability statements and
+make transparent the possibility of achievement outcomes
+conditional upon where a student begins.
+Given current mandates to ammeliorate achievement gaps between
+ethnic and other subgroups, descriptive analyses of growth using
+growth percentiles present stark alternatives.
+Uniform (and challenging) achievement goals for all subgroups
+results in higher—and in some cases unrealistic—growth
+standards/expectations.
+Is doesn’t imply ought, but ought should imply can. How can this
+moral dilemma be reconciled.
+Norming results by subgroup (or covarying by some other
+demographic variable) is not an attractive alternative.
 
- D. W. Betebenner Normative Student Growth</div>
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Distinguishing Growth Models from Accountability Models
- Defining a Year’s Growth
- Descriptive/Prescriptive Growth
- References
+Defining a Year’s Growth
+Descriptive/Prescriptive Growth
+References
 
- References
- Betebenner, D. W. and Shang, Y. (2007).
- Reference growth charts for educational outcomes.
- Paper presented at the 2007 AERA Annual Conference, Chicago, IL.
- Retrieved May 12th, 2007 from
- http://monticello.bc.edu/Betebenner.
- Braun, H. I. (2005).
- Using student progres to evaluate teachers: A primer on
- value-added models.
- Technical report, Educational Testing Service, Princeton, New
- Jersey.
- Koenker, R. (2005).
- Quantile Regression.
- Cambridge University Press, Cambridge.
- Linn, R. L. (2003).
- Accountability: Responsibility and reasonable expectations.
- Technical report, Center for the Study of Evaluation, CRESST, Los
- Angeles, CA.
- Rubin, D. B., Stuart, E. A., and Zanutto, E. L. (2004).
- A potential outcomes view of value-added assessment in education.
- Journal of Educational and Behavioral Statistics, 29(1):103–116.
- D. W. Betebenner Normative Student Growth</div>
+References
+Betebenner, D. W. and Shang, Y. (2007).
+Reference growth charts for educational outcomes.
+Paper presented at the 2007 AERA Annual Conference, Chicago, IL.
+Retrieved May 12th, 2007 from
+http://monticello.bc.edu/Betebenner.
+Braun, H. I. (2005).
+Using student progres to evaluate teachers: A primer on
+value-added models.
+Technical report, Educational Testing Service, Princeton, New
+Jersey.
+Koenker, R. (2005).
+Quantile Regression.
+Cambridge University Press, Cambridge.
+Linn, R. L. (2003).
+Accountability: Responsibility and reasonable expectations.
+Technical report, Center for the Study of Evaluation, CRESST, Los
+Angeles, CA.
+Rubin, D. B., Stuart, E. A., and Zanutto, E. L. (2004).
+A potential outcomes view of value-added assessment in education.
+Journal of Educational and Behavioral Statistics, 29(1):103–116.
+D. W. Betebenner Normative Student Growth</div>
 ```
 
 ## About this copy {.archive-about}

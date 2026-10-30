@@ -13,809 +13,687 @@ format:
 
 ```{=html}
 <div class="archive-text">Overview
- Growth Model Background
- Student Growth Percentiles and Accountability
- References
+Growth Model Background
+Student Growth Percentiles and Accountability
+References
 
- New Directions for Student Growth Models
+New Directions for Student Growth Models
 
- Damian W. Betebenner
+Damian W. Betebenner
 
- National Center for the Improvement of Educational Assessment
- Dover, NH
+National Center for the Improvement of Educational Assessment
+Dover, NH
 
 University of Pennsylvania, GSE November 16th, 2009
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Growth Model Background
- About Me
- Student Growth Percentiles and Accountability
- References
+Growth Model Background
+About Me
+Student Growth Percentiles and Accountability
+References
 
 About Me Past &amp; Present
 
- ???? – 2001 Professional Student. Received a Ph.D. in Mathematics in
- 1995 from University of Wyoming and a Ph.D. in Education
- (Research &amp; Evaluation Methodology) University of
- Colorado, Boulder, 2001.
- 2001 – 2004 Post-Doc. University of Colorado, Boulder
- 2004 – 2007 Assistant Professor, Boston College, Department of
- Education Research Measurement and Evaluation
- 2007 – ???? Senior Associate, National Center for the Improvement of
- Educational Assessment
+???? – 2001 Professional Student. Received a Ph.D. in Mathematics in
+1995 from University of Wyoming and a Ph.D. in Education
+(Research &amp; Evaluation Methodology) University of
+Colorado, Boulder, 2001.
+2001 – 2004 Post-Doc. University of Colorado, Boulder
+2004 – 2007 Assistant Professor, Boston College, Department of
+Education Research Measurement and Evaluation
+2007 – ???? Senior Associate, National Center for the Improvement of
+Educational Assessment
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Growth Model Background
- About Me
- Student Growth Percentiles and Accountability
- References
+Growth Model Background
+About Me
+Student Growth Percentiles and Accountability
+References
 
 About Me Past &amp; Present
 
- Current Responsibilities Work with state departments of education and
- affiliated organizations on the development of student
- growth models. Developed student growth percentiles and
- percentile growth trajectories[Betebenner, 2008] to help
- states discuss student growth. Currently refining and
- sharing these techniques with other states including
- Massachusetts, Colorado, Nevada, Indiana, South
- Carolina, Arizona, Rhode Island
- Current Interests The rise of the data scientist: Data analysis and data
- visualization and their intersection with education
+Current Responsibilities Work with state departments of education and
+affiliated organizations on the development of student
+growth models. Developed student growth percentiles and
+percentile growth trajectories[Betebenner, 2008] to help
+states discuss student growth. Currently refining and
+sharing these techniques with other states including
+Massachusetts, Colorado, Nevada, Indiana, South
+Carolina, Arizona, Rhode Island
+Current Interests The rise of the data scientist: Data analysis and data
+visualization and their intersection with education
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Growth Model Background
- About Me
- Student Growth Percentiles and Accountability
- References
+Growth Model Background
+About Me
+Student Growth Percentiles and Accountability
+References
 
 About Today’s Discussion
 
- Growth Models: What’s the big deal?
- Student growth percentiles and percentile growth
- projections/trajectories
- A growth model isn’t an end, it’s just a means embedded within a
- larger theory of action (e.g., high-stakes accountability)
+Growth Models: What’s the big deal?
+Student growth percentiles and percentile growth
+projections/trajectories
+A growth model isn’t an end, it’s just a means embedded within a
+larger theory of action (e.g., high-stakes accountability)
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Growth Model Background
 
- Advanced data collection and administration combined with annual
- testing has allowed longitudinal student level data
- Investigating data longitudinally allows for numerous questions to be
- investigated that were not possible with cross sectional data
- It is critical, however, to let questions precede data analysis and not
- vice-versa
+Advanced data collection and administration combined with annual
+testing has allowed longitudinal student level data
+Investigating data longitudinally allows for numerous questions to be
+investigated that were not possible with cross sectional data
+It is critical, however, to let questions precede data analysis and not
+vice-versa
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 What are the relevant questions for parents?
 
- Yen (2007), from a state survey of parents, teachers and administrators,
- compiled a list of frequently voiced questions/concerns by stakeholder
- group.
+Yen (2007), from a state survey of parents, teachers and administrators,
+compiled a list of frequently voiced questions/concerns by stakeholder
+group.
 
- Parent Questions
- Did my child make a year’s worth of progress in a year?
- Is my child growing appropriately toward meeting state
- standards?
- Is my child growing as much in Math as Reading?
- Did my child grow as much this year as last year?
+Parent Questions
+Did my child make a year’s worth of progress in a year?
+Is my child growing appropriately toward meeting state
+standards?
+Is my child growing as much in Math as Reading?
+Did my child grow as much this year as last year?
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 What are the relevant questions for teachers?
 
- Yen (2007), from a state survey of parents, teachers and administrators,
- compiled a list of frequently voiced questions/concerns by stakeholder
- group.
+Yen (2007), from a state survey of parents, teachers and administrators,
+compiled a list of frequently voiced questions/concerns by stakeholder
+group.
 
- Teacher Questions
- Did my students make a year’s worth of progress in a year?
- Did my students grow appropriately toward meeting state
- standards?
- How close are my students to becoming Proficient?
- Are there students with unusually low growth who need special
- attention?
+Teacher Questions
+Did my students make a year’s worth of progress in a year?
+Did my students grow appropriately toward meeting state
+standards?
+How close are my students to becoming Proficient?
+Are there students with unusually low growth who need special
+attention?
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 What are the relevant questions for administrators?
- Yen (2007), from a state survey of parents, teachers and administrators,
- compiled a list of frequently voiced questions/concerns by stakeholder
- group.
+Yen (2007), from a state survey of parents, teachers and administrators,
+compiled a list of frequently voiced questions/concerns by stakeholder
+group.
 
- Administrator Questions
- Did the students in our district/school make a year’s worth of
- progress in all content areas?
- Are our students growing appropriately toward meeting state
- standards?
- Does this school/program show as much growth as that one?
- Can I measure student growth even for students who do not
- change proficiency categories?
- Can I pool together results from different grades to draw
- summary conclusions?
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Administrator Questions
+Did the students in our district/school make a year’s worth of
+progress in all content areas?
+Are our students growing appropriately toward meeting state
+standards?
+Does this school/program show as much growth as that one?
+Can I measure student growth even for students who do not
+change proficiency categories?
+Can I pool together results from different grades to draw
+summary conclusions?
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Descriptive Questions
 
- Note that the questions put forward by stakeholders are primarily
- descriptive
- The questions are only peripherally associated with causality.
- High stakes accountability has transformed questions about student
- growth into questions about responsibility/cause: Teacher and
- School Effectiveness.
- Again, starting with descriptive questions, perhaps the place to
- begin is with description and a model supporting such ends.
+Note that the questions put forward by stakeholders are primarily
+descriptive
+The questions are only peripherally associated with causality.
+High stakes accountability has transformed questions about student
+growth into questions about responsibility/cause: Teacher and
+School Effectiveness.
+Again, starting with descriptive questions, perhaps the place to
+begin is with description and a model supporting such ends.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Descriptive Accountability
 
- Accountability system results can have value without making
- causal inferences about school quality, solely from the results of
- student achievement measures and demographic
- characteristics. Treating the results as descriptive information
- and for identification of schools that require more intensive
- investigation of organizational and instructional process
- characteristics are potentially of considerable value. Rather
- than using the results of the accountability system as the sole
- determiner of sanctions for schools, they could be used to flag
- schools that need more intensive investigation to reach sound
- conclusions about needed improvements or judgments about
- quality [Linn, 2008, p. 21].
+Accountability system results can have value without making
+causal inferences about school quality, solely from the results of
+student achievement measures and demographic
+characteristics. Treating the results as descriptive information
+and for identification of schools that require more intensive
+investigation of organizational and instructional process
+characteristics are potentially of considerable value. Rather
+than using the results of the accountability system as the sole
+determiner of sanctions for schools, they could be used to flag
+schools that need more intensive investigation to reach sound
+conclusions about needed improvements or judgments about
+quality [Linn, 2008, p. 21].
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Describing Student Growth
 
- Measuring student growth, even with a vertical scale, is not a simple
- task.
- Some believe a vertical scale simplifies the task of measuring
- student growth.
- Even with an interval (or ratio) scale, growth is not easy to interpret.
- Consider, for example, height.
- A child might grow 4 inches between ages 3 and 4.
- 4 inches is a well understood quantity.
- The 4 inch increase becomes really meaningful only when understood
- alongside the growth of other 3 to 4 year olds.
- Student growth percentiles were developed to provide a normative
- context for describing student growth.
+Measuring student growth, even with a vertical scale, is not a simple
+task.
+Some believe a vertical scale simplifies the task of measuring
+student growth.
+Even with an interval (or ratio) scale, growth is not easy to interpret.
+Consider, for example, height.
+A child might grow 4 inches between ages 3 and 4.
+4 inches is a well understood quantity.
+The 4 inch increase becomes really meaningful only when understood
+alongside the growth of other 3 to 4 year olds.
+Student growth percentiles were developed to provide a normative
+context for describing student growth.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Student Growth Percentiles
- Should we be surprised with a child’s current achievement given their prior
- achievement?
- Given a student’s prior scale scores and the associated conditional
- density, their current scale score corresponds to a percentile of that
- conditional distribution.
- This percentile is the student’s growth percentile.
- Growth percentiles are closely related to estimating the probability of
- observing a student’s current achievement taking account of their
- past achievement:
+Should we be surprised with a child’s current achievement given their prior
+achievement?
+Given a student’s prior scale scores and the associated conditional
+density, their current scale score corresponds to a percentile of that
+conditional distribution.
+This percentile is the student’s growth percentile.
+Growth percentiles are closely related to estimating the probability of
+observing a student’s current achievement taking account of their
+past achievement:
 
- Pr(Current Achievement |Past Achievement ).
- As such, growth percentiles describe the rarity of a student’s current
- achievement conditional upon their prior achievement.
+Pr(Current Achievement |Past Achievement ).
+As such, growth percentiles describe the rarity of a student’s current
+achievement conditional upon their prior achievement.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Student Growth Percentiles
 
- Should we be surprised with a child’s current achievement given their
- prior achievement?
- Student growth percentiles answer this question.
- Consider a low achieving student with 90th percentile growth and a
- high achieving student with 10th percentile growth.
- The low achieving student grew at a rate exceeding 90 percent of
- similar students.
- The high achieving student grew at a rate exceeding just 10 percent of
- similar students.
- The low achiever’s growth is more exemplary (probabilistically) than
- the high achiever’s.
- Judgments about the adequacy of student growth require external
- criteria.
+Should we be surprised with a child’s current achievement given their
+prior achievement?
+Student growth percentiles answer this question.
+Consider a low achieving student with 90th percentile growth and a
+high achieving student with 10th percentile growth.
+The low achieving student grew at a rate exceeding 90 percent of
+similar students.
+The high achieving student grew at a rate exceeding just 10 percent of
+similar students.
+The low achiever’s growth is more exemplary (probabilistically) than
+the high achiever’s.
+Judgments about the adequacy of student growth require external
+criteria.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Model for Student Growth Percentiles
 
- Student growth percentiles are calculated using quantile regression
- with B-spline smoothing, a generalized additive model.
- Quantile regression is used to model the complete distribution of the
- response variable (current achievement)
- B-spline smoothing is uses to accommodate non-linearity and
- heteroscedasticity of the data.
- The model/method is descriptive and all about data fit—it’s a data
- mining procedure.
- The model quantifies distance = rate · time probabilistically.
+Student growth percentiles are calculated using quantile regression
+with B-spline smoothing, a generalized additive model.
+Quantile regression is used to model the complete distribution of the
+response variable (current achievement)
+B-spline smoothing is uses to accommodate non-linearity and
+heteroscedasticity of the data.
+The model/method is descriptive and all about data fit—it’s a data
+mining procedure.
+The model quantifies distance = rate · time probabilistically.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Model for Student Growth Percentiles
 
- Conditional Decile Regression Curves Conditional Decile Regression Lines
- 2006−07 Math: Grade 5 versus 6 2006−07 Math: Grade 5 versus 6
+Conditional Decile Regression Curves Conditional Decile Regression Lines
+2006−07 Math: Grade 5 versus 6 2006−07 Math: Grade 5 versus 6
 
- 1000 Unsatisfactory Partially Prof. 1000 Unsatisfactory Partially Prof.
- Proficient Proficient
+1000 Unsatisfactory Partially Prof. 1000 Unsatisfactory Partially Prof.
+Proficient Proficient
 
- Partially Prof. Proficient Advanced Partially Prof. Proficient Advanced
+Partially Prof. Proficient Advanced Partially Prof. Proficient Advanced
 
- 800 800
+Grade 6 Scale Score Grade 6 Scale Score
 
- Grade 6 Scale Score Grade 6 Scale Score
- 600 600
+Grade 5 Scale Score Grade 5 Scale Score
 
- 400 400
-
- 200 200
-
- 200 400 600 800 1000 200 400 600 800 1000
-
- Grade 5 Scale Score Grade 5 Scale Score
-
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Description, Inference, and Causality
 
- Richard Berk in Regression Analysis, A Constructive Critique (2003)
- provides an account of the (ab)use of regression
- Three Cheers for Description Descriptive models are judged by their
- utility
- Two Cheers for Inference Inferential models are judged based upon their
- ability to fulfill statistical criteria associated with
- generalizing from a sample to a population. What is the
- chance process?
- One Cheer for Causality Causal models are judged, in addition to
- inferential issues, by an external theory which plausibly
- relates causes/interventions and effects/outcomes.
+Richard Berk in Regression Analysis, A Constructive Critique (2003)
+provides an account of the (ab)use of regression
+Three Cheers for Description Descriptive models are judged by their
+utility
+Two Cheers for Inference Inferential models are judged based upon their
+ability to fulfill statistical criteria associated with
+generalizing from a sample to a population. What is the
+chance process?
+One Cheer for Causality Causal models are judged, in addition to
+inferential issues, by an external theory which plausibly
+relates causes/interventions and effects/outcomes.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Relevant Questions/Concepts
- Overview Description, Inference, and Causality
- Growth Model Background Describing Student Growth
- Student Growth Percentiles and Accountability Student Growth Percentiles
- References Model &amp; Software for Student Growth Percentiles
- Criterion Referenced Growth
+Overview Description, Inference, and Causality
+Growth Model Background Describing Student Growth
+Student Growth Percentiles and Accountability Student Growth Percentiles
+References Model &amp; Software for Student Growth Percentiles
+Criterion Referenced Growth
 
 Combining Normative and Criterion-Referenced Growth
 
- Growth adequacy is determined by whether a student’s growth is
- sufficient to reach/maintain desired achievement levels (e.g.,
- proficiency).
- Percentile growth projections/trajectories are calculated for each
- student using the most recent historical MCAS longitudinal student
- growth analyses.
- These “growth-to-standard” trajectories indicate what it will take for
- the student to reach/maintain proficiency and other achievement
- levels.
- This approach to quantifying “adequate” growth (done by Colorado)
- was approved by the USED for use in AYP determinations as part of
- the Growth Model Pilot Program.
+Growth adequacy is determined by whether a student’s growth is
+sufficient to reach/maintain desired achievement levels (e.g.,
+proficiency).
+Percentile growth projections/trajectories are calculated for each
+student using the most recent historical MCAS longitudinal student
+growth analyses.
+These “growth-to-standard” trajectories indicate what it will take for
+the student to reach/maintain proficiency and other achievement
+levels.
+This approach to quantifying “adequate” growth (done by Colorado)
+was approved by the USED for use in AYP determinations as part of
+the Growth Model Pilot Program.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- School Accountability
- Growth Model Background
- Growth &amp; Effectiveness
- Student Growth Percentiles and Accountability
- Concluding Remarks
- References
+School Accountability
+Growth Model Background
+Growth &amp; Effectiveness
+Student Growth Percentiles and Accountability
+Concluding Remarks
+References
 
 Going from Students to Schools
 
- It’s of interest to examine schools where students demonstrate, on
- average, extraordinarily high and low student growth.
- To summarize the student growth percentiles associated with a
- school (or other grouping) calculate the median of the student
- growth percentiles.
- If students were randomly assigned to schools, expect to see a
- median of 50.
- Values greatly above or below 50 are of interest in identifying best
- practices or providing extra support.
- Examining growth with achievement sheds new light on school
- performance.
+It’s of interest to examine schools where students demonstrate, on
+average, extraordinarily high and low student growth.
+To summarize the student growth percentiles associated with a
+school (or other grouping) calculate the median of the student
+growth percentiles.
+If students were randomly assigned to schools, expect to see a
+median of 50.
+Values greatly above or below 50 are of interest in identifying best
+practices or providing extra support.
+Examining growth with achievement sheds new light on school
+performance.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Mountain View School District: 2007 CSAP Math School Results
- Student Growth versus Student Achievement by Free/Reduced Lunch Percentage
- 100
- School Percent
- Free/Reduced Lunch
- 90
+Student Growth versus Student Achievement by Free/Reduced Lunch Percentage
+School Percent
+Free/Reduced Lunch
 
 Percentage of Proficient/Advanced Students in School
- Lower Growth Higher Growth ● Less than 20 percent
- 80
- ● 20 to 40 percent
- Higher Achievement Higher Achievement ● 40 to 60 percent
- 70
- ● 60 to 80 percent
- ● More than 80 percent
- 60
- School Size
- 50
- 50 Students
- 100 Students
- 40
- 200 Students
+Lower Growth Higher Growth ● Less than 20 percent
+● 20 to 40 percent
+Higher Achievement Higher Achievement ● 40 to 60 percent
+● 60 to 80 percent
+● More than 80 percent
+School Size
+50 Students
+100 Students
+200 Students
 
- 30
- Lower Growth Higher Growth 500 Students
+Lower Growth Higher Growth 500 Students
 
- Lower Achievement Lower Achievement 1,000 Students
- 20
+Lower Achievement Lower Achievement 1,000 Students
 
- 10
-
- 0
-
- 0 10 20 30 40 50 60 70 80 90 100
-
- Median of Student Growth Percentiles in School</div>
+Median of Student Growth Percentiles in School</div>
 ```
 
 ## {.archive-slide background-image="slides/24.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Mountain View School District: 2007 CSAP Reading School Results
- Student Growth versus Student Achievement by Free/Reduced Lunch Percentage
- 100
- School Percent
- Free/Reduced Lunch
- 90
+Student Growth versus Student Achievement by Free/Reduced Lunch Percentage
+School Percent
+Free/Reduced Lunch
 
 Percentage of Proficient/Advanced Students in School
- Lower Growth Higher Growth ● Less than 20 percent
- 80
- ● 20 to 40 percent
- Higher Achievement Higher Achievement ● 40 to 60 percent
- 70
- ● 60 to 80 percent
- ● More than 80 percent
- 60
- School Size
- 50
- 50 Students
- 100 Students
- 40
- 200 Students
+Lower Growth Higher Growth ● Less than 20 percent
+● 20 to 40 percent
+Higher Achievement Higher Achievement ● 40 to 60 percent
+● 60 to 80 percent
+● More than 80 percent
+School Size
+50 Students
+100 Students
+200 Students
 
- 30
- Lower Growth Higher Growth 500 Students
+Lower Growth Higher Growth 500 Students
 
- Lower Achievement Lower Achievement 1,000 Students
- 20
+Lower Achievement Lower Achievement 1,000 Students
 
- 10
-
- 0
-
- 0 10 20 30 40 50 60 70 80 90 100
-
- Median of Student Growth Percentiles in School</div>
+Median of Student Growth Percentiles in School</div>
 ```
 
 ## {.archive-slide background-image="slides/25.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- School Accountability
- Growth Model Background
- Growth &amp; Effectiveness
- Student Growth Percentiles and Accountability
- Concluding Remarks
- References
+School Accountability
+Growth Model Background
+Growth &amp; Effectiveness
+Student Growth Percentiles and Accountability
+Concluding Remarks
+References
 
 Growth, Effectiveness, and Value-Added
 
- Fundamental Premise
- “Good” schools bring about student growth in excess of that found at
- “bad” schools.
+Fundamental Premise
+“Good” schools bring about student growth in excess of that found at
+“bad” schools.
 
- “Good schools” are often called highly effective schools.
- What’s the relationship between growth and effectiveness?
- Effectiveness indicates who/what is responsible for the growth
- (value-added models).
+“Good schools” are often called highly effective schools.
+What’s the relationship between growth and effectiveness?
+Effectiveness indicates who/what is responsible for the growth
+(value-added models).
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/26.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2009 CSAP Elementary School Reading:
- School Poverty by School Achievement (r = −0.76)
- 100
+School Poverty by School Achievement (r = −0.76)
 
- 90
-
- 80 Higher Achievement
+80 Higher Achievement
 
 Percent at/above Proficient
- 70
 
- 60
+Lower Achievement
 
- 50
-
- 40
-
- 30
-
- 20
- Lower Achievement
- 10
-
- 0
-
- 0 10 20 30 40 50 60 70 80 90 100
-
- Percent Free/Reduced Lunch Students at School</div>
+Percent Free/Reduced Lunch Students at School</div>
 ```
 
 ## {.archive-slide background-image="slides/27.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">2009 CSAP Elementary School Reading:
- School Poverty by School Median SGP (r = −0.25)
- 100
+School Poverty by School Median SGP (r = −0.25)
 
- 90
-
- 80 Higher Average Growth
+80 Higher Average Growth
 
 Median Student Growth Percentile
- 70
 
- 60
+20 Lower Average Growth
 
- 50
-
- 40
-
- 30
-
- 20 Lower Average Growth
- 10
-
- 0
-
- 0 10 20 30 40 50 60 70 80 90 100
-
- Percent Free/Reduced Lunch Students at School</div>
+Percent Free/Reduced Lunch Students at School</div>
 ```
 
 ## {.archive-slide background-image="slides/28.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Economic Disadvantage vs School Effectiveness
- TN Elementary Schools 2008
+TN Elementary Schools 2008
 
- 3
-
- 2
-
- Average Yearly Achievement Gain 1
+Average Yearly Achievement Gain 1
 
 Math &amp; Reading/Language Arts in Z units from
- 2
- R = 0.0048
- 0
 
- TN Current State Average
- -1
+TN Current State Average
 
- -2
-
- -3
- 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
- Percent Free &amp; Reduced Lunch</div>
+Percent Free &amp; Reduced Lunch</div>
 ```
 
 ## {.archive-slide background-image="slides/29.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- School Accountability
- Growth Model Background
- Growth &amp; Effectiveness
- Student Growth Percentiles and Accountability
- Concluding Remarks
- References
+School Accountability
+Growth Model Background
+Growth &amp; Effectiveness
+Student Growth Percentiles and Accountability
+Concluding Remarks
+References
 
 What’s Next?
 
- Colorado and Massachusetts have publicly released growth results.
- The response has been overwhelmingly positive.
- Calculating of the quantities is the easy part. Getting people to
- understand them and use them correctly is the hard part.
- Colorado, Massachusetts, Indiana, Arizona, and other states are
- investigating a multi-state platform for data visualization and
- reporting built from a common growth analysis.
+Colorado and Massachusetts have publicly released growth results.
+The response has been overwhelmingly positive.
+Calculating of the quantities is the easy part. Getting people to
+understand them and use them correctly is the hard part.
+Colorado, Massachusetts, Indiana, Arizona, and other states are
+investigating a multi-state platform for data visualization and
+reporting built from a common growth analysis.
 
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## {.archive-slide background-image="slides/30.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Growth Model Background
- Student Growth Percentiles and Accountability
- References
+Growth Model Background
+Student Growth Percentiles and Accountability
+References
 
 References
- Berk, R. A. (2003).
- Regression Analysis: A Constructive Critique.
- Sage, Thousand Oaks, CA.
- Betebenner, D. W. (2008).
- Toward a normative understanding of student growth.
- In Ryan, K. E. and Shepard, L. A., editors, The Future of Test-Based
- Educational Accountability, pages 155–170. Taylor &amp; Francis, New
- York.
- Linn, R. L. (2008).
- Educational accountability systems.
- In The Future of Test-Based Educational Accountability, pages 3–24.
- Taylor &amp; Francis, New York.
- Yen, W. M. (2007).
- Vertical scaling and No Child Left Behind.
- In Dorans, N. J., Pommerich, M., and Holland, P. W., editors, Linking
- and Aligning Scores and Scales, pages 273–283. Springer, New
- York.
- Damian W. Betebenner New Directions for Student Growth Models</div>
+Berk, R. A. (2003).
+Regression Analysis: A Constructive Critique.
+Sage, Thousand Oaks, CA.
+Betebenner, D. W. (2008).
+Toward a normative understanding of student growth.
+In Ryan, K. E. and Shepard, L. A., editors, The Future of Test-Based
+Educational Accountability, pages 155–170. Taylor &amp; Francis, New
+York.
+Linn, R. L. (2008).
+Educational accountability systems.
+In The Future of Test-Based Educational Accountability, pages 3–24.
+Taylor &amp; Francis, New York.
+Yen, W. M. (2007).
+Vertical scaling and No Child Left Behind.
+In Dorans, N. J., Pommerich, M., and Holland, P. W., editors, Linking
+and Aligning Scores and Scales, pages 273–283. Springer, New
+York.
+Damian W. Betebenner New Directions for Student Growth Models</div>
 ```
 
 ## About this copy {.archive-about}

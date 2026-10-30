@@ -13,184 +13,182 @@ format:
 
 ```{=html}
 <div class="archive-text">bg=White Defining a Year’s Growth
- Accountability for a Year’s Growth
- References
+Accountability for a Year’s Growth
+References
 
- On Defining a Year’s Growth
+On Defining a Year’s Growth
 
- Damian W. Betebenner1 Yi Shang2
+Damian W. Betebenner1 Yi Shang2
 
- 1
- National Center for the Improvement of Educational Assessment
- Dover, NH
- 2
- Department of Educational Research, Measurement, &amp; Evaluation
- Boston College
+National Center for the Improvement of Educational Assessment
+Dover, NH
+Department of Educational Research, Measurement, &amp; Evaluation
+Boston College
 
- AERA 2008 Annual Meeting
- March 28th, 2008
+AERA 2008 Annual Meeting
+March 28th, 2008
 
- Betebenner &amp; Shang On Defining A Year’s Growth</div>
+Betebenner &amp; Shang On Defining A Year’s Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
- Accountability for a Year’s Growth Describing Actual Student Growth
- References Exploring the Range of Aspirational Outcomes
+Accountability for a Year’s Growth Describing Actual Student Growth
+References Exploring the Range of Aspirational Outcomes
 
- Actual versus Aspirational Student Growth
+Actual versus Aspirational Student Growth
 
- It seems simple enough: Establish what constitutes a year’s growth
- in a year’s time for each student.
- This simplicity belies a subtle complexity.
- To adequately address the notion of a year’s growth, actual growth
- must be distinguished from aspirational growth.
- Describe What is a current year’s growth?
- Prescribe What should a current year’s growth be?
- Answering the second question establishes a threshold
- distinguishing adequate from inadequate growth.
- To make such a distinction requires an answer to the first question
- which defines a norm: What is the range of growth currently
- observed?
- Aspirational growth should be possible—This is Linn’s existence
- proof applied at the individual level [Linn, 2003].
+It seems simple enough: Establish what constitutes a year’s growth
+in a year’s time for each student.
+This simplicity belies a subtle complexity.
+To adequately address the notion of a year’s growth, actual growth
+must be distinguished from aspirational growth.
+Describe What is a current year’s growth?
+Prescribe What should a current year’s growth be?
+Answering the second question establishes a threshold
+distinguishing adequate from inadequate growth.
+To make such a distinction requires an answer to the first question
+which defines a norm: What is the range of growth currently
+observed?
+Aspirational growth should be possible—This is Linn’s existence
+proof applied at the individual level [Linn, 2003].
 
- Betebenner &amp; Shang On Defining A Year’s Growth</div>
+Betebenner &amp; Shang On Defining A Year’s Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
- Accountability for a Year’s Growth Describing Actual Student Growth
- References Exploring the Range of Aspirational Outcomes
+Accountability for a Year’s Growth Describing Actual Student Growth
+References Exploring the Range of Aspirational Outcomes
 
- Describing Actual Student Growth
+Describing Actual Student Growth
 
- Measuring student growth, even with a vertical scale, is not a simple
- task.
- Numerous States believe that placing their tests on a vertical scale
- will simplify the task of measuring student growth.
- Even with an interval (or ratio) scale, growth is not easy to interpret.
- Consider, for example, height.
- A child might grow 4 inches between ages 3 and 4.
- 4 inches is a well understood quantity.
- However, the 4 inch increase becomes fully understandable only when
- placed in context of growth of other children between ages 3 and 4.
- In the following discussion student growth percentiles are introduced
- that provide a normative context to interpret student growth.
+Measuring student growth, even with a vertical scale, is not a simple
+task.
+Numerous States believe that placing their tests on a vertical scale
+will simplify the task of measuring student growth.
+Even with an interval (or ratio) scale, growth is not easy to interpret.
+Consider, for example, height.
+A child might grow 4 inches between ages 3 and 4.
+4 inches is a well understood quantity.
+However, the 4 inch increase becomes fully understandable only when
+placed in context of growth of other children between ages 3 and 4.
+In the following discussion student growth percentiles are introduced
+that provide a normative context to interpret student growth.
 
- Betebenner &amp; Shang On Defining A Year’s Growth</div>
+Betebenner &amp; Shang On Defining A Year’s Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
- Accountability for a Year’s Growth Describing Actual Student Growth
- References Exploring the Range of Aspirational Outcomes
+Accountability for a Year’s Growth Describing Actual Student Growth
+References Exploring the Range of Aspirational Outcomes
 
- Student Growth Percentiles
- A quantity of fundamental interest to norming student progress (i.e.,
- conditional achievement) is:
+Student Growth Percentiles
+A quantity of fundamental interest to norming student progress (i.e.,
+conditional achievement) is:
 
- Pr(Current Achievement |Past Achievement ). (1)
- A student’s growth percentile is the conversion of 1 to a percentile.
- Estimation of the conditional density used to calculate student growth
- percentiles is performed using quantile regression (Betebenner &amp;
- Shang, 2007; Koenker, 2005).
- Consider a low achieving student demonstrating 90th percentile
- growth and a high achieving student demonstrating 10th percentile
- growth.
- The low achieving student grew at a rate exceeding 90 percent of
- similar students.
- The high achieving student grew at a rate exceeding just 10 percent of
- similar students.
- In this sense, the low achiever’s growth is more exemplary than the high
- achiever’s.
- Growth percentiles allow for easy understanding and comparison of
- student growth.
- However, judgment of whether the student’s growth was adequate
- requires external criteria.
- Betebenner &amp; Shang On Defining A Year’s Growth</div>
+Pr(Current Achievement |Past Achievement ). (1)
+A student’s growth percentile is the conversion of 1 to a percentile.
+Estimation of the conditional density used to calculate student growth
+percentiles is performed using quantile regression (Betebenner &amp;
+Shang, 2007; Koenker, 2005).
+Consider a low achieving student demonstrating 90th percentile
+growth and a high achieving student demonstrating 10th percentile
+growth.
+The low achieving student grew at a rate exceeding 90 percent of
+similar students.
+The high achieving student grew at a rate exceeding just 10 percent of
+similar students.
+In this sense, the low achiever’s growth is more exemplary than the high
+achiever’s.
+Growth percentiles allow for easy understanding and comparison of
+student growth.
+However, judgment of whether the student’s growth was adequate
+requires external criteria.
+Betebenner &amp; Shang On Defining A Year’s Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Defining a Year’s Growth Actual versus Aspirational Student Growth
- Accountability for a Year’s Growth Describing Actual Student Growth
- References Exploring the Range of Aspirational Outcomes
+Accountability for a Year’s Growth Describing Actual Student Growth
+References Exploring the Range of Aspirational Outcomes
 
- Performance Standards and Growth Percentiles
- Performance standards are the most obvious external criteria
- needed to define a year’s worth of growth.
- If proficiency within 3 years is the achievement goal, then one can
- examine prior growth to estimate what growth percentile is sufficient
- to reach the desired outcome.
- For high achieving students, modest growth percentiles are required
- to maintain their position above proficiency whereas for some low
- achieving student sustained high growth percentiles are necessary.
- The process of defining a year’s growth is a standard setting
- procedure.
- Clearly, defining a year’s worth of growth for some students as 80th
- percentile or better sets a very high standard.
- And defining a year’s growth for some students as 25th percentile or
- better sets a low standard.
- Growth standards should be equitable, reasonable, and desirable.
+Performance Standards and Growth Percentiles
+Performance standards are the most obvious external criteria
+needed to define a year’s worth of growth.
+If proficiency within 3 years is the achievement goal, then one can
+examine prior growth to estimate what growth percentile is sufficient
+to reach the desired outcome.
+For high achieving students, modest growth percentiles are required
+to maintain their position above proficiency whereas for some low
+achieving student sustained high growth percentiles are necessary.
+The process of defining a year’s growth is a standard setting
+procedure.
+Clearly, defining a year’s worth of growth for some students as 80th
+percentile or better sets a very high standard.
+And defining a year’s growth for some students as 25th percentile or
+better sets a low standard.
+Growth standards should be equitable, reasonable, and desirable.
 
- Betebenner &amp; Shang On Defining A Year’s Growth</div>
+Betebenner &amp; Shang On Defining A Year’s Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Defining a Year’s Growth
- Accountability for a Year’s Growth Achievement versus Growth
- References
+Accountability for a Year’s Growth Achievement versus Growth
+References
 
- Achievement versus Growth
+Achievement versus Growth
 
- If the goal is high achievement for all students, then reaching that
- goal requires low achieving students to have higher growth
- percentiles than high achieving students.
- As a consequence, accountability systems built toward high
- achievement demand more of schools serving predominantly low
- achieving students.
- “Growth analyses” do not circumvent this reality.
- Only by considering what is, what should be, and what is possible
- simultaneously, can growth models and their associated standards
- be equitable, just and truly informed.
- And only within this context can an ambiguous term like “a year’s
- growth” be used intelligently in discussions about student progress.
+If the goal is high achievement for all students, then reaching that
+goal requires low achieving students to have higher growth
+percentiles than high achieving students.
+As a consequence, accountability systems built toward high
+achievement demand more of schools serving predominantly low
+achieving students.
+“Growth analyses” do not circumvent this reality.
+Only by considering what is, what should be, and what is possible
+simultaneously, can growth models and their associated standards
+be equitable, just and truly informed.
+And only within this context can an ambiguous term like “a year’s
+growth” be used intelligently in discussions about student progress.
 
- Betebenner &amp; Shang On Defining A Year’s Growth</div>
+Betebenner &amp; Shang On Defining A Year’s Growth</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">bg=White Defining a Year’s Growth
- Accountability for a Year’s Growth
- References
+Accountability for a Year’s Growth
+References
 
- References
- Betebenner, D. W. and Shang, Y. (2007).
- Reference growth charts for educational outcomes.
- Paper presented at the 2007 AERA Annual Conference, Chicago, IL.
- Retrieved May 12th, 2007 from
- http://monticello.bc.edu/Betebenner.
- Koenker, R. (2005).
- Quantile Regression.
- Cambridge University Press, Cambridge.
- Linn, R. L. (2003).
- Accountability: Responsibility and reasonable expectations.
- Technical report, Center for the Study of Evaluation, CRESST, Los
- Angeles, CA.
+References
+Betebenner, D. W. and Shang, Y. (2007).
+Reference growth charts for educational outcomes.
+Paper presented at the 2007 AERA Annual Conference, Chicago, IL.
+Retrieved May 12th, 2007 from
+http://monticello.bc.edu/Betebenner.
+Koenker, R. (2005).
+Quantile Regression.
+Cambridge University Press, Cambridge.
+Linn, R. L. (2003).
+Accountability: Responsibility and reasonable expectations.
+Technical report, Center for the Study of Evaluation, CRESST, Los
+Angeles, CA.
 
- Betebenner &amp; Shang On Defining A Year’s Growth</div>
+Betebenner &amp; Shang On Defining A Year’s Growth</div>
 ```
 
 ## About this copy {.archive-about}

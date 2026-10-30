@@ -14,14 +14,14 @@ format:
 ```{=html}
 <div class="archive-text">Why Measure Growth
 • Student learning is a central goal of
- education
+education
 • Assessments of student achievement
- provide evidence of current status of
- student knowledge and understanding
+provide evidence of current status of
+student knowledge and understanding
 • Learning is demonstrated by growth in
- student achievement from one point in time
- to a another point in time – not by status at
- either point time alone</div>
+student achievement from one point in time
+to a another point in time – not by status at
+either point time alone</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -29,15 +29,15 @@ format:
 ```{=html}
 <div class="archive-text">Uses of Growth Measures
 • Informing students, parents, and teachers about
- individual student progress
- – Measuring individual student growth can be useful, but
- utility is limited due to low reliability of individual
- student gain scores
+individual student progress
+– Measuring individual student growth can be useful, but
+utility is limited due to low reliability of individual
+student gain scores
 • School accountability systems
- – Growth measures have substantial advantages over
- status measures for accountability
- – Unlike status measures, growth takes prior
- achievement into account</div>
+– Growth measures have substantial advantages over
+status measures for accountability
+– Unlike status measures, growth takes prior
+achievement into account</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -45,13 +45,13 @@ format:
 ```{=html}
 <div class="archive-text">Growth vs. Value Added
 • Value-added models attempt to make
- causal attributions
+causal attributions
 • Growth measures are purely descriptive
 • In the absence of random assignment
- causal attributions are always suspect and
- subject to challenges (see, for example,
- Raudenbush, 2004; Rubin, Stuart &amp;
- Zanutto, 2004)</div>
+causal attributions are always suspect and
+subject to challenges (see, for example,
+Raudenbush, 2004; Rubin, Stuart &amp;
+Zanutto, 2004)</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -60,19 +60,19 @@ format:
 <div class="archive-text">Interpreting Growth Measures
 Physical growth Achievement growth
 • 9 year old boy grew 5 measure
- inches in past year (is that • 4th grader grew 25 scale
- a lot or a little?) score points since 3rd
- grade (Is that a lot or a
- little?
- • Average 4th grade scale
+inches in past year (is that • 4th grader grew 25 scale
+a lot or a little?) score points since 3rd
+grade (Is that a lot or a
+little?
+• Average 4th grade scale
 • Relative interpretation is score is 21 points higher
- easier than absolute than average 3rd grade
- (Average height of 9 year score, the gain of 25
- boys is 49 inches points is at the 65th
- compared to 45 inches for percentile)
- 8 year old boys, the 5 inch
- growth is at the 65th
- percentile)</div>
+easier than absolute than average 3rd grade
+(Average height of 9 year score, the gain of 25
+boys is 49 inches points is at the 65th
+compared to 45 inches for percentile)
+8 year old boys, the 5 inch
+growth is at the 65th
+percentile)</div>
 ```
 
 ## About this copy {.archive-about}

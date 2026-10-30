@@ -13,11 +13,11 @@ format:
 
 ```{=html}
 <div class="archive-text">Using State Measures
- of Student Growth
+of Student Growth
 to Inform Local Practice
- (or, “Organic Isn’t Just for Veggies!”)
+(or, “Organic Isn’t Just for Veggies!”)
 
- June, 2009</div>
+June, 2009</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -25,10 +25,10 @@ to Inform Local Practice
 ```{=html}
 <div class="archive-text">Session Learning Objectives
 1. Steps to go from data to student-level
- action-item
+action-item
 2. How and where local data fits in
 3. How data quality and data use are
- related</div>
+related</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -36,14 +36,14 @@ to Inform Local Practice
 ```{=html}
 <div class="archive-text">The Value of Buy-In in Arizona
 1. Process was very organic, from both the top
- down and the bottom up (with a little fertilizer )
+down and the bottom up (with a little fertilizer )
 2. Year-end state data was only good for the
- beginning of the following year – we are
- creating two types of “check point” that schools
- are excited about
+beginning of the following year – we are
+creating two types of “check point” that schools
+are excited about
 3. Quality means the data answers the questions
- you need, and you trust it – teachers must feel
- this too!</div>
+you need, and you trust it – teachers must feel
+this too!</div>
 ```
 
 ::: notes
@@ -56,18 +56,18 @@ Damians Q1. What are the steps by which large scale assessment data (i.e., raw n
 
 ```{=html}
 <div class="archive-text">Our Process Was Very Organic and
- Grass-Roots
+Grass-Roots
 1. Good access to data for value-added research
- from previous positive relationships
- • Past relationships/credibility
- • Political alignment
- • Collaboration with authorizer
- • Participation in federal grant</div>
+from previous positive relationships
+• Past relationships/credibility
+• Political alignment
+• Collaboration with authorizer
+• Participation in federal grant</div>
 ```
 
 ::: notes
 ```{=html}
-Used the growth percentile data to create a best practices report <br>
+Used the growth percentile data to create a best practices report<br>
 Highlighted how the high-growth schools got where they are<br>
 Focused on providing a “road-map” to other schools to follow
 ```
@@ -77,98 +77,98 @@ Focused on providing a “road-map” to other schools to follow
 
 ```{=html}
 <div class="archive-text">Our Process Was Very Organic and
- Grass-Roots
+Grass-Roots
 2. National and local partners focused on
- understanding the “quality” landscape
- • Building Charter School Quality grant, we
- were approached by CO and learned about
- Damian’s work in growth percentiles
- • Led to Arizona State Board for Charter Schools
- to redefine quality
- • Led to state policymakers
- taking notice</div>
+understanding the “quality” landscape
+• Building Charter School Quality grant, we
+were approached by CO and learned about
+Damian’s work in growth percentiles
+• Led to Arizona State Board for Charter Schools
+to redefine quality
+• Led to state policymakers
+taking notice</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Our Process Was Very Organic and
- Grass-Roots
+Grass-Roots
 3. Used the growth percentile data to create a best
- practices report
- • Highlighted how the high-growth schools got
- where they are
- • Focused on providing a “road-map” to other
- schools to follow</div>
+practices report
+• Highlighted how the high-growth schools got
+where they are
+• Focused on providing a “road-map” to other
+schools to follow</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Our Process Was Very Organic and
- Grass-Roots
+Grass-Roots
 4. During research, vetted growth percentile
- concept with schools and learned the best ways
- to explain it
- • Schools loved it
- • Saw credit for growth, not starting point
- • Started calling to see their own data</div>
+concept with schools and learned the best ways
+to explain it
+• Schools loved it
+• Saw credit for growth, not starting point
+• Started calling to see their own data</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Our Process Was Very Organic and
- Grass-Roots
+Grass-Roots
 5. One finding was about the importance of data-
- driven decision-making
- • “A-ha” moment for us
- • Realized that growth percentiles could take
- assessment from “end of year autopsy” to
- “pre-year and mid-year diagnosis.”</div>
+driven decision-making
+• “A-ha” moment for us
+• Realized that growth percentiles could take
+assessment from “end of year autopsy” to
+“pre-year and mid-year diagnosis.”</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Our Process Was Very Organic and
- Grass-Roots
+Grass-Roots
 6. Became a key talking point for all of our
- management team
- • Goal was to change the definition of quality
- in the state to “individual student level
- growth” and promote “growth to standard”
- instead of “one year’s growth.”
- • We began to vet these ideas with state
- officials, districts, and our schools.</div>
+management team
+• Goal was to change the definition of quality
+in the state to “individual student level
+growth” and promote “growth to standard”
+instead of “one year’s growth.”
+• We began to vet these ideas with state
+officials, districts, and our schools.</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Our Process Was Very Organic and
- Grass-Roots
+Grass-Roots
 7. Meanwhile, we developed and marketed Best
- Practice workshops
- • Data-driven decision-making
- • Professional Learning Communities
- • Saw the growth percentile idea really appeal
- to them
- • Began to focus on how to develop tools for
- teachers to use it more.
- • Led to….</div>
+Practice workshops
+• Data-driven decision-making
+• Professional Learning Communities
+• Saw the growth percentile idea really appeal
+to them
+• Began to focus on how to develop tools for
+teachers to use it more.
+• Led to….</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Working on Three Types of “Check Point”
- (that schools are excited about)
+(that schools are excited about)
 1. Beginning of year check on growth based on end-
- of-year AIMS tests
- • Damian’s cool student level graphs
- • Class-room level data for differentiated
- instruction</div>
+of-year AIMS tests
+• Damian’s cool student level graphs
+• Class-room level data for differentiated
+instruction</div>
 ```
 
 ::: notes
@@ -181,11 +181,11 @@ Damian’s Q2. With regard to your answer to question 1: How/where do local data
 
 ```{=html}
 <div class="archive-text">Working on Three Types of “Check Point”
- (that schools are excited about)
+(that schools are excited about)
 2. Online interim assessment in December
- • Produce mid-point growth percentiles
- • Drive instructional decisions between January
- and AIMS in March</div>
+• Produce mid-point growth percentiles
+• Drive instructional decisions between January
+and AIMS in March</div>
 ```
 
 ::: notes
@@ -198,14 +198,14 @@ Damian’s Q2. With regard to your answer to question 1: How/where do local data
 
 ```{=html}
 <div class="archive-text">Working on Three Types of “Check Point”
- (that schools are excited about)
+(that schools are excited about)
 3. Online formative assessment tool tied into PLC
- concept
- • Test bank/test building
- • Analysis and reporting
- • Professional development and
- communication
- • Goal is to build teacher comfort and capacity</div>
+concept
+• Test bank/test building
+• Analysis and reporting
+• Professional development and
+communication
+• Goal is to build teacher comfort and capacity</div>
 ```
 
 ::: notes
@@ -220,10 +220,10 @@ Damian’s Q2. With regard to your answer to question 1: How/where do local data
 <div class="archive-text">Quality means…
 
 1. Data answers the questions you need (i.e. you
- can USE it)
- • Has policy relevance
- • Has classroom relevance
- • Teachers can quickly understand it</div>
+can USE it)
+• Has policy relevance
+• Has classroom relevance
+• Teachers can quickly understand it</div>
 ```
 
 ::: notes
@@ -238,10 +238,10 @@ Damians Q3. Thinking of data broadly (large scale, small scale, ...), how are da
 <div class="archive-text">Quality means…
 
 2. You trust the data
- • Reliable (would get same results again)
- • Valid (measures what you want to measure)
- • Transparent (we can see where the data came
- from and how the results were created)</div>
+• Reliable (would get same results again)
+• Valid (measures what you want to measure)
+• Transparent (we can see where the data came
+from and how the results were created)</div>
 ```
 
 ::: notes
@@ -256,7 +256,7 @@ Damian’s Q2. With regard to your answer to question 1: How/where do local data
 <div class="archive-text">Final Thoughts
 
 1. Need to treat the whole process like a change
- management issue
+management issue
 2. The state/school feedback loop is critical
 3. It’s All about relationships
 4. It’s a GREAT time to be in education policy!</div>

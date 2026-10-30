@@ -13,657 +13,558 @@ format:
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth
- Descriptive/Prescriptive Growth
- References
+Normative Student Growth
+Descriptive/Prescriptive Growth
+References
 
- Colorado’s Growth Model
+Colorado’s Growth Model
 A Harmonious Marriage of Normative and Standards-based Growth
 
- Damian W. Betebenner
+Damian W. Betebenner
 
- National Center for the Improvement of Educational Assessment
- Dover, NH
+National Center for the Improvement of Educational Assessment
+Dover, NH
 
- CCSSO — June 17th, 2008
+CCSSO — June 17th, 2008
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth Relevant Questions
- Descriptive/Prescriptive Growth Growth Models
- References
+Normative Student Growth Relevant Questions
+Descriptive/Prescriptive Growth Growth Models
+References
 
 Statistics Wisdom (an oxymoron?)
 
- John Tukey
- It is better to have an approximate answer to the right question than
- a precise answer to the wrong question.
+John Tukey
+It is better to have an approximate answer to the right question than
+a precise answer to the wrong question.
 
- George E. P. Box
- All models are wrong but some are useful.
+George E. P. Box
+All models are wrong but some are useful.
 
- Colorado Started at the End
- What are the questions and uses Colorado would ultimately like stu-
- dent growth analyses to address?
+Colorado Started at the End
+What are the questions and uses Colorado would ultimately like stu-
+dent growth analyses to address?
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth Relevant Questions
- Descriptive/Prescriptive Growth Growth Models
- References
+Normative Student Growth Relevant Questions
+Descriptive/Prescriptive Growth Growth Models
+References
 
 What are the relevant questions for parents?
 
- Yen (2007), from a state survey of parents, teachers and administrators,
- compiled a list of frequently voiced questions/concerns by stakeholder
- group.
- These questions/concerns formed the basis for Colorado’s discussions.
+Yen (2007), from a state survey of parents, teachers and administrators,
+compiled a list of frequently voiced questions/concerns by stakeholder
+group.
+These questions/concerns formed the basis for Colorado’s discussions.
 
- Parent Questions
- Did my child make a year’s worth of progress in a year?
- Is my child growing appropriately toward meeting state
- standards?
- Is my child growing as much in Math as Reading?
- Did my child grow as much this year as last year?
+Parent Questions
+Did my child make a year’s worth of progress in a year?
+Is my child growing appropriately toward meeting state
+standards?
+Is my child growing as much in Math as Reading?
+Did my child grow as much this year as last year?
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth Relevant Questions
- Descriptive/Prescriptive Growth Growth Models
- References
+Normative Student Growth Relevant Questions
+Descriptive/Prescriptive Growth Growth Models
+References
 
 What are the relevant questions for teachers?
 
- Yen (2007), from a state survey of parents, teachers and administrators,
- compiled a list of frequently voiced questions/concerns by stakeholder
- group.
- These questions/concerns formed the basis for Colorado’s discussions.
+Yen (2007), from a state survey of parents, teachers and administrators,
+compiled a list of frequently voiced questions/concerns by stakeholder
+group.
+These questions/concerns formed the basis for Colorado’s discussions.
 
- Teacher Questions
- Did my students make a year’s worth of progress in a year?
- Did my students grow appropriately toward meeting state
- standards?
- How close are my students to becoming Proficient?
- Are there students with unusually low growth who need special
- attention?
+Teacher Questions
+Did my students make a year’s worth of progress in a year?
+Did my students grow appropriately toward meeting state
+standards?
+How close are my students to becoming Proficient?
+Are there students with unusually low growth who need special
+attention?
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth Relevant Questions
- Descriptive/Prescriptive Growth Growth Models
- References
+Normative Student Growth Relevant Questions
+Descriptive/Prescriptive Growth Growth Models
+References
 
 What are the relevant questions for administrators?
- Yen (2007), from a state survey of parents, teachers and administrators,
- compiled a list of frequently voiced questions/concerns by stakeholder
- group.
- These questions/concerns formed the basis for Colorado’s discussions.
+Yen (2007), from a state survey of parents, teachers and administrators,
+compiled a list of frequently voiced questions/concerns by stakeholder
+group.
+These questions/concerns formed the basis for Colorado’s discussions.
 
- Administrator Questions
- Did the students in our district/school make a year’s worth of
- progress in all content areas?
- Are our students growing appropriately toward meeting state
- standards?
- Does this school/program show as much growth as that one?
- Can I measure student growth even for students who do not
- change proficiency categories?
- Can I pool together results from different grades to draw
- summary conclusions?
- Damian W. Betebenner Colorado’s Growth Model</div>
+Administrator Questions
+Did the students in our district/school make a year’s worth of
+progress in all content areas?
+Are our students growing appropriately toward meeting state
+standards?
+Does this school/program show as much growth as that one?
+Can I measure student growth even for students who do not
+change proficiency categories?
+Can I pool together results from different grades to draw
+summary conclusions?
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth Relevant Questions
- Descriptive/Prescriptive Growth Growth Models
- References
+Normative Student Growth Relevant Questions
+Descriptive/Prescriptive Growth Growth Models
+References
 
 Why Growth in Accountability?
 
- Fundamental Premise
- “Good” schools bring about student growth in excess of that found at
- “bad” schools.
+Fundamental Premise
+“Good” schools bring about student growth in excess of that found at
+“bad” schools.
 
- The inherent believability of this premise is at the heart of current
- enthusiasm to incorporate growth models into state accountability
- systems.
- In light of this premise, “good schools” are commonly referred to as
- highly effective schools.
- However, it is critical to understand the distinction between growth
- and effectiveness.
- Fundamental in the development of Colorado’s Growth Model was to
- distinguish between growth and effectiveness.
+The inherent believability of this premise is at the heart of current
+enthusiasm to incorporate growth models into state accountability
+systems.
+In light of this premise, “good schools” are commonly referred to as
+highly effective schools.
+However, it is critical to understand the distinction between growth
+and effectiveness.
+Fundamental in the development of Colorado’s Growth Model was to
+distinguish between growth and effectiveness.
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth Relevant Questions
- Descriptive/Prescriptive Growth Growth Models
- References
+Normative Student Growth Relevant Questions
+Descriptive/Prescriptive Growth Growth Models
+References
 
 Value-added Models/Inferences
 
- Who/What is responsible for student growth?
- The most common application of student growth analyses is to
- determine the amount of student progress/growth that can be
- attributed to the school or teacher.
- Called value-added analyses, these techniques estimate the
- teacher/school contribution to student achievement.
- Value-added models quantify effectiveness—purporting to measure
- the impact on achievement that this school or teacher would have,
- on average, upon similar students assigned to them.
- These models and their effectiveness claims are controversial for a
- number of
- reasons [Briggs and Weeks, 2008, Braun, 2005, Rubin et al., 2004].
- Value-added models are better described as effectiveness models
- than as growth models.
+Who/What is responsible for student growth?
+The most common application of student growth analyses is to
+determine the amount of student progress/growth that can be
+attributed to the school or teacher.
+Called value-added analyses, these techniques estimate the
+teacher/school contribution to student achievement.
+Value-added models quantify effectiveness—purporting to measure
+the impact on achievement that this school or teacher would have,
+on average, upon similar students assigned to them.
+These models and their effectiveness claims are controversial for a
+number of
+reasons [Briggs and Weeks, 2008, Braun, 2005, Rubin et al., 2004].
+Value-added models are better described as effectiveness models
+than as growth models.
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth Relevant Questions
- Descriptive/Prescriptive Growth Growth Models
- References
+Normative Student Growth Relevant Questions
+Descriptive/Prescriptive Growth Growth Models
+References
 
 Descriptive Growth Models
 
- Describing Growth versus Ascribing Responsibility
- An important first step in the development of Colorado’s Growth
- Model was to separate the description of growth from the
- assignment of responsibility (i.e., accountability)
- Incorporation of growth into the accountability system followed from
- the viable description of growth understandable to stakeholders.
- Student growth percentiles—a normative description of
- growth—forms the basis of Colorado’s Growth Model.
+Describing Growth versus Ascribing Responsibility
+An important first step in the development of Colorado’s Growth
+Model was to separate the description of growth from the
+assignment of responsibility (i.e., accountability)
+Incorporation of growth into the accountability system followed from
+the viable description of growth understandable to stakeholders.
+Student growth percentiles—a normative description of
+growth—forms the basis of Colorado’s Growth Model.
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- References
+Normative Student Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+References
 
 Describing Student Growth
 
- Measuring student growth, even with a vertical scale, is not a simple
- task.
- Numerous states believe that placing their tests on a vertical scale
- will simplify the task of measuring student growth.
- Even with an interval (or ratio) scale, growth is not easy to interpret.
- Consider, for example, height.
- A child might grow 4 inches between ages 3 and 4.
- 4 inches is a well understood quantity.
- However, the 4 inch increase becomes fully understandable only when
- placed in context of growth of other children between ages 3 and 4.
- In the following discussion student growth percentiles are introduced
- to provide a normative context for interpreting student growth.
+Measuring student growth, even with a vertical scale, is not a simple
+task.
+Numerous states believe that placing their tests on a vertical scale
+will simplify the task of measuring student growth.
+Even with an interval (or ratio) scale, growth is not easy to interpret.
+Consider, for example, height.
+A child might grow 4 inches between ages 3 and 4.
+4 inches is a well understood quantity.
+However, the 4 inch increase becomes fully understandable only when
+placed in context of growth of other children between ages 3 and 4.
+In the following discussion student growth percentiles are introduced
+to provide a normative context for interpreting student growth.
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/12.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">200
- 800
- 400
- 600 co
- 20
- 05 600 re
- 400
- S le S
- ca
- le ca
- S
- 800
- 200
- S re 06
- 20
- co</div>
+<div class="archive-text">600 co
+05 600 re
+S le S
+ca
+le ca
+S re 06
+co</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- References
+Normative Student Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+References
 
 Student Growth Percentiles
- Given a student’s prior scale scores and the associated conditional
- density, their current scale score corresponds to a percentile of that
- conditional distribution.
- This percentile is the student’s growth percentile.
- For example, a student growth percentile of 60 indicates the student’s
- latest scale score exceeded 60 percent of his/her counterparts with
- equal prior scores.
- Growth percentiles are closely related to estimating the probability of
- observing a student’s current achievement taking account of their
- past achievement:
+Given a student’s prior scale scores and the associated conditional
+density, their current scale score corresponds to a percentile of that
+conditional distribution.
+This percentile is the student’s growth percentile.
+For example, a student growth percentile of 60 indicates the student’s
+latest scale score exceeded 60 percent of his/her counterparts with
+equal prior scores.
+Growth percentiles are closely related to estimating the probability of
+observing a student’s current achievement taking account of their
+past achievement:
 
- Pr(Current Achievement |Past Achievement ).
- As such, growth percentiles describe the rarity of a student’s current
- achievement conditional upon their prior achievement.
+Pr(Current Achievement |Past Achievement ).
+As such, growth percentiles describe the rarity of a student’s current
+achievement conditional upon their prior achievement.
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth
- Describing Actual Student Growth
- Descriptive/Prescriptive Growth
- References
+Normative Student Growth
+Describing Actual Student Growth
+Descriptive/Prescriptive Growth
+References
 
 Student Growth Percentiles
- Student growth percentiles norm each student’s growth relative to
- their academic peers.
- The percentile scale on which the growth percentiles lie allows for
- easy comparison of all students.
- For example, consider a low achieving student demonstrating 90th
- percentile growth and a high achieving student demonstrating 10th
- percentile growth.
- The low achieving student grew at a rate exceeding 90 percent of similar
- students.
- The high achieving student grew at a rate exceeding just 10 percent of
- similar students.
- In this sense, the low achiever’s growth is more exemplary than the high
- achiever’s.
- However, judgment of whether the student’s growth was adequate
- requires external criteria, most commonly state established
- performance standards.
+Student growth percentiles norm each student’s growth relative to
+their academic peers.
+The percentile scale on which the growth percentiles lie allows for
+easy comparison of all students.
+For example, consider a low achieving student demonstrating 90th
+percentile growth and a high achieving student demonstrating 10th
+percentile growth.
+The low achieving student grew at a rate exceeding 90 percent of similar
+students.
+The high achieving student grew at a rate exceeding just 10 percent of
+similar students.
+In this sense, the low achiever’s growth is more exemplary than the high
+achiever’s.
+However, judgment of whether the student’s growth was adequate
+requires external criteria, most commonly state established
+performance standards.
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/16.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth
- Combining Actual and Aspirational Growth
- Descriptive/Prescriptive Growth
- References
+Normative Student Growth
+Combining Actual and Aspirational Growth
+Descriptive/Prescriptive Growth
+References
 
 Combining Actual and Aspirational Growth
 
- Broadly, Colorado’s Growth Model addresses three related questions
- using the same percentile metric:
- What is a the level of growth for a student (i.e. Actual Growth)
- What should the level of growth for a student be (i.e. Aspirational
- Growth)
- What level of growth for the student is possible (i.e., Realistic
- Growth)
+Broadly, Colorado’s Growth Model addresses three related questions
+using the same percentile metric:
+What is a the level of growth for a student (i.e. Actual Growth)
+What should the level of growth for a student be (i.e. Aspirational
+Growth)
+What level of growth for the student is possible (i.e., Realistic
+Growth)
 
- Damian W. Betebenner Colorado’s Growth Model</div>
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/17.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth
- Combining Actual and Aspirational Growth
- Descriptive/Prescriptive Growth
- References
+Normative Student Growth
+Combining Actual and Aspirational Growth
+Descriptive/Prescriptive Growth
+References
 
 Combining Actual and Aspirational Growth
- Using student growth percentiles it is simple to reconcile actual growth
- measures with aspirational growth-to-standard achievment targets.
+Using student growth percentiles it is simple to reconcile actual growth
+measures with aspirational growth-to-standard achievment targets.
 
- Actual Growth
- In Colorado, each student receives a growth percentile quantifying
- their growth in each of three subject for the academic year.
+Actual Growth
+In Colorado, each student receives a growth percentile quantifying
+their growth in each of three subject for the academic year.
 
- Aspirational Growth
- In Colorado, each student receives growth percentile projections esti-
- mating:
- What level of growth is required to reach each of the 3
- performance levels in 1 year.
- What level of growth is required to reach each of the 3
- performance levels in 2 years.
- What level of growth is required to reach each of the 3
- performance levels in 3 years.
- Damian W. Betebenner Colorado’s Growth Model</div>
+Aspirational Growth
+In Colorado, each student receives growth percentile projections esti-
+mating:
+What level of growth is required to reach each of the 3
+performance levels in 1 year.
+What level of growth is required to reach each of the 3
+performance levels in 2 years.
+What level of growth is required to reach each of the 3
+performance levels in 3 years.
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## {.archive-slide background-image="slides/18.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">750
+<div class="archive-text">90th
 
-700
+65th
 
-650
-
-600
-
- 90th
-
-550
- 65th
-
- 50th
+50th
 
 500 35th
 
-450
- 10th
- 8th ●
- ●
+10th
+8th ●
 
-400
-
- Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
 ```
 
 ## {.archive-slide background-image="slides/19.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">750
+<div class="archive-text">90th
 
-700
+95th ●
 
-650
+90th
 
-600
+65th
 
- 90th
+50th
 
-550
- 95th ●
+65th
+35th
 
- 90th
+50th
 
- 65th
+35th
 
- 50th
+10th
+8th ●
 
-500
- 65th
- 35th
+10th
 
- 50th
-
- 35th
-
-450
- 10th
- 8th ●
- ●
-
- 10th
-
-400
-
- Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
 ```
 
 ## {.archive-slide background-image="slides/20.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">750
-
-700 100th
-
-650
+<div class="archive-text">700 100th
 
 600 97th
 
- 90th
+90th
 
-550
- 95th ●
- 47th
- 90th
+95th ●
+47th
+90th
 
- 65th
+65th
 
- 50th
+50th
 
-500
- 65th
- 35th
+65th
+35th
 
- 50th
+50th
 
- 35th
+35th
 
-450
- 10th
- 8th ●
- ●
+10th
+8th ●
 
- 10th
+10th
 
-400
-
- Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
 ```
 
 ## {.archive-slide background-image="slides/21.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">750
+<div class="archive-text">100th
 
- 100th
+93rd
 
-700
+61st
 
-650
+90th
 
- 93rd
+95th ●
 
-600
+90th
 
- 61st
+65th
 
- 90th
+50th
 
-550
- 95th ●
+65th
+35th
 
- 90th
+50th
 
- 65th
+35th
 
- 50th
+10th
+8th ●
 
-500
- 65th
- 35th
+10th
 
- 50th
-
- 35th
-
-450
- 10th
- 8th ●
- ●
-
- 10th
-
-400
-
- Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
 ```
 
 ## {.archive-slide background-image="slides/22.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
-<div class="archive-text">750
+<div class="archive-text">100th
 
- 100th
+89th
 
-700
+54th
 
-650
- 89th
+90th
 
-600
- 54th
+95th ●
 
- 90th
+90th
 
-550
- 95th ●
+65th
 
- 90th
+50th
 
- 65th
+65th
+35th
 
- 50th
+50th
 
-500
- 65th
- 35th
+35th
 
- 50th
+10th
+8th ●
 
- 35th
+10th
 
-450
- 10th
- 8th ●
- ●
-
- 10th
-
-400
-
- Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
+Grade 3/2005 Grade 4/2006 Grade 5/2007 Grade 6/2008 Grade 7/2009 Grade 8/2010</div>
 ```
 
 ## {.archive-slide background-image="slides/23.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Overview
- Normative Student Growth
- Descriptive/Prescriptive Growth
- References
+Normative Student Growth
+Descriptive/Prescriptive Growth
+References
 
 References
- Braun, H. I. (2005).
- Using student progress to evaluate teachers: A primer on
- value-added models.
- Technical report, Educational Testing Service, Princeton, New
- Jersey.
- Briggs, D. C. and Weeks, J. (2008).
- The persistence of value-added school effects.
- Paper presented at the 2008 AERA Annual Meeting, New York, NY,
- March 27, 2008.
- Rubin, D. B., Stuart, E. A., and Zanutto, E. L. (2004).
- A potential outcomes view of value-added assessment in education.
- Journal of Educational and Behavioral Statistics, 29(1):103–116.
- Yen, W. M. (2007).
- Vertical scaling and No Child Left Behind.
- In Dorans, N. J., Pommerich, M., and Holland, P. W., editors, Linking
- and Aligning Scores and Scales, pages 273–283. Springer, New
- York.
- Damian W. Betebenner Colorado’s Growth Model</div>
+Braun, H. I. (2005).
+Using student progress to evaluate teachers: A primer on
+value-added models.
+Technical report, Educational Testing Service, Princeton, New
+Jersey.
+Briggs, D. C. and Weeks, J. (2008).
+The persistence of value-added school effects.
+Paper presented at the 2008 AERA Annual Meeting, New York, NY,
+March 27, 2008.
+Rubin, D. B., Stuart, E. A., and Zanutto, E. L. (2004).
+A potential outcomes view of value-added assessment in education.
+Journal of Educational and Behavioral Statistics, 29(1):103–116.
+Yen, W. M. (2007).
+Vertical scaling and No Child Left Behind.
+In Dorans, N. J., Pommerich, M., and Holland, P. W., editors, Linking
+and Aligning Scores and Scales, pages 273–283. Springer, New
+York.
+Damian W. Betebenner Colorado’s Growth Model</div>
 ```
 
 ## About this copy {.archive-about}

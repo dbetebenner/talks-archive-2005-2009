@@ -13,11 +13,11 @@ format:
 
 ```{=html}
 <div class="archive-text">Uses and Limitations of
- Growth Data
- Jonathan Dings
- Boulder Valley School District
- June 22, 2009
- jonathan.dings@bvsd.org</div>
+Growth Data
+Jonathan Dings
+Boulder Valley School District
+June 22, 2009
+jonathan.dings@bvsd.org</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -26,13 +26,13 @@ format:
 <div class="archive-text">Overview
 
 • Setting Meaningful Goals for
- Continuous Improvement
+Continuous Improvement
 • Metrics that Incentivize
 
- Productive Responses
+Productive Responses
 • Contextualizing Growth Data
 
- to Provoke Thoughtful Use
+to Provoke Thoughtful Use
 • Avoiding Over-Interpretation</div>
 ```
 
@@ -41,18 +41,17 @@ format:
 ```{=html}
 <div class="archive-text">Continuous Improvement Model
 
- Plan of Action Assess Current Reality
+Plan of Action Assess Current Reality
 
- Vision
+Vision
 
- Set SMART Goals Why Are We Getting
- These Results?
+Set SMART Goals Why Are We Getting
+These Results?
 • Achievement
 • Equity
 • Climate
- Theory of Action
- If ….Then….and X will result BayCES, 2002
- 3</div>
+Theory of Action
+If ….Then….and X will result BayCES, 2002</div>
 ```
 
 ::: notes
@@ -70,16 +69,16 @@ Judy
 
 ■ How did overall achievement change,
 
- compared to the same students’ achievement
- last year?
+compared to the same students’ achievement
+last year?
 ■ How does the change compare to a standards-
 
- based or norms-based idea of a year’s growth?
+based or norms-based idea of a year’s growth?
 ■ How does the change differ by groups?
 
 ■ How do achievement data compare with school
 
- climate, parent, staff and NCG survey results?</div>
+climate, parent, staff and NCG survey results?</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -103,18 +102,18 @@ Purposes than Achievement</div>
 
 ```{=html}
 <div class="archive-text">A Relatively New Metric: Colorado’s Growth
- Model
+Model
 
 ■ Easier to use and understand than
- the previous methods
+the previous methods
 ■ Supported by a useful video
 
 ■ CDE graphs available online by
 
- district and school
+district and school
 ■ Current year results arrived at a later
 
- than ideal time for full use</div>
+than ideal time for full use</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
@@ -122,18 +121,18 @@ Purposes than Achievement</div>
 ```{=html}
 <div class="archive-text">Colorado Median Growth Percentile
 ■ Amount of gain is statistically compared
- across students starting from the same
- point (“academic peers”)
+across students starting from the same
+point (“academic peers”)
 ■ Growth percentile assigned: percent of
 
- “academic peers” making that amount of
- gain or less
+“academic peers” making that amount of
+gain or less
 ■ Percentiles range from 1 to 99, can be
 
- compared with state median of 50
+compared with state median of 50
 ■ Accountability Measure: the middle growth
 
- %-ile</div>
+%-ile</div>
 ```
 
 ::: notes
@@ -147,7 +146,7 @@ Bullet 4 --- 50 is typical for a state-wide interpretation
 
 ```{=html}
 <div class="archive-text">Several View of BVSD Writing Data
- Colorado’s Growth Model
+Colorado’s Growth Model
 
 ■ District
 ■ Grade
@@ -165,27 +164,27 @@ Bullet 4 --- 50 is typical for a state-wide interpretation
 
 ```{=html}
 <div class="archive-text">District Median Growth %-ile
- Overall
- Eng Home La
- ELL
- Meal Assist
- Special Ed</div>
+Overall
+Eng Home La
+ELL
+Meal Assist
+Special Ed</div>
 ```
 
 ## {.archive-slide background-image="slides/13.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Productive Response to Median
- Growth Percentile
+Growth Percentile
 ■ Users are far less dismissive of gaps
- in growth than in achievement
+in growth than in achievement
 ■ Because a student’s growth is not
 
- readily predicted, raising median
- growth requires group improvement
+readily predicted, raising median
+growth requires group improvement
 ■ Reflection on what went well for
 
- students with high growth</div>
+students with high growth</div>
 ```
 
 ## {.archive-slide background-image="slides/14.webp" background-size="contain" background-color="#14140f"}
@@ -193,15 +192,15 @@ Bullet 4 --- 50 is typical for a state-wide interpretation
 ```{=html}
 <div class="archive-text">School and Teacher Use
 ■ Fair comparison across content
- areas
+areas
 ■ Encouraged for use in school goal
 
- setting, especially around equity
+setting, especially around equity
 ■ Published at student level in Student
 
- Information System (Infinite
- Campus), contextualized with
- grades, demographics, simple gain</div>
+Information System (Infinite
+Campus), contextualized with
+grades, demographics, simple gain</div>
 ```
 
 ## {.archive-slide background-image="slides/15.webp" background-size="contain" background-color="#14140f"}
@@ -230,12 +229,12 @@ Bullet 4 --- 50 is typical for a state-wide interpretation
 ■ Contextualize with Error Estimates
 ■ Examine Multiple Content Areas
 
- and Years of Results for Each
- Student
+and Years of Results for Each
+Student
 ■ Consider Likely Response of
 
- Parents, Having Seen Percentiles
- only for Achievement, not Growth</div>
+Parents, Having Seen Percentiles
+only for Achievement, not Growth</div>
 ```
 
 ## About this copy {.archive-about}

@@ -15,14 +15,14 @@ format:
 <div class="archive-text">The Invariance of Measures of
 Growth &amp; Effectiveness to Scale Transformation
 
- Derek Briggs &amp; Damian Betebenner
+Derek Briggs &amp; Damian Betebenner
 
- University of Colorado, Boulder &amp; The Center for Assessment
+University of Colorado, Boulder &amp; The Center for Assessment
 
- NCME Presentation
- San Diego, California April 14th, 2009
+NCME Presentation
+San Diego, California April 14th, 2009
 
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## {.archive-slide background-image="slides/02.webp" background-size="contain" background-color="#14140f"}
@@ -30,27 +30,24 @@ Growth &amp; Effectiveness to Scale Transformation
 ```{=html}
 <div class="archive-text">Quantile Regression/Student Growth Percentiles
 
- We wish to estimate:
+We wish to estimate:
 
- Pr(Current Achievement |Past Achievement ).
+Pr(Current Achievement |Past Achievement ).
 
- Quantile regression is used to model the conditional quantile
- functions.
- B-spline smoothing is applied to accommodate non-linearity,
- heteroscedasticity, etc. Scatterplot Smoothing
- The method is a quantile regression based generalized additive
- model[Hastie and Tibshirani, 1990, Wood, 2006]
- Implemented in R using SGP Package
+Quantile regression is used to model the conditional quantile
+functions.
+B-spline smoothing is applied to accommodate non-linearity,
+heteroscedasticity, etc. Scatterplot Smoothing
+The method is a quantile regression based generalized additive
+model[Hastie and Tibshirani, 1990, Wood, 2006]
+Implemented in R using SGP Package
 
- t −1 X
- X 3
- QSSt (τ|SSt −1 , . . . , SS1 ) = φij (SSj )βij (τ),
- j =1 i =1
+QSSt (τ|SSt −1 , . . . , SS1 ) = φij (SSj )βij (τ),
 
- where φi ,j , i = 1, 2, 3 and j = 1, . . . , t − 1 denote the B-spline basis
- functions.
+where φi ,j , i = 1, 2, 3 and j = 1, . . . , t − 1 denote the B-spline basis
+functions.
 
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## {.archive-slide background-image="slides/03.webp" background-size="contain" background-color="#14140f"}
@@ -58,28 +55,19 @@ Growth &amp; Effectiveness to Scale Transformation
 ```{=html}
 <div class="archive-text">Quantile Regression/Student Growth Percentiles
 
- Conditional Decile Regression Lines Conditional Decile Regression Curves
- 2006−07 Math: Grade 5 versus 6 2006−07 Math: Grade 5 versus 6
+Conditional Decile Regression Lines Conditional Decile Regression Curves
+2006−07 Math: Grade 5 versus 6 2006−07 Math: Grade 5 versus 6
 
- 1000 Unsatisfactory Partially Prof. 1000 Unsatisfactory Partially Prof.
- Proficient Proficient
+1000 Unsatisfactory Partially Prof. 1000 Unsatisfactory Partially Prof.
+Proficient Proficient
 
- Partially Prof. Proficient Advanced Partially Prof. Proficient Advanced
+Partially Prof. Proficient Advanced Partially Prof. Proficient Advanced
 
- 800 800
+Grade 6 Scale Score Grade 6 Scale Score
 
- Grade 6 Scale Score Grade 6 Scale Score
- 600 600
+Grade 5 Scale Score Grade 5 Scale Score
 
- 400 400
-
- 200 200
-
- 200 400 600 800 1000 200 400 600 800 1000
-
- Grade 5 Scale Score Grade 5 Scale Score
-
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## {.archive-slide background-image="slides/04.webp" background-size="contain" background-color="#14140f"}
@@ -87,20 +75,20 @@ Growth &amp; Effectiveness to Scale Transformation
 ```{=html}
 <div class="archive-text">Within Method Results
 
- Are school results within each analysis method
- invariant to monotonic scale transformations?
- In general, yes
- With the exception of the Lord transformation, correlations of VAM
- effects/residuals were all high (above 0.85). With three years of data
- the correlations were all above 0.98 and above.
- Correlations for median student growth percentiles across the 7
- scales and 3 years were 1.0
- The Lord Transformation “breaks” the VAM estimates because it
- radically alters the interval nature of the scale.
- Standardizing scores with layered VAM models obviates most issues
- associated with non-intervalness.
+Are school results within each analysis method
+invariant to monotonic scale transformations?
+In general, yes
+With the exception of the Lord transformation, correlations of VAM
+effects/residuals were all high (above 0.85). With three years of data
+the correlations were all above 0.98 and above.
+Correlations for median student growth percentiles across the 7
+scales and 3 years were 1.0
+The Lord Transformation “breaks” the VAM estimates because it
+radically alters the interval nature of the scale.
+Standardizing scores with layered VAM models obviates most issues
+associated with non-intervalness.
 
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## {.archive-slide background-image="slides/05.webp" background-size="contain" background-color="#14140f"}
@@ -108,677 +96,93 @@ Growth &amp; Effectiveness to Scale Transformation
 ```{=html}
 <div class="archive-text">Across Method Results
 
- Fixing the monotonic scale transformation, are
- school results across analysis method similar?
- It depends.
- With three years (2006/Grade 6) of data, the correlation between
- median student growth percentiles and VAM effects/residuals
- (SEP3ML3) were 0.91. Standardizing the percentiles increases
- correlation to 0.95.
- With 1 year (2004/Grade 4) and 2 years (2005/Grade 5) data, the
- correlations were 0.72 and 0.84
- Outliers suggest relationship with prior achievement, especially with
- 1 year (2004/Grade 4)
+Fixing the monotonic scale transformation, are
+school results across analysis method similar?
+It depends.
+With three years (2006/Grade 6) of data, the correlation between
+median student growth percentiles and VAM effects/residuals
+(SEP3ML3) were 0.91. Standardizing the percentiles increases
+correlation to 0.95.
+With 1 year (2004/Grade 4) and 2 years (2005/Grade 5) data, the
+correlations were 0.72 and 0.84
+Outliers suggest relationship with prior achievement, especially with
+1 year (2004/Grade 4)
 
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## {.archive-slide background-image="slides/06.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Figure 4a: Grade 4 (2004) Layered Model versus Quantile Regression Estimates (SEP3ML Scale)
- by Prior Achievement Quintile (School Size &gt;= 50)
+by Prior Achievement Quintile (School Size &gt;= 50)
 
- 100
- Prior Achievement
- 1st Quintile
- 90
- 2nd Quintile
- 3rd Quintile
- 80 ● ●
- ● ●● ● ● ● 4th Quintile
- ● ●●● ●● ●●
- ●● ●●● ●
- ●
+Prior Achievement
+1st Quintile
+2nd Quintile
+3rd Quintile
+● ●● ● ● ● 4th Quintile
 
 Median Student Growth Percentile
- 70
- ●
- ● 5th Quintile
- ● ● ●
- ●● ●● ●
- ●● ●
- ●●
- ● ● ● ● ●● ●●
- ●● ●
- ●
- ● ●●●●
- ●●
- ●
- ●
- ●
- ●
- ●●
- ●●● ●●● ●
- ● ●
- ● ●●
- ●
- ●●
- ●
- ●
- ●●●●
- ●●●●●
- ●●
- ●●
- ●● ●
- ●●
- ●●● ●
- ●●●●
- ●
- 60 ● ● ● ● ●●
- ●
- ●
- ●
- ● ● ●
- ●●●●●
- ●●●●
- ●
- ●● ●
- ●● ●●●●
- ● ●
- School Size
- ● ●●●●● ● ●
- ●
- ●●
- ●●●
- ●●●
- ●
- ●
- ●
- ●●●
- ● ●● ●●●
- ●
- ●●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●●● ●
- ● ●●●●●● ●
- ● ●
- ●●●●●●
- ●
- ●
- ●●
- ●
- ●
- ● ●
- ●
- ●
- ●●
- ●
- ●
- ●
- ●●●
- ●●●
- ●●●
- ●
- ●●● ● 25 Students
- 50 ●● ●● ●
- ●●●●● ●●
- ●
- ●●
- ●●●
- ●
- ●
- ●●
- ●
- ●● ●●
- ●●●●
- ●●●
- ● ●●●●● ●
- ●●
- ●●●●●
- ●
- ●●
- ●
- ●●
- ●●●
- ● ●●
- ●
- ●
- ●●●●
- ●
- ●●●●●
- ●
- ●
- ●
- ●●
- ●
- 50 Students
- ● ●● ●●●●
- ● ●
- ●
- ●
- ●●
- ●●●●
- ●
- ●●●
- ●
- ●
- ●
- ●
- ●●
- ●
- ●●
- ●
- ●●
- ●● ● ●
- ●● ●● ● ●●● ● ● ●
- ● ● ● ●●
- ●●● ●
- ●
- 100 Students
- ● ●●
- ● ● ● ●
- ● ●●●● ● ●
- 40 ● ●● ●● ●●
- ●●●
- ●●
- ●
- ●●
- ●
- ●●●●
- ● ●●●
- ●
- ●
- ●● ●●●●●
- ●
- ● ●● ●
- ●
- ●●
- ● ●●
- ●
- ●
- ●●
- ●
- ●
- ●
- ●●
- ●
- ●●
- ●
- ●●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ● ●
- ● 250 Students
- ● ● ●●● ● ●●
- ● ● ● ●●
- ●● ●●
- ●
- 30 ● ●
- ●●
- ● ●
- ● ●● ●●● ●●●●
- ●
- 500 Students
- ● ● ●●● ●●
- ●
- ●
- ●
- 20
- ●
- 10
+● 5th Quintile
+School Size
+●●● ● 25 Students
+50 Students
+100 Students
+● 250 Students
+500 Students
 
- 0
-
- −0.5 −0.4 −0.3 −0.2 −0.1 0.0 0.1 0.2 0.3 0.4 0.5
-
- Value−Added Estimate from Layered Model</div>
+Value−Added Estimate from Layered Model</div>
 ```
 
 ## {.archive-slide background-image="slides/07.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Figure 4b: Grade 5 (2005) Layered Model versus Quantile Regression Estimates (SEP3ML Scale)
- by Prior Achievement Quintile (School Size &gt;= 50)
+by Prior Achievement Quintile (School Size &gt;= 50)
 
- 100
- Prior Achievement
- 1st Quintile
- 90
- 2nd Quintile
- ●●
- ● ● 3rd Quintile
- 80 ●
- ● ●●● ● ●
- 4th Quintile
- ● ● ●●●
- ●
+Prior Achievement
+1st Quintile
+2nd Quintile
+● ● 3rd Quintile
+4th Quintile
 
 Median Student Growth Percentile
- 5th Quintile
- 70
- ●●●
- ● ●●●
- ●●
- ●
- ●
- ●
- ●● ● ●
- ●● ●●●● ●
- ●●
- ● ●
- ●●●● ●
- ●● ●
- ●● ●
- ● ●●
- ● ●● ●
- ●●●●●
- ●
- ●●
- ●
- ●
- ●
- ●●●
- ●
- ●
- ● ●
- ●
- ●●●
- 60 ●
- ●●●●● ●
- ●●
- ●●
- ●●
- ●●
- ●
- ●● ●
- ●●
- ●
- ●●
- ●●●
- ●●
- ● ●● ●● ●
- ● School Size
- ●●●●●
- ●●
- ●●
- ● ●
- ●●
- ●●
- ● ●●
- ●
- ●●
- ●
- ●
- ●
- ●●
- ●●●
- ●
- ●●
- ●●
- ●
- ●
- ●
- ●
- ● ●
- ●●●● ●
- ●
- ●
- ●
- ●●● ●
- ●
- ●
- ●
- ●●
- ●
- ●●
- ●
- ●
- ●●●●
- ●
- ●
- ●
- ●●
- ●● ●
- ●
- ●●
- ●
- ●
- ●●
- ●●●● ● ●
- 25 Students
- ● ●●● ●●●
- ●
- ● ●
- ●
- 50 ●●●●
- ●●●●
- ● ●●●
- ●●
- ●
- ●
- ●●
- ●
- ●
- ●●
- ●
- ●
- ●
- ●
- ●●
- ●●●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ● ●
- ●●
- ● ●
- ●● ● ● 50 Students
- ● ●●●
- ●●●
- ●
- ●
- ●
- ●●
- ●
- ●
- ●
- ●
- ●●●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●●
- ●
- ●●●●
- ●
- ●
- ●●
- ●
- ●
- ●
- ●●●
- ●
- ●●
- ●
- ●●●
- ●
- ●●●
- ● ●
- ●●●
- ●
- ●●
- ●●●
- ● ●
- ●●●
- ●
- ●
- ●
- ●●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●● ●
- ●●
- ●● 100 Students
- 40
- ● ● ●
- ●●
- ● ●●
- ●
- ●
- ●
- ●
- ●
- ●●●●●
- ●●
- ●●
- ●●
- ●
- ● ●●
- ●●●●
- ● ●
- ●●
- ● ●
- ●● ●●●
- ●● ●
- ●●
- ●●
- ● ●●●
- ●
- ●
- ●
- ●
- ●
- ●
- ●●
- ●●
- ● ● ●●
- ●●●●●
- ●
- ●● ●
- ●● ●
- ● 250 Students
+5th Quintile
+● School Size
+25 Students
+●● ● ● 50 Students
+●● 100 Students
+● 250 Students
 
- 30 ● ● ● ●●●●●● ●
- ● 500 Students
- ● ● ●●
- ● ●
- ●● ● ●
- ●●
- ●
- 20
- ●
+● 500 Students
 
- 10
-
- 0
-
- −0.5 −0.4 −0.3 −0.2 −0.1 0.0 0.1 0.2 0.3 0.4 0.5
-
- Value Added−Estimate from Layered Model</div>
+Value Added−Estimate from Layered Model</div>
 ```
 
 ## {.archive-slide background-image="slides/08.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">Figure 4c: Grade 6 (2006) Layered Model versus Quantile Regression Estimates (SEP3ML Scale)
- by Prior Achievement Quintile (School Size &gt;= 50)
+by Prior Achievement Quintile (School Size &gt;= 50)
 
- 100
- Prior Achievement
- 1st Quintile
- 90
- 2nd Quintile
+Prior Achievement
+1st Quintile
+2nd Quintile
 
- ● ● 3rd Quintile
- 80
- ●
- ●●
- 4th Quintile
- ●
- ●●●●●●●●
- ●
- ● ●
- ●
+● ● 3rd Quintile
+4th Quintile
 
 Median Student Growth Percentile
- 70 ●●●● 5th Quintile
- ●● ● ●●
- ●● ●
- ●
- ●
- ● ●
- ● ●
- ●●●●●
- ● ●
- ●●
- ●
- ●● ●●
- ●
- 60
- ●●●●
- ●●
- ● ●●
- ●
- ●
- ●
- ●
- ●
- ●●●
- ● ●
- ●●
- ●
- ●
- ●
- ●
- ● ●
- ●●●● School Size
- ● ●●●●
- ●●
- ●
- ●●●
- ●
- ●● ●●●
- ●
- ●●●●
- ● ●●●
- ●●●
- ●●
- ●
- ●● ●
- ●
- ●●●
- ●
- ●●
- ●●
- ●●
- ●
- ●●
- ●
- ●●●
- ●
- ●
- ●
- ●●●
- ●●
- ●
- ●●●●
- ●●
- 25 Students
- 50 ●
- ●
- ●●●●
- ●
- ●
- ●
- ●
- ●
- ●
- ●
- ●●
- ●
- ●
- ●●
- ●
- ●●●
- ●
- ●●
- ●
- ●
- ●
- ●
- ●
- ●●●●●●
- ●
- ● ●
- ● 50 Students
- ●
- ●●●●
- ●●
- ●●●
- ●●
- ●●●
- ●●
- ●
- ●●●
- ●
- ●
- ● ●
- ● ●●●●
- ●● ●
- ● ●
- ●
- ●
- ●
- ● ●●
- ●●●●
- ●●●●●●
- ●
- ●●
- ● ●
- ●
- ●●●
- ●●●●
- ●●●●●
- 100 Students
- 40 ● ●●●● ●
- ●●●●●●●
- ● ● ●
- ●●
- ●●●●●
- ● ●
- ●● ● 250 Students
- ●●●● ●●●
- ●●● ●
- 30 ●
- ●
- ●
- ●
- ●● ●
- ●● ●
- ● ● 500 Students
- ●●
- 20 ●
- ●
- ●
- 10
+70 ●●●● 5th Quintile
+●●●● School Size
+25 Students
+● 50 Students
+100 Students
+●● ● 250 Students
+● ● 500 Students
 
- 0
-
- −0.5 −0.4 −0.3 −0.2 −0.1 0.0 0.1 0.2 0.3 0.4 0.5
-
- Value−Added Estimate from Layered Model</div>
+Value−Added Estimate from Layered Model</div>
 ```
 
 ## {.archive-slide background-image="slides/09.webp" background-size="contain" background-color="#14140f"}
@@ -786,18 +190,18 @@ Median Student Growth Percentile
 ```{=html}
 <div class="archive-text">Within Method Results: Redux
 
- What is the relationship between prior
- achievement and the VAM effects/median SGP?
- Correlation between median SGP and prior achievement (mean
- theta, SEP3ML3) were 0.34, 0.18, and 0.31 in 2004, 2005, and
- 2006, respectively.
- Correlation between VAM effects/residuals and prior achievement
- (mean theta, SEP3ML3) were -0.11, -0.09, and 0.39 in 2004, 2005,
- and 2006, respectively.
- Still investigating why the dramatic switch in the VAM model.
- What correlation passes the smell test?
+What is the relationship between prior
+achievement and the VAM effects/median SGP?
+Correlation between median SGP and prior achievement (mean
+theta, SEP3ML3) were 0.34, 0.18, and 0.31 in 2004, 2005, and
+2006, respectively.
+Correlation between VAM effects/residuals and prior achievement
+(mean theta, SEP3ML3) were -0.11, -0.09, and 0.39 in 2004, 2005,
+and 2006, respectively.
+Still investigating why the dramatic switch in the VAM model.
+What correlation passes the smell test?
 
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## {.archive-slide background-image="slides/10.webp" background-size="contain" background-color="#14140f"}
@@ -805,30 +209,30 @@ Median Student Growth Percentile
 ```{=html}
 <div class="archive-text">Within Method Results: Redux
 
- What is the relationship between school poverty
- and the VAM effects/median SGP?
- Correlation between median SGP and percent free/reduced lunch
- were -0.42, -0.25, and -0.39 in 2004, 2005, and 2006, respectively.
- Correlation between VAM effects/residuals and percent free/reduced
- lunch were -0.15, -0.06, and -0.51 in 2004, 2005, and 2006,
- respectively.
- What correlation passes the smell test?
+What is the relationship between school poverty
+and the VAM effects/median SGP?
+Correlation between median SGP and percent free/reduced lunch
+were -0.42, -0.25, and -0.39 in 2004, 2005, and 2006, respectively.
+Correlation between VAM effects/residuals and percent free/reduced
+lunch were -0.15, -0.06, and -0.51 in 2004, 2005, and 2006,
+respectively.
+What correlation passes the smell test?
 
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## {.archive-slide background-image="slides/11.webp" background-size="contain" background-color="#14140f"}
 
 ```{=html}
 <div class="archive-text">References
- Hastie, T. J. and Tibshirani, R. J. (1990).
- Generalized Additive Models.
- Chapman &amp; Hall/CRC, New York, NY.
- Wood, S. N. (2006).
- Generalized Additive Models: An Introduction with R.
- Chapman &amp; Hall/CRC, New York, NY.
+Hastie, T. J. and Tibshirani, R. J. (1990).
+Generalized Additive Models.
+Chapman &amp; Hall/CRC, New York, NY.
+Wood, S. N. (2006).
+Generalized Additive Models: An Introduction with R.
+Chapman &amp; Hall/CRC, New York, NY.
 
- D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
+D. Briggs &amp; D. Betebenner Growth, Effectiveness, and Scale Transformation</div>
 ```
 
 ## About this copy {.archive-about}
